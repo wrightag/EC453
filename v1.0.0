@@ -78,11 +78,14 @@
                         <br><br>Please be active in the chat and join/create games often. Just don't be a try hard.
                         <br><br>Help make the100.io better <a class="btn btn-danger" href="https://www.the100.io/supporters" class="btn btn-primary">Become a <span class="glyphicon glyphicon-fire"></span> Supporter</a>
 			<br>
+			<p style="padding: 15px; background-color: rgb(135, 30, 30); font-size: 12px;"><strong>NOTICE:</strong><br>
+			PLEASE SET ALL NEW GAME SESSIONS TO GROUP ONLY.<br>
+			We are a group that likes to play together and would prefer not to be a platform for making lfg games. Just make sure to tick the group only box when you make the session.</p>
 		</div>
 		<div class="well well-dark-transparent">
 			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">News and Upcoming Events</h3>
 			- DEC 23 - <a href="https://www.reddit.com/r/DestinyTheGame/comments/3xzyxu/bungie_yearend_update_2015/?" target="_new" style="color: LightBlue !important;">Bungie Year End Update</a> (news)<br>
-			- JAN 08 - <a href="#" style="color: yellow !important;">TRIALS OF OSIRIS RETURNS</a><br><br>
+			- JAN 15 - <a href="#" style="color: yellow !important;">TRIALS OF OSIRIS RETURNS</a><br><br>
 		</div>
 	</div>
 	<div id="rewards" class="tab-pane">
@@ -95,37 +98,37 @@
 		<div class="row">
         		<div class="col-md-6">
 				<div class="well well-dark-transparent">
-					<h3 style="font-size: 16px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Vanguard Nightfall Strike [01/05]</h3>
-					<img src="http://i.imgur.com/2eB8X5g.jpg" width=100% 9alt="nf Banner" title="nightfall Banner"><br><br>
+					<h3 style="font-size: 16px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Vanguard Nightfall Strike [01/12]</h3>
+					<img src="http://i.imgur.com/wVR0z9H.jpg" width=100% 9alt="nf Banner" title="nightfall Banner"><br><br>
 				</div>
 			</div>
 			<div class="col-md-6">
 				<div class="well well-dark-transparent">
-					<h3 style="font-size: 16px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">King's Fall Challenge Mode [01/05]</h3>
+					<h3 style="font-size: 16px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">King's Fall Challenge Mode [01/12]</h3>
 					<!--WARPRIEST "http://i.imgur.com/xR36lPt.jpg"  -->
 					<!--GOLGY     "http://i.imgur.com/MtG4Vli.jpg"  -->
 					<!--ORYX      "http://i.imgur.com/kFUPWM1.jpg"  -->
-					<img src="http://i.imgur.com/kFUPWM1.jpg" width=100%  alt="kf Banner" title="King's Fall Challenge"><br><br>
+					<img src="http://i.imgur.com/xR36lPt.jpg" width=100%  alt="kf Banner" title="King's Fall Challenge"><br><br>
 				</div>
 			</div>
 		</div>
 	</div>
 	<div id="NF" class="tab-pane">
 		<div class="well well-dark-transparent text-center">
-			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Vanguard Nightfall Strike [01/05]</h3>
-			<img src="http://i.imgur.com/2eB8X5g.jpg" width=75%  alt="nf Banner" title="nightfall Banner"><br>
+			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Vanguard Nightfall Strike [01/12]</h3>
+			<img src="http://i.imgur.com/wVR0z9H.jpg" width=75%  alt="nf Banner" title="nightfall Banner"><br>
 		</div>
 	</div>
 	<div id="KF" class="tab-pane">
 		<div class="well well-dark-transparent text-center">
-			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">King's Fall Challenge Mode [01/05]</h3>
+			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">King's Fall Challenge Mode [01/12]</h3>
 			<!--WARPRIEST "http://i.imgur.com/xR36lPt.jpg"  -->
 			<!--GOLGY     "http://i.imgur.com/MtG4Vli.jpg"  -->
 			<!--ORYX      "http://i.imgur.com/kFUPWM1.jpg"  -->
-			<img src="http://i.imgur.com/kFUPWM1.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
+			<img src="http://i.imgur.com/xR36lPt.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
 		</div>
 	</div>
-	<div id="RR" class="tab-pane active">
+	<div id="RR" class="tab-pane">
 		<div class="well well-dark-transparent text-center">
 			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">the100.io Raid Race 2016</h3>
 			<img src="http://i.imgur.com/dms9hgM.gif" width=100%  alt="rr Banner" title="raid race Banner"><br><br>
@@ -328,17 +331,17 @@
 	</div>
 	<div id="CoO" class="tab-pane">
 		<div class="well well-dark-transparent text-center">
-			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Court of Oryx Tier III Boss [01/05]</h3>
+			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Court of Oryx Tier III Boss [01/12]</h3>
 			<!--KALGOOR "http://i.imgur.com/bdyXnP1.jpg"  -->
 			<!--THALNOK "http://i.imgur.com/KZhvFuK.jpg"  -->
 			<!--BALWUR  "http://i.imgur.com/ldqCcJI.jpg"  -->
-			<img src="http://i.imgur.com/KZhvFuK.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
+			<img src="http://i.imgur.com/ldqCcJI.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
 		</div>
 	</div>
 	<div id="QW" class="tab-pane">
 		<div class="well well-dark-transparent text-center">
-			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Queens Wrath Bounties [01/05]</h3>
-			<img src="http://i.imgur.com/NkTwL8D.jpg" width=75%  alt="qw Banner" title="queens wrath Banner"><br>
+			<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 15px 0px 15px;">Queens Wrath Bounties [01/12]</h3>
+			<img src="http://i.imgur.com/LcCsf6G.jpg" width=75%  alt="qw Banner" title="queens wrath Banner"><br>
 		</div>
 	</div>
 	<div id="HoJ" class="tab-pane">
