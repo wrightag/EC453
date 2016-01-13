@@ -548,11 +548,11 @@
 	</div>
 	<div id="AD" class="tab-pane">
 		<div class="well well-dark-transparent">
-			<h3 style="font-size: 34px; text-align:center; margin: 0px 0px 30px; padding: 15px 0px 15px;">GUNSMITH ARMSDAY [12-16]</h3>
+			<h3 style="font-size: 34px; text-align:center; margin: 0px 0px 30px; padding: 15px 0px 15px;">GUNSMITH ARMSDAY [01/13]</h3>
 			<br>
 			<div class="section">                  
                         	<h3 style="font-size: 28px; text-align:center; border-top: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 15px 0px 15px;">ORDERS TO BE PICKED UP</h3><br>             	         
-				<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/3275294463-zarinaea-d">Häkke Zarinaea-D (Auto Rifle)</a></h3>          
+				<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/2790109142-suros-pdx-41">SUROS PDX-41 (Pulse Rifle)</a></h3>          
 				<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
                                 	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
 						<div class="col-xs-1" style="padding: 8px; text-align:center;">Roll</div>
@@ -561,20 +561,20 @@
                                                                                        
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">1</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">SC Holo, SD Thermal || Crowd Control || Focused Fire || High Caliber Rounds, Speed Reload, Smallbore</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Hammer Forged/Oiled Frame, Spray and Play, Lightweight/Hand Laid Stock</div>
                                	 	</div>
                                
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">2</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">GB Iron, LD Watchdog || Hot Swap || Spray and Play || High Caliber Rounds, Hand Loaded, Smallbore</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">High Caliber Rounds/Casket Mag, Zen Moment, Lightweight/Rifled Barrel</div>
                                 	</div>
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">3</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">SC Holo, LB Assault || Last Resort || Persistence || Single Point Sling, Speed Reload, Rifled Barrel</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Perfect Balance/Oiled Frame, Icarus, Lightweight/Smallbore</div>
                                 	</div>
                         	</div>
 				<br><br>
-				<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/3275294460-suros-ari-41">SUROS ARI-41 (Auto Rifle)</a></h3>          
+				<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/2781253737-suros-jlb-42">Suros JLB-42 (Rocket Launcher)</a></h3>          
 				<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
                                 	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
 						<div class="col-xs-1" style="padding: 8px; text-align:center;">Roll</div>
@@ -583,20 +583,20 @@
                                                                                        
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">1</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-12/SPO-26/SPO-57 || PERFECT BALANCE/OILED FRAME || SPEED RELOAD/REINFORCED BARREL || HIDDEN HAND</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Void, Warhead Verniers/Soft Launch/Countermass, Heavy Payload/Speed Reload, Tracking, Perfect Balance/Lightweight</div>
                                	 	</div>
                                
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">2</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-12/SPO-28/SPO-57 || HAND FORGED/CASKET MAG || SNAPSHOT/RIFLED BARREL || OUTLAW</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Solar, Warhead Verniers/Smart Drift Control/Countermass, Single Point Sling/Speed Reload, Cluster Bombs, Perfect Balance/Snapshot</div>
                                 	</div>
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">3</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-12/SPO-26/SPO-57 || HAND FORGED/CASKET MAG || SNAPSHOT/RIFLED BARREL || PARTIAL REFUND</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Arc, ???????</div>
                                 	</div>
                         	</div>
 				<br><br>
-				<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/2790109143-suros-pdx-45">SUROS PDX-45 (Pulse Rifle)</a></h3>          
+				<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/2781253736-suros-jlb-47">Suros JLB-47 (Rocket Launcher)</a></h3>          
 				<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
                   			<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
 									<div class="col-xs-1" style="padding: 8px; text-align:center;">Roll</div>
@@ -605,20 +605,20 @@
                                                                                        
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">1</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-19, SPO-28, SRO-37 || Fitted Stock, Appended Magazine || Headseeker || Snapshot, Smallbore</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Confined Launch / Smart Drift Control / Hard Launch | Heavy Payload / Flared Magwell | Vacuum | Perfect Balance / Snapshot (SOLAR)</div>
                                	 	</div>
                                
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">2</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-19, SPO-26, SRO-41 || Perfect Balance, Feather Mag || Take a Knee || Single Point Sling, Reinforced Barrel</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Confined Launch / Smart Drift Control / Hard Launch | Heavy Payload / Flared Magwell | Reactive Reload | Perfect Balance / Lightweight (SOLAR)</div>
                                 	</div>
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">3</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-19, SPO-26, SRO-41 || Fitted Stock, Appended Magazine || Counterbalance || Lightweight, Smallbore</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Agressive Launch / Linear Compensator / Hard Launch | Single Point Sling / Flared Magwell | Vacuum | Perfect Balance / Quickdraw (SOLAR)</div>
                                 	</div>
                         	</div>
 				<br><br>
-				<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/3629543171-aoife-rua-d">Häkke Aoife Rua-D (Sniper Rifle)</a></h3>          
+				<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/4185761115-strongbow-d">Häkke Strongbow-D (Shotgun)</a></h3>          
 				<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
                                 	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
 						<div class="col-xs-1" style="padding: 8px; text-align:center;">Roll</div>
@@ -627,20 +627,20 @@
                                                                                        
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">1</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">ATB LONG RANGE/ATD RAPTOR || SURPLUS || FEEDING FRENZY || PERFECT BALANCE/QUICKDRAW/INJECTION MOLD</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Smart Drift Control / Linear Compensator | Crowd Control | Relentless Tracker | Flared Magwell / Perfect Balance / Hand-Laid Stock (SOLAR)</div>
                                	 	</div>
                                
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">2</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">ATA SCOUT/ATD RAPTOR || COUNTERBALANCE || GUERILLA FIGHTER || PERFECT BALANCE/SNAPSHOT/APPENDED MAG</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Soft Balistics / Accurized Ballistics | Danger Close | Battle Runner | Lightweight / Fitted Stock / Hand-Laid Stock (ARC)</div>
                                 	</div>
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">3</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">ATA SCOUT/ATD RAPTOR || UNFLINCHING || FEEDING FRENZY || PERFECT BALANCE/SNAPSHOT/APPENDED MAG</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">Smart Drift Control / Agressive Ballistics | Army of One | Battle Runner | Lightweight / Perfect Balance / Hand-Laid Stock (VOID)</div>
                                 	</div>
                         	</div>
 				<br><br>
-				<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/3629543168-uzume-rr4">Omolon Uzume RR4 (Sniper Rifle)</a></h3>          
+				<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/568506537-hakke-tamar-d">Häkke Tamar-D (Sniper Rifle)</a></h3>          
 				<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
                                 	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
 						<div class="col-xs-1" style="padding: 8px; text-align:center;">Roll</div>
@@ -649,16 +649,16 @@
                                                                                        
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">1</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">VOID || Corvo SS2, Falcon SS1 || Grenadier || Lightweight, Hand-Laid Stock || Zen Moment, Mulligan</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">(Arc) Raptor/surpus/Spray and play/Explosive rounds, quickdraw or appended mag</div>
                                	 	</div>
                                
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">2</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">Solar || Corvo SS2, Aquila SS4 || Grenadier || Single Point Sling, Rifled Barrel || Unflinching, Eye of the Storm</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">(Solar) Raptor/counterbalance/whose next/Explosive rounds, quickdraw or appended mag</div>
                                 	</div>
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
                                         	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">3</div>
-                                        	<div class="col-xs-11" style="padding: 5px 8px;">Arc || Corvo SS2, Aquila SS4 || Outlaw || Single Point Sling, Reinforced Barrel || Zen Moment, Mulligan</div>
+                                        	<div class="col-xs-11" style="padding: 5px 8px;">(Void) Scout or raptor/surplus/spray and play/Explosive rounds, quickdraw or appended mag</div>
                                 	</div>
                         	</div>
 				<br><br>				
@@ -671,24 +671,24 @@
                                         	<div class="col-xs-8" style="padding: 8px; text-align:center;">Description</div>
                                 	</div>                                               
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
-                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3275294462-arminius-d">Häkke Arminius-D (Auto Rifle)</a></div>
-                                        	<div class="col-xs-8" style="padding: 5px 8px;">Excellent for close quarters maps, the will shred your enemies. Definitely needs better stability. A little range won't hurt either</div>
+                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3275294463-zarinaea-d">Häkke Zarinaea-D (Auto Rifle)</a></div>
+                                        	<div class="col-xs-8" style="padding: 5px 8px;">Solid auto rifle, definitely want some stability and range perks to help out here, and a damage perk wouldn't be a miss either.</div>
                                	 	</div>
                                 	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
-                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3883201936-uffern-hc4">Omolon Uffern HC4 (Hand Cannon)</a></div>
-                                        	<div class="col-xs-8" style="padding: 5px 8px;">Perks to seek: [Sights] Sureshot IS, [1] LitC, [2] Braced Frame/Rifled Barrel, [3] Outlaw, or [1] Mulligan, Third Eye, [2] Extended Mag, [3] Triple Tap, Firefly</div>
+                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/2222692418-hakke-lyudmila-d">Häkke Lyudmila-D (Pulse Rifle)</a></div>
+                                        	<div class="col-xs-8" style="padding: 5px 8px;">Since the great Pulse Rifle nerf of late 2015, this is a steaming pile of garbage... allegedly.</div>
                                	 	</div>
 									<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
-                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/2790109140-herja-d">Häkke Herja-D (Pulse Rifle)</a></div>
-                                        	<div class="col-xs-8" style="padding: 5px 8px;">Medium High Red Death class pulse rifle boasting an above average reload speed, top of class stabliltiy (suck it allfate), below average range, and class average magazine. This bad boy will likely be a crucible laser, but the range leave much to be desired.</div>
+                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/4185761114-jingukogo-d">Häkke Jingukogo-D (Shotgun)</a></div>
+                                        	<div class="col-xs-8" style="padding: 5px 8px;">Solid Shotgun, and as always for shotguns, range is the name of the game.</div>
+                               	 	</div>
+					<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3629543171-aoife-rua-d">Häkke Aoife Rua-D (Sniper Rifle)</a></div>
+                                        	<div class="col-xs-8" style="padding: 5px 8px;"> Solid Sniper rifle, slightly better stats than the Tamar, can also roll surplus.</div>
                                	 	</div>
 					<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
                                         	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3629543168-uzume-rr4">Omolon Uzume RR4 (Sniper Rifle)</a></div>
-                                        	<div class="col-xs-8" style="padding: 5px 8px;">This is your medium low impact higher rate of fire eye of sol class sniper. It has a second-highest in-class reload speed, average range, above average stability and bottom of the barrel aim assist, I can't say there's anything too special about this sniper.</div>
-                               	 	</div>
-					<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
-                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3629543169-eirene-rr4">Omolon Eirene RR4 (Sniper Rifle)</a></div>
-                                        	<div class="col-xs-8" style="padding: 5px 8px;">This little gem sits on top of the Her Benevolence/The Supremacy/1000-Yard Stare RoF class and poops on all of them with its 3 points higher worth of impact (likely a graphic error). Boasting more range than all others in that class, the only thing left to be desired is stability.</div>
+                                        	<div class="col-xs-8" style="padding: 5px 8px;">High RoF Sniper Rifle, I would love to get my hands on one of these with unflinching/zen moment, hand-laid stock, and performance bonus, which could make this a deadly, fast, and accurate, 2 body shot sniper.</div>
                                	 	</div>					
                         	</div>
 				<br><br>
