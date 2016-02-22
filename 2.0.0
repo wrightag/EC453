@@ -1,0 +1,260 @@
+</div></div>
+
+<!-- Begin Button Bar -->
+  
+<div class="row">
+
+  <div class="col-sm-9">
+    <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#updates"><small>What's New</small></button>
+    
+    <div class="modal fade" id="updates" role="dialog">
+      <div class="modal-dialog">
+        
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal">&times;</button>
+            <h4 class="modal-title">What's New</h4>
+          </div>
+          <div class="modal-body" style="overflow:auto; height:500px;">
+            <p><b>Updated 01/29/2016</b></p>
+            <p>Retired the "Featured Guardian" section, replacing it with a Live Feed of Bungie's Twitter account.</p>
+            <p><b>Updated 12/14/2015</b></p>
+            <p>Added a dropdown menu to the "Featured Clip" section to link to previous epic moments.</p>
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+          </div>
+        </div>
+        
+      </div>
+    </div>
+  </div>
+  
+  <div class="col-sm-3">
+    <div class="btn-group btn-group-justified">
+      <div class="btn-group">
+        <button type="button" class="btn btn-primary btn-xs dropdown-toggle" data-toggle="dropdown">
+          Links <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu dropdown-menu-right" role="menu">
+          <li class="dropdown-header">Useful Links</li>
+          <li><a href="https://the100io.zendesk.com/hc/en-us/articles/209698137-Chat-Markdown-Formating" target="_blank">The100 chat formatting help</a></li>
+          <li><a href="https://www.reddit.com/r/DestinyTheGame" target="_blank">Destiny The Game Reddit</a></li>
+          <li><a href="http://www.destinychecklist.net/" target="_blank">Destiny Checklist</a></li>
+          
+      <li><a href="http://jpwilsondesigns.com/destiny/lightcalculator.html" target="_blank">Light Level & Infusion Calculator</a></li>
+          <li><a href="http://destinytracker.com/destiny/query" target="_blank">Destiny Game Query Aggregator</a></li>
+          <li><a href="http://destinyghosthunter.net/" target="_blank">Ghost Hunter</a></li>
+          <li><a href="https://www.reddit.com/r/DestinyTheGame/comments/40zf4y/trials_rewards_pattern_seems_to_be_accurate_so_far/" target="_blank">Trials of Osiris Rewards Pattern</a></li>
+          <li class="divider"></li>
+          <li class="dropdown-header">Maps</li>
+          <li><a href="https://i.imgur.com/lxjVwij.png" target="_blank">Dreadnaught Special Chest Map</a></li>
+          <li><a href="https://goo.gl/LMKBZQ">Calcified Fragments Map</a></li>
+       
+
+          <li class="divider"></li>
+          <li class="dropdown-header">Guides</li>
+          <li><a href="https://www.reddit.com/r/DestinyTheGame/comments/3zqqp3/if_you_are_having_trouble_with_the_black_spindle/" target="_blank">Black Spindle Boss Guide</a></li>
+              <li><a href="https://www.reddit.com/r/DestinyTheGame/comments/3vu5sq/list_of_exotic_armors_with_possible_stat_rolls/" target="_blank">Glass Needle Reforging Guide</a></li>
+        </ul>
+      </div>
+      <div class="btn-group">
+        <button type="button" class="btn btn-primary btn-xs dropdown-toggle" data-toggle="dropdown">
+          EC730 <span class="caret"></span>
+        </button>
+        <ul class="dropdown-menu dropdown-menu-right" role="menu">
+          <li class="dropdown-header">Clans</li>
+          <li><a href="https://www.bungie.net/en/Clan/Detail/264619" target="_blank">Underpants Gnomes </a></li>
+          <li><a href="https://www.bungie.net/en/Clan/Detail/166059" target="_blank">All Guardian Everything</a></li>
+
+<li></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+</div>
+  
+<!-- End Button Bar -->
+
+<!-- Introduction & clan invite -->
+
+<div class="row">
+
+  <div class="col-sm-3">
+    <ul class="nav nav-pills nav-stacked">
+      <li class="active"><a data-toggle="tab" href="#home"><small><span class="glyphicon glyphicon-home" style="padding-right:7px"></span> Home</small></a></li>
+      <li><a data-toggle="tab" href="#welcome"><small><span class="glyphicon glyphicon-star" style="padding-right:7px"></span> Welcome</small></a></li>
+      <li><a data-toggle="tab" href="#message"><small><span class="glyphicon glyphicon-bookmark" style="padding-right:7px" data-toggle="tooltip" title="Updated 10/4/15"></span> Announcements</small></a></li>
+      <li><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:7px"></span> Latest News</small></a></li>
+</li>
+      <li><a data-toggle="tab" href="#twitch"><small><span class="glyphicon glyphicon-facetime-video" style="padding-right:7px"></span> E730 Twitch</small></a></li>
+    </ul>
+  </div>
+
+  <div class="col-sm-9">
+    <div class="tab-content">
+
+      <div id="home" class="tab-pane fade in active">
+
+        
+        <img src="https://i.imgur.com/0TQ70sE.png" width="100%" alt="WP">
+        <br />
+        <h4 align=center>Iron Banner: February 23rd - 29th</h4>
+
+      </div>
+
+      <div id="welcome" class="tab-pane fade">
+        <div class="alert alert-info">
+          <h3>Welcome to Echo Company 730!</h3>
+          If you’re new to our group, feel free to post a gaming session and people in this group will be more than happy to join in. We have an awesome group of guardians here who are always willing to lend a hand and have fun, so please don’t hesitate to ask for help.<br /><br />
+          If you're looking to join a clan, everyone's welcome in the Underpants Gnomes!<br><br>
+          <a class="btn btn-primary " href="https://www.bungie.net/en/Clan/Detail/264619" target="_blank">Join our Bungie Clan</a>
+        </div>
+      </div>
+      
+      <!-- Begin Mod Message -->
+      
+      <div id="message" class="tab-pane fade">
+        <div class="alert alert-info" style="overflow:auto; height:300px;">
+          <p class="text-center" id="top"><b>Announcements</b></p>
+          <br />
+          <p><b>Updated 10/26/15</b></p>
+          <br />
+          <b>Message about Raids and reserving spots </b>
+          <br />
+          <br />
+          <p>Greetings fellow EC730 guardians,</p>
+          <br />
+          <p>If you are posting a Raid session and trying to reserve spots for other guardians, please <b><i>change the fireteam size</i></b> to accommodate for the folks you are saving spots for. It really sucks when an EC730 member joins the raid as a non-reserve but doesn’t make the cut because the person whom the spot is reserved for didn’t officially join the session.</p>
+          <br />
+          <p>So, please keep that in mind when posting a Raid session. If you'd rather use the same Raid group each time, please use Xbox Live to coordinate these sessions so that there is no confusion in the group.</p>
+          <br />
+          <p>Thanks in advance, and happy Raiding.</p>
+          <br />
+          <p class="text-right">- EC730 Mod team</p>
+          <hr />
+          <p><small><b><i>Helpful tip of the day: Check the "What's New" button often to give you a glance at the updates your mods make for our group. </i></b></small></p>
+        </div>
+      </div>
+      
+      <!-- End Mod Message -->
+      
+      <!-- Begin Latest News -->
+      
+      <div id="news" class="tab-pane fade">
+        <div class="alert alert-info" style="overflow:auto; height:300px;">
+          <div class="row">
+            <div class="col-sm-12">
+              <p><b>Latest News:</b></p>
+ - <a href="https://www.bungie.net/en/News/News?aid=44372">This week at Bungie - 2/18</a><br />
+- <a href="https://www.bungie.net/en/News/News?aid=44361">Update on Crimson Days Ghost drops</a><br />
+ - <a href="https://www.bungie.net/en/News/News?aid=44324">Patch Notes 2.1.1</a><br />
+- <a href="https://www.reddit.com/r/DestinyTheGame/comments/3wxda3/oryx_challenge_mode_guidefaq/">Oryx Challenge Mode guide</a>
+<br />
+  - <a href="https://www.reddit.com/r/DestinyTheGame/comments/3vwpuc/weekly_challenge_mode_discussion_megathread/">Golgoroth Challenge Mode strat</a><br />
+   
+   - <a href="https://www.reddit.com/r/DestinyTheGame/comments/3v08we/everything_you_need_to_know_about_the_warpriest/">WarPriest Challenge Mode info</a><br />
+              
+                - <a href="https://www.reddit.com/r/DestinyTheGame/comments/3t5als/the_full_iron_banner_guide_to_ranking_up_fast_now/">Iron Banner Level-up Guide</a><br />     
+              </p>
+            </div>
+            
+          </div>
+        </div>
+      </div>
+      
+      <!-- End Latest News -->
+ <!-- Begin Twitch Streams -->
+      
+      <div id="twitch" class="tab-pane fade">
+        <div class="alert alert-info" style="overflow:auto; height:300px;">
+          <div class="row">
+            <div class="col-sm-12">
+     <a href="http://twitch.tv/WidiamET"><img src="http://streambadge.com/twitch/dark/WidiamET.png" width="200" height="40" alt="WidiamET's Streambadge"></a>
+<a href="http://twitch.tv/The_UBERginger"><img src="http://streambadge.com/twitch/dark/The_UBERginger.png" width="200" height="40" alt="The_UBERginger's Streambadge"></a>
+<a href="http://twitch.tv/Deveaux_Gaming"><img src="http://streambadge.com/twitch/dark/Deveaux_Gaming.png" width="200" height="40" alt="Deveaux_Gaming's Streambadge"></a>
+<a href="http://twitch.tv/doctornugu"><img src="http://streambadge.com/twitch/dark/doctornugu.png" width="200" height="40" alt="doctornugu's Streambadge"></a>
+<a href="http://twitch.tv/EasyE609"><img src="http://streambadge.com/twitch/dark/EasyE609.png" width="200" height="40" alt="EasyE609's Streambadge"></a>
+
+<a href="http://twitch.tv/I_B_Ready"><img src="http://streambadge.com/twitch/dark/I_B_Ready.png" width="200" height="40" alt="I_B_Ready's Streambadge"></a>                
+            </div>
+            
+          </div>
+        </div>
+      </div>
+      
+      <!-- End Twitch Streams -->
+      
+    </div>
+  </div>
+</div>
+
+<!-- End Introduction & Clan invite -->
+
+<!-- Begin Featured Clip -->
+
+<div class="row">
+  <hr />
+  
+  
+  <div class="col-md-6">
+    <div class="alert alert-info">
+      <ul class="list-inline">
+        <li><h4>Featured Clip</h4></li>
+        <li class="dropdown pull-right"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></a>
+          <ul class="dropdown-menu dropdown-menu-right">
+            <li class="dropdown-header">Official EC730</li>
+            <li><a href="https://www.youtube.com/watch?v=rEyfP9Oi0F4" target="_blank">The Phenoms - Nov. Iron Banner</a></li>
+            <li><a href="https://www.youtube.com/watch?v=8zGIgey0LVQ" target="_blank">"The Solstice..." - Oct. Iron Banner</a></li>
+            <li class="dropdown-header">WidiamET</li>
+            <li><a href="https://www.youtube.com/watch?v=Muwr1Y_MnEw" target="_blank">I Tried: A Destiny Year 2 Montage</a></li>
+          </ul>
+        </li>
+      </ul>
+      <b><a href="https://www.youtube.com/watch?v=E-XzLmOZ57g" target="_blank"><img src="http://i.imgur.com/7qABJg4.jpg" width="100%"/></a></b>
+      <br />
+      <p class="text-center"><b>Clip of the Week:</b> PoisonEye7<br /><small><b><a href="https://www.youtube.com/watch?v=E-XzLmOZ57g" target="_blank">Username Checks Out: An Iron Banner Rift Montage</a></b></small></p>
+      <br />
+      <p class="text-center"><a class="btn btn-danger" href="http://goo.gl/forms/aIK86ESc0T" target="_blank">Submit a clip</a></p>
+    </div>
+  </div>
+  
+  <!-- End Featured clip -->
+  
+
+  <!-- Begin Featured Guardian -->
+  
+<div class="col-sm-6">
+  <div class="col-sm-6">
+    <h5>Twitter Feeds</h5>
+  </div>
+  <div class="col-sm-6">
+    <ul class="nav nav-pills nav-justified">
+      <li class="dropdown active"><a data-toggle="pill" href="#bungie">Bungie</a></li>
+      <li><a data-toggle="pill" href="#ubisoft">Division</a></li>
+    </ul>
+  </div>
+  
+  <div class="tab-content">
+    <div id="bungie" class="tab-pane fade in active">
+      <a class="twitter-timeline" href="https://twitter.com/Bungie" data-widget-id="693219384748302336" height="275">Tweets by @Bungie</a>
+    </div>
+    <div id="ubisoft" class="tab-pane fade">
+      <a class="twitter-timeline" href="https://twitter.com/TheDivisionGame" data-widget-id="696037057647349760" height="275">Tweets by @TheDivisionGame</a>
+    </div>
+  </div>
+
+</div>
+
+<!--End Featured Guardian -->
+
+<!--End Mod Columns -->
+
+<hr />
+
+
+
+<!--Begin Mods & Sherpa info -->
+
+<div class="col-sm-3">
