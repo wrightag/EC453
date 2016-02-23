@@ -128,8 +128,8 @@
   <div class="col-sm-9">
     <div class="tab-content">
     <!-- Begin Home Message -->
-      <div id="home" class="tab-pane fade">
-        <div class="alert alert-info">
+      <div id="home" class="tab-pane fade active">
+        <div class="alert alert-info" style="overflow:auto; height:300px;">
           <h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Welcome To Our Shit Show!</h3>
 			    Where the expectation of skill is directly proportional to the expectations of Neo to fall asleep before a session. The average age is old enough to remember Tamagotchis, with one exception (Animosity), who is old enough to remember walking with dinosaurs. Some of us are parents and some of us act like children. Most games are at night, after G.T.L. in NJ (6 PM EST). Stay active in the chat so you know who is being made fun of this week.
           <br><br>Help make the100.io better <a class="btn btn-default" href="https://www.the100.io/supporters" class="btn btn-primary">Become a <span class="glyphicon glyphicon-fire"></span> Supporter</a>
@@ -141,7 +141,7 @@
       </div>
       
       <!-- Begin Nightfall Message -->
-      <div id="nf" class="tab-pane fade">
+      <div id="NF" class="tab-pane fade">
         <div class="alert alert-info" style="overflow:auto; height:300px;">
           <p class="text-center" id="top"><b>Announcements</b></p>
           <br />
