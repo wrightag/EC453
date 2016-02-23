@@ -1,5 +1,5 @@
 <!-- Begin Button Bar -->
-<nav class="navbar navbar-default" style="font-size: 13px;">
+<nav class="navbar navbar-inverse" style="background-color: #202020; border: 1px solid #202020; border-bottom: 1px solid white; font-size: 13px; color: #428bca; border-collapse:collapse;">
 	<div class="container-fluid">
 		<a class="navbar-logo" href="#home"><img src="http://i.imgur.com/6ViL9Wb.png" alt="EC453 Banner" title="Echo Company 453 Banner"></a>
 		<div class="navbar-header">
@@ -12,19 +12,7 @@
 		<div class="collapse navbar-collapse" id="myNavbar">
 			<ul class="nav navbar-nav">
 				<li class="dropdown">
-					<a class="dropdown-toggle" data-toggle="dropdown" href="#">CLAN INFO <span class="caret"></span></a>
-					<ul class="dropdown-menu dropdown-menu-right" role="menu">
-            <li><a href="https://www.bungie.net/en/Clan/Xbox/633932" target="_blank">Bungie Clan Page</a></li>
-            <li><a href="https://www.reddit.com/r/EchoCompany453/" target="_blank">Reddit Clan Page</a></li>
-            <li class="dropdown-header">Clan Emblem</li>
-            <li><a href="https://i.imgur.com/F1j6TG8.jpg" target="_blank">Rune of the Machine</a></li>
-            <li class="dropdown-header">Clan Shader</li>
-            <li><a href="https://www.reddit.com/r/DestinyTheGame/wiki/redeemablecodes" target="_blank">Oracle 99</a></li>
-            <li class="dropdown-header">the100.io</li>
-            <li><a href="https://the100io.zendesk.com/hc/en-us" target="_blank">FAQ's</a></li>
-            <li><a href="https://www.the100.io/help" target="_blank">Help Chat</a></li>
-            <li><a href="https://www.the100.io/credits" target="_blank">Hall of Fame</a></li>
-          </ul>
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
 				</li>
 				<li class="dropdown">
 					<a class="dropdown-toggle" data-toggle="dropdown" href="#">LINKS <span class="caret"></span></a>
@@ -104,19 +92,20 @@
 <div class="row">
 
   <div class="col-sm-3">
-    <ul class="nav nav-pills nav-stacked" style="border: 2px solid #8d8c91;">
-      <li class="active" style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#home"><small><span class="glyphicon glyphicon-home" style="padding-right:7px"></span> Home</small></a></li>
-      <li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:7px"></span> Latest News</small></a></li>
-      <li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#info"><small>Clan Info</small></a></li>
-			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#NF"><small>Vanguard Nightfall</small></a></li>
-			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#IB"><small>Iron Banner</small></a></li>
-			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#ToO"><small>Trials of Osiris</small></a></li>
-			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#KF"><small>Kings Fall<br> Weekly Challenge</small></a></li>
-			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#CoO"><small>Court of Oryx T3</small></a></li>
-			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#VI"><small>Material Exhange</small></a></li>
-			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#twitch"><small><span class="glyphicon glyphicon-facetime-video" style="padding-right:7px"></span> Twitch Streams</small></a></li>
-      <li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#bungie"><small>Bungie Twitter</small></a></li>
-			<li><a data-toggle="tab" href="#bungiehelp"><small>Bungie Help Twitter</small></a></li>
+    <ul class="nav nav-pills nav-stacked" style="background-color: #202020; color: #428bca; border-collapse:collapse;">
+      <li class="active" style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#home"><small><span class="glyphicon glyphicon-home" style="padding-right:7px"></span> &nbsp;&nbsp;Home</small></a></li>
+      <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:7px"></span> &nbsp;&nbsp;News</small></a></li>
+      <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#info"><small>Clan Info</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#NF"><small>Vanguard Nightfall</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#IB"><small>Iron Banner</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#ToO"><small>Trials of Osiris</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#KF"><small>Kings Fall<br> Weekly Challenge</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#CoO"><small>Court of Oryx T3</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#VI"><small>Material Exhange</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#twitch"><small><span class="glyphicon glyphicon-facetime-video" style="padding-right:7px"></span> &nbsp;&nbsp;Twitch</small></a></li>
+      <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungie"><small>Bungie Twitter</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungiehelp"><small>Bungie Help Twitter</small></a></li>
+			<li><a data-toggle="tab" href="#division"><small>The Division</small></a></li>
 			
 			<!-- INACTIVE EVENTS
 			<li><a data-toggle="tab" style="text-align:center;" href="#QW">QUEEN'S WRATH BOUNTIES</a></li>
@@ -1002,8 +991,22 @@
 				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
 					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Clan Information</h3>
 					<p>Our Clan, Echo Company 453 / Too Many Cooks, exists for earning achievements such as: Raiding Party, Flawless Raider, Strength of the Pack, etc.  Communication and Scheduling should be done through this site.</p>
-						<ul class="list-inline">
-							<li><a href="https://www.bungie.net/en/Clan/Xbox/633932" target="_blank"class="btn btn-success">Join EC453 Clan</a></li>
+						<ul class="list-inline text-center">
+							<li class="dropdown">
+								<a class="btn btn-success dropdown-toggle" data-toggle="dropdown" href="#">CLAN INFO <span class="caret"></span></a>
+								<ul class="dropdown-menu dropdown-menu-right" role="menu">
+			            <li><a href="https://www.bungie.net/en/Clan/Xbox/633932" target="_blank">Bungie Clan Page</a></li>
+			            <li><a href="https://www.reddit.com/r/EchoCompany453/" target="_blank">Reddit Clan Page</a></li>
+			            <li class="dropdown-header">Clan Emblem</li>
+			            <li><a href="https://i.imgur.com/F1j6TG8.jpg" target="_blank">Rune of the Machine</a></li>
+			            <li class="dropdown-header">Clan Shader</li>
+			            <li><a href="https://www.reddit.com/r/DestinyTheGame/wiki/redeemablecodes" target="_blank">Oracle 99</a></li>
+			            <li class="dropdown-header">the100.io</li>
+			            <li><a href="https://the100io.zendesk.com/hc/en-us" target="_blank">FAQ's</a></li>
+			            <li><a href="https://www.the100.io/help" target="_blank">Help Chat</a></li>
+			            <li><a href="https://www.the100.io/credits" target="_blank">Hall of Fame</a></li>
+			          </ul>
+							</li>
 							<li><a target="_blank" href="http://destinytracker.com/clans/633932/too-many-cooks" class="btn btn-primary">EC453 Stats</a></li>
 							<li><a href="mailto:echocompany453@gmail.com" target="_blank" class="btn btn-warning">Contact the Mods</a></li>
 						</ul>
