@@ -1,121 +1,147 @@
-</div></div>
-
 <!-- Begin Button Bar -->
-  
-<div class="row">
-
-  <div class="col-sm-9">
-    <button type="button" class="btn btn-primary btn-xs" data-toggle="modal" data-target="#updates"><small>What's New</small></button>
-    
-    <div class="modal fade" id="updates" role="dialog">
-      <div class="modal-dialog">
-        
-        <div class="modal-content">
-          <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">&times;</button>
-            <h4 class="modal-title">What's New</h4>
+<nav class="navbar navbar-default" style="font-size: 13px;">
+	<div class="container-fluid">
+		<a class="navbar-logo" href="#home"><img src="http://i.imgur.com/6ViL9Wb.png" alt="EC453 Banner" title="Echo Company 453 Banner"></a>
+		<div class="navbar-header">
+			<button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+				<span class="icon-bar"></span>
+			</button>
+		</div>
+		<div class="collapse navbar-collapse" id="myNavbar">
+			<ul class="nav navbar-nav">
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">CLAN INFO <span class="caret"></span></a>
+					<ul class="dropdown-menu dropdown-menu-right" role="menu">
+            <li><a href="https://www.bungie.net/en/Clan/Xbox/633932" target="_blank">Bungie Clan Page</a></li>
+            <li><a href="https://www.reddit.com/r/EchoCompany453/" target="_blank">Reddit Clan Page</a></li>
+            <li class="dropdown-header">Clan Emblem</li>
+            <li><a href="https://i.imgur.com/F1j6TG8.jpg" target="_blank">Rune of the Machine</a></li>
+            <li class="dropdown-header">Clan Shader</li>
+            <li><a href="https://www.reddit.com/r/DestinyTheGame/wiki/redeemablecodes" target="_blank">Oracle 99</a></li>
+            <li class="dropdown-header">the100.io</li>
+            <li><a href="https://the100io.zendesk.com/hc/en-us" target="_blank">FAQ's</a></li>
+            <li><a href="https://www.the100.io/help" target="_blank">Help Chat</a></li>
+            <li><a href="https://www.the100.io/credits" target="_blank">Hall of Fame</a></li>
+          </ul>
+				</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">LINKS <span class="caret"></span></a>
+					<ul class="dropdown-menu dropdown-menu-right" role="menu">
+            <li class="dropdown-header">Useful Links</li>
+            <li><a href="https://www.reddit.com/r/DestinyTheGame" target="_blank">Destiny The Game Reddit</a></li>
+            <li><a href="http://www.destinychecklist.net/" target="_blank">Destiny Checklist</a></li>
+            <li><a href="http://jpwilsondesigns.com/destiny/lightcalculator.html" target="_blank">Light Level & Infusion Calculator</a></li>
+            <li><a href="http://destinytracker.com/" target="_blank">Destiny Tracker</a></li>
+            <li><a href="http://destinyghosthunter.net/" target="_blank">Ghost Hunter</a></li>
+            <li><a href="https://www.reddit.com/r/DestinyTheGame/comments/40zf4y/trials_rewards_pattern_seems_to_be_accurate_so_far/" target="_blank">Trials of Osiris Rewards Pattern</a></li>
+            <li class="divider"></li>
+            <li class="dropdown-header">tbd</li>
+          </ul>
+				</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">TRIALS INFO<span class="caret"></span></a>
+          <ul class="dropdown-menu">
+						<li><a data-toggle="tab" href="#ToO">TRIALS OF OSIRIS</a></li>
+						<li class="divider"></li>
+						<li class="dropdown-header">TRIALS of OSIRIS MAPS</li>
+          		<li><a href="https://i.imgur.com/wg2zxwV.jpg" target="_blank">Burning Shrine</a></li>
+							<li><a href="https://i.imgur.com/0Z4OMG8.jpg" target="_blank">Widows Court</a></li>
+							<li><a href="https://i.imgur.com/gxNZNeQ.png" target="_blank">Thieves Den</a></li>
+							<li><a href="https://i.imgur.com/L0CSjrC.png" target="_blank">Cauldren</a></li>
+							<li><a href="http://i.imgur.com/eOFnAU6.jpg" target="_blank">Anomaly</a></li>
+							<li><a href="http://i.imgur.com/sA4NqIO.jpg" target="_blank">Asylum</a></li>
+							<li><a href="http://i.imgur.com/FvH9Ise.jpg" target="_blank">Firebase Delphi</a></li>
+							<li><a href="http://i.imgur.com/cbz1pBH.jpg" target="_blank">Shores of Time</a></li>
+							<li><a href="http://i.imgur.com/YGUKWZP.jpg" target="_blank">Rusted Lands</a></li>
+							<li><a href="http://i.imgur.com/j6y6inI.jpg" target="_blank">Drifter</a></li>
+							<li><a href="http://i.imgur.com/Gyt4S9r.jpg" target="_blank">Pantheon</a></li>
+					</ul>
+				</li>
+				<li class="dropdown">
+					<a class="dropdown-toggle" data-toggle="dropdown" href="#">VENDORS <span class="caret"></span></a>
+					<ul class="dropdown-menu"">
+					  <li><a data-toggle="tab" style="padding: 8px 10px;" href="#rewards">ACTIVITY REWARDS</a></li>
+						<li><a data-toggle="tab" href="#VI">VENDOR MATERIAL EXCHANGE </a></li>
+						<li><a data-toggle="tab" href="#AD">GUNSMITH ARMSDAY, BANSHEE</a></li>
+						<li><a href="http://whereisxur.com/" target="_blank" style="color: black !important;">XUR, AGENT OF THE NINE</a>
+						<li><a data-toggle="tab" style="padding: 8px 20px;" href="#HoJ">HOUSE OF JUDGEMENT, VARIKS</a></li>		
+					</ul>
+				</li>
+				<li>
+					<a data-toggle="modal" data-target="#updates">PAGE UPDATES</a>
+					<div class="modal fade" id="updates" role="dialog">
+            <div class="modal-dialog">
+              
+              <div class="modal-content">
+                <div class="modal-header">
+                  <button type="button" class="close" data-dismiss="modal">&times;</button>
+                  <h4 class="modal-title">What's New</h4>
+                </div>
+                <div class="modal-body" style="overflow:auto; height:500px;">
+                  <p><b>Updated 02/22/2016</b></p>
+                  <p>Initial release v2.0.0.</p>
+                </div>
+                <div class="modal-footer">
+                  <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+                </div>
+              </div>
+            </div>
           </div>
-          <div class="modal-body" style="overflow:auto; height:500px;">
-            <p><b>Updated 01/29/2016</b></p>
-            <p>Retired the "Featured Guardian" section, replacing it with a Live Feed of Bungie's Twitter account.</p>
-            <p><b>Updated 12/14/2015</b></p>
-            <p>Added a dropdown menu to the "Featured Clip" section to link to previous epic moments.</p>
-          </div>
-          <div class="modal-footer">
-            <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-          </div>
-        </div>
-        
-      </div>
-    </div>
-  </div>
-  
-  <div class="col-sm-3">
-    <div class="btn-group btn-group-justified">
-      <div class="btn-group">
-        <button type="button" class="btn btn-primary btn-xs dropdown-toggle" data-toggle="dropdown">
-          Links <span class="caret"></span>
-        </button>
-        <ul class="dropdown-menu dropdown-menu-right" role="menu">
-          <li class="dropdown-header">Useful Links</li>
-          <li><a href="https://the100io.zendesk.com/hc/en-us/articles/209698137-Chat-Markdown-Formating" target="_blank">The100 chat formatting help</a></li>
-          <li><a href="https://www.reddit.com/r/DestinyTheGame" target="_blank">Destiny The Game Reddit</a></li>
-          <li><a href="http://www.destinychecklist.net/" target="_blank">Destiny Checklist</a></li>
-          
-      <li><a href="http://jpwilsondesigns.com/destiny/lightcalculator.html" target="_blank">Light Level & Infusion Calculator</a></li>
-          <li><a href="http://destinytracker.com/destiny/query" target="_blank">Destiny Game Query Aggregator</a></li>
-          <li><a href="http://destinyghosthunter.net/" target="_blank">Ghost Hunter</a></li>
-          <li><a href="https://www.reddit.com/r/DestinyTheGame/comments/40zf4y/trials_rewards_pattern_seems_to_be_accurate_so_far/" target="_blank">Trials of Osiris Rewards Pattern</a></li>
-          <li class="divider"></li>
-          <li class="dropdown-header">Maps</li>
-          <li><a href="https://i.imgur.com/lxjVwij.png" target="_blank">Dreadnaught Special Chest Map</a></li>
-          <li><a href="https://goo.gl/LMKBZQ">Calcified Fragments Map</a></li>
-       
-
-          <li class="divider"></li>
-          <li class="dropdown-header">Guides</li>
-          <li><a href="https://www.reddit.com/r/DestinyTheGame/comments/3zqqp3/if_you_are_having_trouble_with_the_black_spindle/" target="_blank">Black Spindle Boss Guide</a></li>
-              <li><a href="https://www.reddit.com/r/DestinyTheGame/comments/3vu5sq/list_of_exotic_armors_with_possible_stat_rolls/" target="_blank">Glass Needle Reforging Guide</a></li>
-        </ul>
-      </div>
-      <div class="btn-group">
-        <button type="button" class="btn btn-primary btn-xs dropdown-toggle" data-toggle="dropdown">
-          EC730 <span class="caret"></span>
-        </button>
-        <ul class="dropdown-menu dropdown-menu-right" role="menu">
-          <li class="dropdown-header">Clans</li>
-          <li><a href="https://www.bungie.net/en/Clan/Detail/264619" target="_blank">Underpants Gnomes </a></li>
-          <li><a href="https://www.bungie.net/en/Clan/Detail/166059" target="_blank">All Guardian Everything</a></li>
-
-<li></li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-</div>
-  
+				</li>
+			</ul>
+			<ul class="nav navbar-nav navbar-right">
+				<li><a href="" data-toggle="modal" data-target="#status_help">SET <span class="glyphicon glyphicon-user"></span> STATUS</a></li>
+			</ul>
+		</div>
+	</div>
+</nav>		
 <!-- End Button Bar -->
 
-<!-- Introduction & clan invite -->
+<!-- Nav Pills -->
 
 <div class="row">
 
   <div class="col-sm-3">
     <ul class="nav nav-pills nav-stacked">
       <li class="active"><a data-toggle="tab" href="#home"><small><span class="glyphicon glyphicon-home" style="padding-right:7px"></span> Home</small></a></li>
-      <li><a data-toggle="tab" href="#welcome"><small><span class="glyphicon glyphicon-star" style="padding-right:7px"></span> Welcome</small></a></li>
-      <li><a data-toggle="tab" href="#message"><small><span class="glyphicon glyphicon-bookmark" style="padding-right:7px" data-toggle="tooltip" title="Updated 10/4/15"></span> Announcements</small></a></li>
       <li><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:7px"></span> Latest News</small></a></li>
-</li>
-      <li><a data-toggle="tab" href="#twitch"><small><span class="glyphicon glyphicon-facetime-video" style="padding-right:7px"></span> E730 Twitch</small></a></li>
+      <li><a data-toggle="tab" style="padding: 8px 10px;" href="#NF">VANGUARD NIGHTFALL</a></li>
+			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#IB">IRON BANNER</a></li>
+			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#KF">KING'S FALL WEEKLY CHALLENGE</a></li>
+			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#CoO">COURT OF ORYX TIER III</a></li>
+			<li><a data-toggle="tab" href="#VI">VENDOR MATERIAL EXCHANGE </a></li>
+			<li><a data-toggle="tab" href="#twitch"><small><span class="glyphicon glyphicon-facetime-video" style="padding-right:7px"></span> E730 Twitch</small></a></li>
+      
+			<!-- INACTIVE EVENTS
+			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#ToO">TRIALS OF OSIRIS</a></li>
+			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#QW">QUEEN'S WRATH BOUNTIES</a></li>
+			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#CD">CRIMSON DAYS</a></li>
+			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#PoE">PRISON OF ELDERS</a></li>
+			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#RR">the100.io Raid Race</a></li>
+			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#SRL">SPARROW RACING LEAGUE</a></li>
+			*********************** -->
     </ul>
   </div>
 
   <div class="col-sm-9">
     <div class="tab-content">
-
-      <div id="home" class="tab-pane fade in active">
-
-        
-        <img src="https://i.imgur.com/0TQ70sE.png" width="100%" alt="WP">
-        <br />
-        <h4 align=center>Iron Banner: February 23rd - 29th</h4>
-
-      </div>
-
-      <div id="welcome" class="tab-pane fade">
+    <!-- Begin Home Message -->
+      <div id="home" class="tab-pane fade">
         <div class="alert alert-info">
-          <h3>Welcome to Echo Company 730!</h3>
-          If you’re new to our group, feel free to post a gaming session and people in this group will be more than happy to join in. We have an awesome group of guardians here who are always willing to lend a hand and have fun, so please don’t hesitate to ask for help.<br /><br />
-          If you're looking to join a clan, everyone's welcome in the Underpants Gnomes!<br><br>
-          <a class="btn btn-primary " href="https://www.bungie.net/en/Clan/Detail/264619" target="_blank">Join our Bungie Clan</a>
-        </div>
+          <h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Welcome To Our Shit Show!</h3>
+			    Where the expectation of skill is directly proportional to the expectations of Neo to fall asleep before a session. The average age is old enough to remember Tamagotchis, with one exception (Animosity), who is old enough to remember walking with dinosaurs. Some of us are parents and some of us act like children. Most games are at night, after G.T.L. in NJ (6 PM EST). Stay active in the chat so you know who is being made fun of this week.
+          <br><br>Help make the100.io better <a class="btn btn-default" href="https://www.the100.io/supporters" class="btn btn-primary">Become a <span class="glyphicon glyphicon-fire"></span> Supporter</a>
+			    <br><br><p style="padding: 15px; background-color: rgb(135, 30, 30); font-size: 12px;"><strong>NOTICE:</strong><br>
+			    PLEASE SET ALL NEW GAME SESSIONS TO GROUP ONLY.<br>
+		      We are a group that likes to play together and would prefer not to be a platform for making lfg games. Just make sure to tick the group only box when you make the session. Please be active in the chat and join/create games often. Just don't be a try hard.</p><br>
+		      <p><small><b><i>Helpful tip of the day: Check the "What's New" button often to give you a glance at the updates your mods make for our group. </i></b></small></p>
+		    </div>
       </div>
       
-      <!-- Begin Mod Message -->
-      
-      <div id="message" class="tab-pane fade">
+      <!-- Begin Nightfall Message -->
+      <div id="nf" class="tab-pane fade">
         <div class="alert alert-info" style="overflow:auto; height:300px;">
           <p class="text-center" id="top"><b>Announcements</b></p>
           <br />
@@ -132,7 +158,7 @@
           <br />
           <p>Thanks in advance, and happy Raiding.</p>
           <br />
-          <p class="text-right">- EC730 Mod team</p>
+          <p class="text-right">- EC45 Mod team</p>
           <hr />
           <p><small><b><i>Helpful tip of the day: Check the "What's New" button often to give you a glance at the updates your mods make for our group. </i></b></small></p>
         </div>
