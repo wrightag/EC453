@@ -91,7 +91,7 @@
 
 <div class="row">
 
-  <div class="col-sm-3">
+  <div class="col-sm-3" style="padding-right: 5px;">
     <ul class="nav nav-pills nav-stacked" style="background-color: #202020; color: #428bca; border-collapse:collapse;">
       <li class="active" style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#home"><small><span class="glyphicon glyphicon-home" style="padding-right:7px"></span> &nbsp;&nbsp;Home</small></a></li>
       <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:7px"></span> &nbsp;&nbsp;News</small></a></li>
@@ -117,7 +117,7 @@
     </ul>
   </div>
 
-  <div class="col-sm-9">
+  <div class="col-sm-9" style="padding-left: 5px;">
     <div class="tab-content">
       <div id="home" class="tab-pane fade in active">
         <div class="well well-dark-transparent" style="overflow:auto; height:550px;">
@@ -133,9 +133,10 @@
       <div id="news" class="tab-pane fade">
         <div class="well well-dark-transparent" style="overflow:auto; height:550px;">
           <h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
-					- FEB 18 - <a href="https://www.reddit.com/r/DestinyTheGame/comments/46hkfo/this_week_at_bungie_02182016/" target="_blank" style="color: lightblue !important;">THIS WEEK AT BUNGIE </a> (news)<br>
-					- FEB 23 - <a data-toggle="tab" href="#IB" style="color: green;">IRON BANNER RETURNS</a><br>
-					- FEB 26 - <a data-toggle="tab" href="#ToO" style="color: yellow;">TRIALS OF OSIRIS RETURNS</a><br>
+					- FEB 18 - <a href="https://www.reddit.com/r/DestinyTheGame/comments/46hkfo/this_week_at_bungie_02182016/" target="_blank" style="color: lightblue !important;">THIS WEEK AT BUNGIE </a> (news)<br><br>
+					- FEB 23 - <a data-toggle="tab" href="#IB" style="color: green;">IRON BANNER RETURNS</a><br><br>
+					- FEB 26 - <a data-toggle="tab" href="#ToO" style="color: yellow;">TRIALS OF OSIRIS RETURNS</a><br><br>
+					
 		    </div>
       </div>
       
@@ -473,6 +474,7 @@
 			                  <td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/3536592559-tormods-bellows">Tormod's Bellows</a></td>
 			               </tr>
 			            </tbody></table>
+			            <p style="padding:10px 0 0; border-top:1px solid #aaaaaa;"><a data-toggle="tab" href="#news">Back to News</a></p>
 			          </div>
 			</div>
 			<div id="ToO" class="tab-pane">
@@ -549,6 +551,7 @@
 		                                	</div>                               
 		                        	</div>
 		                	</div>
+		    	<p style="padding:10px 0 0; border-top:1px solid #aaaaaa;"><a data-toggle="tab" href="#news">Back to News</a></p>
 				</div>
 			</div>
 			<div id="AD" class="tab-pane">
