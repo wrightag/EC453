@@ -318,8 +318,8 @@
 			</div>
 			<div id="IB" class="tab-pane">
 				<div class="well well-dark-transparent" style="background-color: #294638; overflow:auto; height:550px;">
-					<h3 style="font-size: 24px; text-align:center; padding: 5px 0px 5px;"><img src="https://i.imgur.com/GOYBL1f.jpg" width="100%" alt="Iron Banner" title="Iron Banner logo"></h3>
-			    <h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Crucible Mode - Clash</h3>
+					<img src="https://i.imgur.com/GOYBL1f.jpg" style="text-align:center;" width="100%" alt="Iron Banner" title="Iron Banner logo"></h3>
+			    		<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Crucible Mode - Clash</h3>
 			            <!--<p>Iron Banner is gone for now! See you next time!</p>-->
 			            <p style="font-size:16px;margin-bottom:0px;"><strong>Rank 1</strong></p>
 			            <table style="padding:5px;  1px solid white;">
