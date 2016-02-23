@@ -104,32 +104,34 @@
 <div class="row">
 
   <div class="col-sm-3">
-    <ul class="nav nav-pills nav-stacked">
-      <li class="active"><a data-toggle="tab" href="#home"><small><span class="glyphicon glyphicon-home" style="padding-right:7px"></span> Home</small></a></li>
-      <li><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:7px"></span> Latest News</small></a></li>
-      <li><a data-toggle="tab" style="padding: 8px 10px;" href="#NF">VANGUARD NIGHTFALL</a></li>
-			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#IB">IRON BANNER</a></li>
-			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#KF">KING'S FALL WEEKLY CHALLENGE</a></li>
-			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#CoO">COURT OF ORYX TIER III</a></li>
-			<li><a data-toggle="tab" href="#VI">VENDOR MATERIAL EXCHANGE </a></li>
-			<li><a data-toggle="tab" href="#twitch"><small><span class="glyphicon glyphicon-facetime-video" style="padding-right:7px"></span> E730 Twitch</small></a></li>
-      
+    <ul class="nav nav-pills nav-stacked" style="border: 2px solid #8d8c91;">
+      <li class="active" style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#home"><small><span class="glyphicon glyphicon-home" style="padding-right:7px"></span> Home</small></a></li>
+      <li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:7px"></span> Latest News</small></a></li>
+      <li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#info"><small>Clan Info</small></a></li>
+			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#NF"><small>Vanguard Nightfall</small></a></li>
+			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#IB"><small>Iron Banner</small></a></li>
+			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#ToO"><small>Trials of Osiris</small></a></li>
+			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#KF"><small>Kings Fall<br> Weekly Challenge</small></a></li>
+			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#CoO"><small>Court of Oryx T3</small></a></li>
+			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#VI"><small>Material Exhange</small></a></li>
+			<li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#twitch"><small><span class="glyphicon glyphicon-facetime-video" style="padding-right:7px"></span> Twitch Streams</small></a></li>
+      <li style="border-bottom: 2px solid #8d8c91;"><a data-toggle="tab" href="#bungie"><small>Bungie Twitter</small></a></li>
+			<li><a data-toggle="tab" href="#bungiehelp"><small>Bungie Help Twitter</small></a></li>
+			
 			<!-- INACTIVE EVENTS
-			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#ToO">TRIALS OF OSIRIS</a></li>
-			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#QW">QUEEN'S WRATH BOUNTIES</a></li>
-			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#CD">CRIMSON DAYS</a></li>
-			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#PoE">PRISON OF ELDERS</a></li>
-			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#RR">the100.io Raid Race</a></li>
-			<li><a data-toggle="tab" style="padding: 8px 10px;" href="#SRL">SPARROW RACING LEAGUE</a></li>
+			<li><a data-toggle="tab" style="text-align:center;" href="#QW">QUEEN'S WRATH BOUNTIES</a></li>
+			<li><a data-toggle="tab" style="text-align:center;" href="#CD">CRIMSON DAYS</a></li>
+			<li><a data-toggle="tab" style="text-align:center;" href="#PoE">PRISON OF ELDERS</a></li>
+			<li><a data-toggle="tab" style="text-align:center;" href="#RR">the100.io Raid Race</a></li>
+			<li><a data-toggle="tab" style="text-align:center;" href="#SRL">SPARROW RACING LEAGUE</a></li>
 			*********************** -->
     </ul>
   </div>
 
   <div class="col-sm-9">
     <div class="tab-content">
-    <!-- Begin Home Message -->
-      <div id="home" class="tab-pane fade active">
-        <div class="alert alert-info" style="overflow:auto; height:300px;">
+      <div id="home" class="tab-pane fade in active">
+        <div class="well well-dark-transparent" style="overflow:auto; height:550px;">
           <h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Welcome To Our Shit Show!</h3>
 			    Where the expectation of skill is directly proportional to the expectations of Neo to fall asleep before a session. The average age is old enough to remember Tamagotchis, with one exception (Animosity), who is old enough to remember walking with dinosaurs. Some of us are parents and some of us act like children. Most games are at night, after G.T.L. in NJ (6 PM EST). Stay active in the chat so you know who is being made fun of this week.
           <br><br>Help make the100.io better <a class="btn btn-default" href="https://www.the100.io/supporters" class="btn btn-primary">Become a <span class="glyphicon glyphicon-fire"></span> Supporter</a>
@@ -139,148 +141,889 @@
 		      <p><small><b><i>Helpful tip of the day: Check the "What's New" button often to give you a glance at the updates your mods make for our group. </i></b></small></p>
 		    </div>
       </div>
-      
-      <!-- Begin Nightfall Message -->
-      <div id="NF" class="tab-pane fade">
-        <div class="alert alert-info" style="overflow:auto; height:300px;">
-          <p class="text-center" id="top"><b>Announcements</b></p>
-          <br />
-          <p><b>Updated 10/26/15</b></p>
-          <br />
-          <b>Message about Raids and reserving spots </b>
-          <br />
-          <br />
-          <p>Greetings fellow EC730 guardians,</p>
-          <br />
-          <p>If you are posting a Raid session and trying to reserve spots for other guardians, please <b><i>change the fireteam size</i></b> to accommodate for the folks you are saving spots for. It really sucks when an EC730 member joins the raid as a non-reserve but doesn’t make the cut because the person whom the spot is reserved for didn’t officially join the session.</p>
-          <br />
-          <p>So, please keep that in mind when posting a Raid session. If you'd rather use the same Raid group each time, please use Xbox Live to coordinate these sessions so that there is no confusion in the group.</p>
-          <br />
-          <p>Thanks in advance, and happy Raiding.</p>
-          <br />
-          <p class="text-right">- EC45 Mod team</p>
-          <hr />
-          <p><small><b><i>Helpful tip of the day: Check the "What's New" button often to give you a glance at the updates your mods make for our group. </i></b></small></p>
-        </div>
-      </div>
-      
-      <!-- End Mod Message -->
-      
-      <!-- Begin Latest News -->
-      
       <div id="news" class="tab-pane fade">
-        <div class="alert alert-info" style="overflow:auto; height:300px;">
-          <div class="row">
-            <div class="col-sm-12">
-              <p><b>Latest News:</b></p>
- - <a href="https://www.bungie.net/en/News/News?aid=44372">This week at Bungie - 2/18</a><br />
-- <a href="https://www.bungie.net/en/News/News?aid=44361">Update on Crimson Days Ghost drops</a><br />
- - <a href="https://www.bungie.net/en/News/News?aid=44324">Patch Notes 2.1.1</a><br />
-- <a href="https://www.reddit.com/r/DestinyTheGame/comments/3wxda3/oryx_challenge_mode_guidefaq/">Oryx Challenge Mode guide</a>
-<br />
-  - <a href="https://www.reddit.com/r/DestinyTheGame/comments/3vwpuc/weekly_challenge_mode_discussion_megathread/">Golgoroth Challenge Mode strat</a><br />
-   
-   - <a href="https://www.reddit.com/r/DestinyTheGame/comments/3v08we/everything_you_need_to_know_about_the_warpriest/">WarPriest Challenge Mode info</a><br />
-              
-                - <a href="https://www.reddit.com/r/DestinyTheGame/comments/3t5als/the_full_iron_banner_guide_to_ranking_up_fast_now/">Iron Banner Level-up Guide</a><br />     
-              </p>
-            </div>
-            
-          </div>
-        </div>
+        <div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+          <h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
+					- FEB 18 - <a href="https://www.reddit.com/r/DestinyTheGame/comments/46hkfo/this_week_at_bungie_02182016/" style="color: lightblue !important;">THIS WEEK AT BUNGIE </a> (news)<br>
+					- FEB 23 - <a href="#" style="color: green;">IRON BANNER RETURNS</a><br>
+					- FEB 26 - <a href="#" style="color: yellow;">TRIALS OF OSIRIS RETURNS</a><br>
+		    </div>
       </div>
       
-      <!-- End Latest News -->
- <!-- Begin Twitch Streams -->
-      
-      <div id="twitch" class="tab-pane fade">
-        <div class="alert alert-info" style="overflow:auto; height:300px;">
-          <div class="row">
-            <div class="col-sm-12">
-     <a href="http://twitch.tv/WidiamET"><img src="http://streambadge.com/twitch/dark/WidiamET.png" width="200" height="40" alt="WidiamET's Streambadge"></a>
-<a href="http://twitch.tv/The_UBERginger"><img src="http://streambadge.com/twitch/dark/The_UBERginger.png" width="200" height="40" alt="The_UBERginger's Streambadge"></a>
-<a href="http://twitch.tv/Deveaux_Gaming"><img src="http://streambadge.com/twitch/dark/Deveaux_Gaming.png" width="200" height="40" alt="Deveaux_Gaming's Streambadge"></a>
-<a href="http://twitch.tv/doctornugu"><img src="http://streambadge.com/twitch/dark/doctornugu.png" width="200" height="40" alt="doctornugu's Streambadge"></a>
-<a href="http://twitch.tv/EasyE609"><img src="http://streambadge.com/twitch/dark/EasyE609.png" width="200" height="40" alt="EasyE609's Streambadge"></a>
+      <div id="NF" class="tab-pane fade">
+        <div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+          <h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;">Vanguard Nightfall Strike [02/23]</h3>
+					<h3 style="font-size: 24px; text-align:center; margin: 0px 0px 5px; padding: 5px 0px 5px;">The Sunless Cell</h3>
+					<img src="http://i.imgur.com/jjoLo0S.jpg" width=100%  alt="nf Banner" title="nightfall Banner"><br>
+					<table align="center" style="border: 1px solid white; font-size: 16px;">
+					<tbody>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest?cb=20150711201441" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Nightfall</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">If all players die, the <a href="/wiki/Fireteam" title="Fireteam">fireteam</a> will be returned to orbit.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/6/6e/Epic_skull_icon.png/revision/latest?cb=20150711201440" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/6/6e/Epic_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201440&amp;format=webp" alt="Epic skull icon" title="Epic" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Epic</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Heavily shielded and highly aggressive enemies appear in great numbers.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/e/ef/Chaff_skull_icon.png/revision/latest?cb=20150921210528" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/e/ef/Chaff_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210528&amp;format=webp" alt="Chaff skull icon" title="Chaff" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Chaff</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Player radar is disabled.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/2/29/Airborne_skull_icon.png/revision/latest?cb=20150921210546" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/2/29/Airborne_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210546" alt="Airborne skull icon" title="Airborne" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Airborne</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Players deal more damage while in the air.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1e/Small_Arms_skull_icon.png/revision/latest?cb=20150719090526" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1e/Small_Arms_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150719090526&amp;format=webp" alt="Small Arms skull icon" title="Small Arms " width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Small Arms</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Primary Weapon damage is favored.
+					</td></tr>
+					
+					</tbody><tfoot></tfoot></table>
+		<!--****************************************************************************************************************************************
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/2/29/Airborne_skull_icon.png/revision/latest?cb=20150921210546" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/2/29/Airborne_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210546" alt="Airborne skull icon" title="Airborne" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Airborne</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Players deal more damage while in the air.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/e/e6/Arc_Burn_skull_icon.png/revision/latest?cb=20150711201452" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/e/e6/Arc_Burn_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201452" alt="Arc Burn skull icon" title="Arc Burn" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Arc Burn</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="/wiki/Damage_Type" title="Damage Type">Arc Damage</a> from any source is greatly increased.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1f/Angry_skull_icon.png/revision/latest?cb=20150712090530" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1f/Angry_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150712090530" alt="Berserk skull icon" title="Berserk" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Berserk</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Minions of <a href="/wiki/The_Darkness" title="The Darkness">the Darkness</a> won't flinch, even after massive damage.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest?cb=20150714090529" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150714090529&amp;format=webp" alt="Brawler skull icon" title="Brawler" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Brawler</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Guardian melee damage is greatly increased.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3e/Catapult_skull_icon.png/revision/latest?cb=20150921210548" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3e/Catapult_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210548&amp;format=webp" alt="Catapult skull icon" title="Catapult" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Catapult</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Grenade recharge rate is greatly increased.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/e/ef/Chaff_skull_icon.png/revision/latest?cb=20150921210528" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/e/ef/Chaff_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210528&amp;format=webp" alt="Chaff skull icon" title="Chaff" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Chaff</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Player radar is disabled.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/6/6f/Exposure_skull_icon.png/revision/latest?cb=20150921210548" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/6/6f/Exposure_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210548&amp;format=webp" alt="Exposure skull icon" title="Exposure" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Exposure</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Guardian shields are increased but do not replenish.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/Fresh_Troops_skull_icon.png/revision/latest?cb=20150921210529" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/Fresh_Troops_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210529&amp;format=webp" alt="Fresh Troops skull icon" title="Fresh Troops " width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Fresh Troops</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Some enemy squads have been fortified with additional reinforcements.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette1.wikia.nocookie.net/destinypedia/images/5/5c/Grounded_skull_icon.png/revision/latest?cb=20150714090526" class="image image-thumbnail"><img src="http://vignette1.wikia.nocookie.net/destinypedia/images/5/5c/Grounded_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150714090526&amp;format=webp" alt="Grounded skull icon" title="Grounded " width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Grounded</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Players take more damage while airborne.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/0/01/Heroic_skull_icon.png/revision/latest?cb=20150711201424" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/0/01/Heroic_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201424&amp;format=webp" alt="Heroic skull icon" title="Heroic " width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Heroic</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Enemies appear in greater numbers and are more aggressive.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/7/76/Ironclad_skull_icon.png/revision/latest?cb=20150921210530" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/7/76/Ironclad_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210530&amp;format=webp" alt="Ironclad skull icon" title="Ironclad " width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Ironclad</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">More enemies have shields.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/0/01/Juggler_skull_icon.png/revision/latest?cb=20150711201543" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/0/01/Juggler_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201543&amp;format=webp" alt="Juggler skull icon" title="Juggler " width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Juggler</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">No ammo drops for your equipped weapon.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/f/fd/Lightswitch_skull_icon.png/revision/latest?cb=20150711201513" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/f/fd/Lightswitch_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201513&amp;format=webp" alt="Lightswitch skull icon" title="Lightswitch " width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Lightswitch</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Minions of the Darkness deal much more melee damage.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/e/ea/Match_Game_skull_icon.png/revision/latest?cb=20150921210530" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/e/ea/Match_Game_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210530&amp;format=webp" alt="Match Game skull icon" title="Match Game" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Match Game</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Enemy shields are resistant to all unmatched elemental damage.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1e/Small_Arms_skull_icon.png/revision/latest?cb=20150719090526" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1e/Small_Arms_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150719090526&amp;format=webp" alt="Small Arms skull icon" title="Small Arms " width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Small Arms</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Primary Weapon damage is favored.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a8/Solar_Burn_skull_icon.png/revision/latest?cb=20150711201425" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a8/Solar_Burn_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201425&amp;format=webp" alt="Solar Burn skull icon" Title="Solar Burn" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Solar Burn</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Solar Damage from any source is greatly increased.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a9/Specialist_skull_icon.png/revision/latest?cb=20150711201503" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a9/Specialist_skull_icon.png/revision/latest?cb=20150711201503" alt="Specialist skull icon" Title="Specialist" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Specialist</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Secondary Weapon damage is favored.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/c/c1/Trickle_skull_icon.png/revision/latest?cb=20150921210550" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/c/c1/Trickle_skull_icon.png/revision/latest?cb=20150921210550" alt="Trickle skull icon" Title="Trickle" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Trickle</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Recharge of abilities is significantly reduced.
+					</td></tr>
+					<tr>
+					<td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3a/Void_Burn_skull_icon.png/revision/latest?cb=20150721090531" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3a/Void_Burn_skull_icon.png/revision/latest?cb=20150721090531" alt="Void Burn skull icon" Title="Void" width="30" height="30"></a>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;"><b>Void Burn</b>
+					</td><td style="padding:5px; border-bottom: 1px solid white; border-collapse:collapse;">Void Damage from any source is greatly increased.
+					</td></tr>
+					
+		**************************************************************************************************-->
+        </div>
+      </div>
+      <div id="KF" class="tab-pane">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">King's Fall Challenge Mode [02/23]</h3>
+					<!--WARPRIEST "http://i.imgur.com/xR36lPt.jpg"  -->
+					<!--GOLGY     "http://i.imgur.com/MtG4Vli.jpg"  -->
+					<!--ORYX      "http://i.imgur.com/kFUPWM1.jpg"  -->
+					<img src="http://i.imgur.com/xR36lPt.jpg" width=75%  alt="cm Banner" title="challenge Banner"><br>
+				</div>
+			</div>
+			<div id="CoO" class="tab-pane">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Court of Oryx Tier III Boss [02/23]</h3>
+					<!--BALWUR  "http://i.imgur.com/ldqCcJI.jpg"  -->
+					<!--KALGOOR "http://i.imgur.com/bdyXnP1.jpg"  -->
+					<!--THALNOK "http://i.imgur.com/KZhvFuK.jpg"  -->
+					<img src="http://i.imgur.com/ldqCcJI.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
+				</div>
+			</div>
+			<div id="VI" class="tab-pane">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 28px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;">Vendor Material Exchange [02/23]</h3>
+					<table align="center" style="font-size: 28px; text-align:center; border: 1px solid white;">
+					<tbody>
+					<tr>
+					<td style="padding:5px; background-color: #231C46; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/FWC.png/revision/latest?cb=20160123023153" class="image image-thumbnail" title=""><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/FWC.png/revision/latest?cb=20160123023153" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="FWC.png" data-image-name="FWC.png"></a>
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Helium Filament
+					</td></tr>
+					<tr>
+					<td style="padding:5px; background-color: #E4E4E4; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/e/e4/DeadOrbitIcon.png/revision/latest?cb=20150321222243" class="image image-thumbnail" title=""><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/e/e4/DeadOrbitIcon.png/revision/latest?cb=20150321222243" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="DeadOrbitIcon.png" data-image-name="DeadOrbitIcon.png"></a>
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Wormspore
+					</td></tr>
+					<tr>
+					<td style="padding:5px; background-color: #963637; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/9/9b/NewMonarchy.png/revision/latest?cb=20160123024152" class="image image-thumbnail" title=""><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/9/9b/NewMonarchy.png/revision/latest?cb=20160123024152" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="NewMonarchy.png" data-image-name="NewMonarchy.png"></a>
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Spinmetal
+					</td></tr>
+					<tr>
+					<td style="padding:5px; background-color: #B66A1C; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://www.destinygamewiki.com/mediawiki/images/9/90/Eris_morn_emblem1.jpg" class="image image-thumbnail" title=""><img src="http://www.destinygamewiki.com/mediawiki/images/9/90/Eris_morn_emblem1.jpg" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="NewMonarchy.png" data-image-name="NewMonarchy.png"></a>
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Wormspore
+					</td></tr>
+					</tbody><tfoot></tfoot></table>
+				</div>	
+			</div>
+			<div id="IB" class="tab-pane">
+				<div class="well well-dark-transparent" style="background-color: #294638; overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;"><img src="https://i.imgur.com/8xNnyZH.png" width="100%" alt="Iron Banner" title="Iron Banner logo"></h3>
+			            	<!--<p>Iron Banner is gone for now! See you next time!</p>-->
+			            <p style="font-size:16px;margin-bottom:0px;"><strong>Rank 1</strong></p>
+			            <table style="padding:5px;  1px solid white;">
+			               <tbody><tr class="tableHeading">
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Type</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Cost</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/165221410-iron-pride">Iron Pride</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Emblem</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">1000 Glimmer</td>
+			               </tr>
+			            </tbody></table>
+			            <p style="font-size:16px;margin-bottom:0px;"><strong>Rank 2</strong></p>
+			            <table style="border: 1px solid white;">
+			               <tbody><tr class="tableHeading">
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Type</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Cost</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/3367786035-million-million">Million Million</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Shader</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">1000 Glimmer</td>
+			               </tr>
+			            </tbody></table>
+			            <p style="font-size:16px;margin-bottom:0px;"><strong>Rank 3</strong></p>
+			            <table style="border: 1px solid white;">
+			               <tbody><tr class="tableHeading">
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Type</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Light Level</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Cost</td>
+			               </tr>               
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/2642309592-iron-camelot-bond">Iron Camelot Bond (PS Exclusive)</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Warlock Class Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">40 Marks</td>
+			               </tr> 
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/3841951818-wolfswood-bond">Wolfswood Bond</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Warlock Class Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">40 Marks</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/656689057-iron-camelot-cloak">Iron Camelot Cloak (PS Exclusive)</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Hunter Class Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">40 Marks</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/1722532281-wolfswood-cloak">Wolfswood Cloak</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Hunter Class Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">40 Marks</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/3187552139-iron-camelot-mark">Iron Camelot Mark (PS Exclusive)</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Titan Class Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">40 Marks</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/825392783-wolfswood-mark">Wolfswood Mark</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Titan Class Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">40 Marks</td>
+			               </tr>
+			            </tbody></table>
+			            <p style="font-size:16px;margin-bottom:0px;"><strong>Rank 4</strong></p>
+			            <table style="border: 1px solid white;">
+			               <tbody><tr class="tableHeading">
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Type</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Light Level</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Cost</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/3497087277-colovances-duty">Colovance's Duty</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Scout Rifle</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">90 Marks</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/1212068371-iron-companion-vestments">Iron Companion Vestments</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Warlock Chest Armor</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">40 Marks</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/554244708-iron-companion-vest">Iron Companion Vest</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Hunter Chest Armor</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">40 Marks</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/82944038-iron-companion-plate">Iron Companion Plate</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Titan Chest Armor</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">40 Marks</td>
+			               </tr>
+			            </tbody></table>
+			            <p style="font-size:16px;margin-bottom:0px;"><strong>Rank 5</strong></p>
+			            <table style="border: 1px solid white;">
+			               <tbody><tr class="tableHeading">
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Item</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Type</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Light Level</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Cost</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/2443083323-ashravens-flight">Ashraven's Flight</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Fusion Rifle</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">280</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">90 Marks</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/165221411-the-ironwood-tree">The Ironwood Tree</a>
+			                  </td><td style="border: 1px solid white; border-collapse:collapse;">Emblem</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">-</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">1000 Glimmer</td>
+			               </tr>
+			               <tr>
+			                  <td style="border: 1px solid white; border-collapse:collapse;"><a href="http://destinydb.com/items/3367786034-goldspiral">Goldspiral</a></td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">Shader</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">-</td>
+			                  <td style="border: 1px solid white; border-collapse:collapse;">1000 Glimmer</td>
+			               </tr>
+			            </tbody></table>
+			          </div>
+			</div>
+			<div id="ToO" class="tab-pane">
+				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; margin: 0px 0px 15px; padding: 5px 0px 5px;"><img src="http://i.imgur.com/HCtpKaR.jpg" width="100%" alt="Trials of Osiris" title="ToO logo"></h3>
+					<div class="section text-center">                  
+		                        	<h3 style="font-size: 28px; text-align:center; margin: 0px 0px 15px; padding: 5px 0px 5px; color: yellow !important;">This Weeks Map -  Pantheon [01/29 to 02/01]</h3>
+						<p style="font-size: 28px; text-align:center;"><img src="http://i.imgur.com/Gyt4S9r.jpg" width="75%" alt="Trials of Osiris" title="ToO logo"></p>
+					</div>			
+		                	<div class="section">                  
+		                        	<h3 style="font-size: 28px; text-align:center; border-top: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;">Weekly Weapon and Armor</h3>             	         
+		                        	<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 8px; text-align:center;">Item</div>
+		                                        	<div class="col-xs-8" style="padding: 8px; text-align:center;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://www.destinydb.com/items/2321310309-the-unseeing-eye">The Unseeing Eye</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Machine Gun, Weapon reward for 7 wins on a single card in ToO</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://www.destinydb.com/items/1278603962-blind-jackal-mask">Blind Jackal Mask</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Warlock Helmet, Armor reward for 5 wins on a single card in ToO.</div>
+		                                	</div>
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://www.destinydb.com/items/1149751883-burning-eye-mask">Burning Eye Mask</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Hunter Helmet, Armor reward for 5 wins on a single card in ToO.</div>
+		                                	</div>
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://www.destinydb.com/items/2602145129-golden-bull-mask">Golden Bull Mask</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Titan Helmet, Armor reward for 5 wins on a single card in ToO.</div>
+		                                	</div>
+		                        	</div>
+					</div>
+		                	<br><br>
+		                	<div class="section">                  
+		                        	<h3 style="font-size: 28px; text-align:center; border-top: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;">Bounties</h3>             
+		                        	<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 8px; text-align:center;">Bounty</div>
+		                                        	<div class="col-xs-8" style="padding: 8px; text-align:center;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://www.destinydb.com/items/2926140267-attack-of-opportunity">Attack of Opportunity</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Defeat opposing Guardians who have already been damaged by a teammate.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://www.destinydb.com/items/2617011382-ticket-to-fight">Ticket to Fight</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Complete a single Trials of Osiris ticket.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://www.destinydb.com/items/4146067258-teamwork">Teamwork</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;"> Defeat 5 opposing Guardians while both your teammates are alive.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://www.destinydb.com/items/2167576374-determined">Determined</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Complete 5 Trials of Osiris matches or win 1 Trials match.</div>
+		                                	</div>
+		 
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://www.destinydb.com/items/2400432043-his-eye-upon-you">His Eye Upon You</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Complete 10 Trials matches. As a Trials Fireteam, defeat 75 opposing Guardians.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://www.destinydb.com/items/1364828729-valors-reward">Valor's Reward</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Earn 75 points in Trials by round wins (+3), losses (+1), and ties (+1). As a Trials Fireteam, defeat 3 opposing Guardians without anyone in your Fireteam dying.</div>
+		                                	</div>                               
+		                        	</div>
+		                	</div>
+				</div>
+			</div>
+			<div id="AD" class="tab-pane">
+				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; margin: 0px 0px 30px; padding: 5px 0px 5px;">GUNSMITH ARMSDAY [01/27]</h3>
+					<br>
+					<div class="section">                  
+		                        	<h3 style="font-size: 28px; text-align:center; border-top: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;">ORDERS TO BE PICKED UP</h3><br>             	         
+						<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/3275294461-suros-ari-45">SUROS ARI-45 (Auto Rifle)</a></h3>          
+						<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+								<div class="col-xs-1" style="padding: 8px; text-align:center;">Roll</div>
+		                                        	<div class="col-xs-11" style="padding: 8px; text-align:center;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">1</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;"> SLO-19 / SPO-28 / SRO-37 | Fitted Stock / Feather Mag | Snapshot / Rifled Barrel | Unflinching</div>
+		                               	 	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">2</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-12 / SPO-26 / SRO-37 | Hammer Forged / Appended Mag | SPS / Smallbore | Glass Half Full</div>
+		                                	</div>
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">3</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-19 / SPO-26 / SRO-37 | Hammer Forged / Feather Mag | Speed Reload / Smallbore | Rodeo</div>
+		                                	</div>
+		                        	</div>
+						<br><br>
+						<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/3491886959-suros-dis-43">SUROS DIS-43 (Scout Rifle)</a></h3>          
+						<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+								<div class="col-xs-1" style="padding: 8px; text-align:center;">Roll</div>
+		                                        	<div class="col-xs-11" style="padding: 8px; text-align:center;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">1</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-19, SPO-28, SRO-37 ; High Caliber Rounds, Appended Magazine ; Icarus ; Snapshot, Hand-Laid Stock</div>
+		                               	 	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">2</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-19, SPO-26, SRO-37 ; Fitted Stock, Oiled Frame ; Partial Refund ; Snapshot, Hand-Laid Stock</div>
+		                                	</div>
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">3</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">SLO-12, SPO-26, SRO-37 ; High Caliber Rounds, Casket Mag ; Triple Tap ; Single Point Sling, Rifled Barrel</div>
+		                                	</div>
+		                        	</div>
+						<br><br>
+						<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/3883201937-kumakatok-hc4">Omolon Kumakatok HC4 (Hand Cannon)</a></h3>          
+						<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                  			<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+								<div class="col-xs-1" style="padding: 8px; text-align:center;">Roll</div>
+		                                        		<div class="col-xs-11" style="padding: 8px; text-align:center;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">1</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">Fastdraw,Quickdraw,Sureshot - Third Eye - Lightweight,Oiled Frame - Life Support,Eye of the storm</div>
+		                               	 	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">2</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">Fastdraw,SteadyHand,Truesight - Third Eye - Lightweight,Reinforced Barrel - Icarus,Underdog</div>
+		                                	</div>
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">3</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">Fastdraw,Quickdraw,Sureshot - Zen Moment - Snapshot,Oiled Frame - Life Support,Eye of the storm</div>
+		                                	</div>
+		                        	</div>
+						<br><br>
+						<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/2222692418-hakke-lyudmila-d">Häkke Lyudmila-D (Pulse Rifle)</a></h3>          
+						<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+								<div class="col-xs-1" style="padding: 8px; text-align:center;">Roll</div>
+		                                        	<div class="col-xs-11" style="padding: 8px; text-align:center;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">1</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">GA Post, LC Ranged ; Surrounded l Rangefinder ; Snapshot, Hand Loaded, Reinforced Barrel</div>
+		                               	 	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">2</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">GA Post, LD Watchdog ; Danger Close ; Zen Moment ; Single Point Sling, Speed Reload, Reinforced Barrel</div>
+		                                	</div>
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">3</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">SC Holo, LD Watchdog Army of One ; Rangefinder ; Snapshot, Hand Loaded, Reinforced Barrel</div>
+		                                	</div>
+		                        	</div>
+						<br><br>
+						<h3 style="font-size: 22px; text-align:left; border-top: 2px solid #8d8c91; margin: 0px 0px 5px; padding: 5px 0px 5px;"><a href="http://www.destinydb.com/items/4185761115-strongbow-d">Häkke Strongbow-D (Shotgun)</a></h3>          
+						<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+								<div class="col-xs-1" style="padding: 8px; text-align:center;">Roll</div>
+		                                        	<div class="col-xs-11" style="padding: 8px; text-align:center;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">1</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">Void ; Soft Ballistics, Linear Compensator ; Surrounded ; Hot Swap ; Flared Magwell, Fitted Stock, Rifled Barrel</div>
+		                               	 	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">2</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;">Arc ; Soft Ballistics, Accurized Ballistics ; Danger Close ; Battle Runner ; Flared Magwell, Fitted Stock, Rifled Barrel</div>
+		                                	</div>
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-1" style="padding: 5px 8px; text-align:center;">3</div>
+		                                        	<div class="col-xs-11" style="padding: 5px 8px;"> Void ; Smart Drift Control, Aggressive Ballistics ; Final Round ; Battle Runner ; Flared Magwell, Perfect Balance, Rifled Barrel</div>
+		                                	</div>
+		                        	</div>
+						<br><br>				
+		                	</div>
+					<div class="section">                  
+		                        	<h3 style="font-size: 28px; text-align:center; border-top: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;">ORDERS TO BE PLACED</h3><br>             	         
+		                        	<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+								<div class="col-xs-4" style="padding: 8px; text-align:center;">Weapon</div>
+		                                        	<div class="col-xs-8" style="padding: 8px; text-align:center;">Description</div>
+		                                	</div>                                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3275294460-suros-ari-41">SUROS ARI-41 (Auto Rifle)</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Medium RoF Auto Rifle, Solid Archetype and good perk options. With a good base range, you're all clear to hold out for lots of stability. I would recommend Hand-Laid Stock, Fitted Stock/Perfect Balance, and Counterbalance/Rangefinder/Glass Half-Full/Hidden Hand.</div>
+		                               	 	</div>
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3472112597-thesan-fr4">Omolon Thesan FR4 (Fusion Rifle)</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Huge Base Stability! Just get it. Maybe with even more stability from perks.</div>
+		                               	 	</div>
+							<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+							<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3883201939-gaheris-d">Häkke Gaheris-D (Hand Cannon)</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Solid Hand Cannon, huge aim assist and recoil direction, could use some extra stability and range though.</div>
+		                               	 	</div>
+							<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3883201936-uffern-hc4">Omolon Uffern HC4 (Hand Cannon)</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Solid Hand Cannon, lower aim assist but better base stability. Again could use some stat boosting perks.</div>
+		                               	 	</div>
+							<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 5px 8px; font-size: 20px;"><a href="http://www.destinydb.com/items/3629543168-uzume-rr4">Omolon Uzume RR4 (Sniper Rifle)</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">High RoF Sniper, great for double body shots. For that kind of build you're going to want the best stability you can get (Hand-Laid Stock) plus some useful perks like Unflinching, Zen Moment, Performance Bonus, etc.</div>
+		                               	 	</div>					
+		                        	</div>
+						<br><br>
+		                	</div>
+		                </div>
+			</div>
+			<div id="PoE" class="tab-pane">
+				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Prison of Elders</h3>
+					<div class="row">
+		        			<div class="col-md-6">
+							<img src="https://i.imgur.com/qhPe3FV.jpg" width="100%" height="px"alt="The Forever Eater" title="The Forever Eater"><br><br>
+		    					<img src="https://i.imgur.com/XZM0rI3.jpg" width="100%" height="px"alt="Broken Legion" title="Broken Legion"><br><br>
+							<img src="https://i.imgur.com/9KlQ9ri.jpg" width=100%  alt="Machine Wrath" title="Machine Wrath"><br><br>
+						</div>
+						<div class="col-md-6">
+							<img src="https://i.imgur.com/UHMCigc.jpg" width=100%  alt="Urrox's Grudge" title="Urrox's Grudge"><br><br>
+							<img src="https://i.imgur.com/tTmDD8i.jpg" width="100%" height="px"alt="Cult of the Worm" title="Cult of the Worm"><br><br>
+		    					<img src="https://i.imgur.com/O6Lg5pL.jpg" width="100%" height="px"alt="Skol-ass Revenge" title="Skol-ass Revenge"><br><br>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="twitch" class="tab-pane">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;"><img src="http://i.imgur.com/LPgEQGG.jpg" width="100%" height="px"alt="twitch" title="twitch"></h3>
+					<div class="row">
+		        <div class="col-md-6">
+							<a href="https://twitch.tv/fearbroner" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/fearbroner.png" width="225" height="48.8" alt="fearbroner's Streambadge"></a><br><br>
+					 		<a href="https://twitch.tv/swappingspit" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/swappingspit.png" width="225" height="48.8" alt="swappingspit's Streambadge"></a><br><br>
+					 		<a href="https://twitch.tv/animosity022" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/animosity022.png" width="225" height="48.8" alt="animosity022's Streambadge"></a><br><br>
+							<a href="https://twitch.tv/cupidreturns" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/cupidreturns.png" width="225" height="48.8" alt="cupidreturns's Streambadge"></a><br><br>
+						</div>
+						<div class="col-md-6">
+							<a href="https://twitch.tv/chrisg2003bt" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/chrisg2003bt.png" width="225" height="48.8" alt="chrisg2003bt's Streambadge"></a><br><br>
+					 		<a href="https://twitch.tv/thecotilion" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/thecotilion.png" width="225" height="48.8" alt="thecotilion's Streambadge"></a><br><br>
+							<a href="https://twitch.tv/F4CEKILL3R" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/F4CEKILL3R.png" width="225" height="48.8" alt="F4CEKILL3R's Streambadge"></a><br><br>
+					 		<a href="https://twitch.tv/ellscorcho" target="_blank"><img src="http://streambadge.com/twitch/custom/808080/6441a5/000000/ellscorcho.png" width="225" height="48.8" alt="ellscorcho's Streambadge"></a><br><br>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div id="rewards" class="tab-pane">
+				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Activity Rewards</h3>
+					<img src="http://i.imgur.com/WvZFg0p.jpg" width=100%  alt="rewards Banner" title="activity rewards Banner"><br>
+				</div>
+			</div>
+			<div id="CD" class="tab-pane">
+				<div class="well well-dark-transparent" style="overflow:auto; height:550px; background-color: #68100F;">
+					<h2 style="background-color: #68100F; color: #ffffff; text-align:center;"><a href="http://i1.wp.com/planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg" rel="gallery" class="fancybox image"><img class="size-full wp-image-27554 alignright" src="//i1.wp.com/planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg?resize=96%2C96" alt="b80f89f7155abb0324aabf8d501be08f" srcset="//planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f-55x55.jpg 55w, //planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg 96w" sizes="(max-width: 96px) 100vw, 96px" width="50" height="50"></a> Crimson Days [02/09 to 02/15] <a href="http://i1.wp.com/planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg" rel="gallery" class="fancybox image"><img class="size-full wp-image-27554 alignright" src="//i1.wp.com/planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg?resize=96%2C96" alt="b80f89f7155abb0324aabf8d501be08f" srcset="//planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f-55x55.jpg 55w, //planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg 96w" sizes="(max-width: 96px) 100vw, 96px" width="50" height="50"></a></h2>
+					<img src="http://i.imgur.com/E5yyMCB.jpg" width=100%  alt="cd Banner" title="crimson Banner"><br>
+					<h4>Crimson Days has begun! Need Elimination&nbsp;Doubles tips? Click&nbsp;<strong><a href="http://planetdestiny.com/crimson-doubles-guide/" target="_blank">here</a>!</strong></h4><br>
+					<div class="section">
+						<h2 style="background-color: #68100F; color: #ffffff; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;">Crimson Bonds Quest</h2>
+						<h3 style="background-color: #68100F; color: #ffffff;">1.&nbsp;<a href="http://db.planetdestiny.com/items/view/3722072682">Double Date</a></h3>
+						<p class="quote" style="background-color: #68100F; color: #ffffff;">Complete 7 Crucible matches in the Crimson Doubles playlist while in a Fireteam.</p>
+						<h3 style="background-color: #68100F; color: #ffffff;">2. <a href="http://db.planetdestiny.com/items/view/1570611917">Return to Shaxx</a></h3>
+						<p class="quote" style="background-color: #68100F; color: #ffffff;">Go back to Lord Shaxx in the Hall of Guardians to receive your reward.</p>
+					</div>	
+					<div class="section">                  
+          	<h3 style="font-size: 34px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;">Bounties</h3>             
+          	<p>These bounties only work in the Crimson Doubles playlist. Teammates will also be able to help you with these.</p>
+						<p>Crimson Days has 1 Weekly Bounty, as well as 5 Daily Bounties that refresh with each Daily Reset during Crimson Days.</p>
+          	<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+                  	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 20px; font-weight: 600;" class="row">
+                          	<div class="col-xs-3" style="padding: 8px; text-align:center;">Bounty</div>
+                          	<div class="col-xs-9" style="padding: 8px; text-align:center;">Description</div>
+                  	</div>
+                                                                         
+                  	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+                          	<div class="col-xs-3" style="padding: 5px 8px; font-size: 14px;"><a href="http://db.planetdestiny.com/bounties/view/2029825887">Crimson Precision</a></div>
+                          	<div class="col-xs-9" style="padding: 5px 8px; font-size: 14px;">Defeat opposing Guardians with Precision headshots</div>
+                  	</div>
+                 
+                  	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+                          	<div class="col-xs-3" style="padding: 5px 8px; font-size: 14px;"><a href="http://db.planetdestiny.com/bounties/view/1941364664">Master of Arms</a></div>
+                          	<div class="col-xs-9" style="padding: 5px 8px; font-size: 14px;">Defeat opposing Guardians with a variety of Primary weapon types.</div>
+                  	</div>
+                 
+                  	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+                          	<div class="col-xs-3" style="padding: 5px 8px; font-size: 14px;"><a href="http://db.planetdestiny.com/bounties/view/1800634601">Finish the Thought</a></div>
+                          	<div class="col-xs-9" style="padding: 5px 8px; font-size: 14px;">Assist or be assisted in defeating opposing Guardians.</div>
+                  	</div>
 
-<a href="http://twitch.tv/I_B_Ready"><img src="http://streambadge.com/twitch/dark/I_B_Ready.png" width="200" height="40" alt="I_B_Ready's Streambadge"></a>                
-            </div>
-            
-          </div>
-        </div>
-      </div>
-      
-      <!-- End Twitch Streams -->
-      
+                  	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+                          	<div class="col-xs-3" style="padding: 5px 8px; font-size: 14px;"><a href="http://db.planetdestiny.com/bounties/view/3076821032">Day of Victory</a></div>
+                          	<div class="col-xs-9" style="padding: 5px 8px; font-size: 14px;">Earn points; winning rounds in the Crimson Doubles playlist are worth 5. Round completions are worth 1.</div>
+                  	</div>
+                 
+                  	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+                          	<div class="col-xs-3" style="padding: 5px 8px; font-size: 14px;"><a href="http://db.planetdestiny.com/bounties/view/3874005497">Two Lights as One</a></div>
+                          	<div class="col-xs-9" style="padding: 5px 8px; font-size: 14px;">Defeat opposing Guardians with any ability.</div>
+                  	</div>
+                  	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+                          	<div class="col-xs-3" style="padding: 5px 8px; font-size: 14px;"><a href="http://db.planetdestiny.com/bounties/view/482113408">Crimson Glory</a></div>
+                          	<div class="col-xs-9" style="padding: 5px 8px; font-size: 14px;">Earn points; wins in the Crimson Doubles playlist are worth 3 points. Match completions are worth 1.</div>
+                  	</div>
+                 	</div>
+                 	<br>
+		      </div>
+		  	</div>
+			</div>
+			<div id="QW" class="tab-pane">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Queens Wrath Bounties [02/16]</h3>
+					<img src="http://i.imgur.com/UAsUsq0.jpg" width=75%  alt="qw Banner" title="queens wrath Banner"><br>
+				</div>
+			</div>
+			<div id="RR" class="tab-pane">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">the100.io Raid Race 2016</h3>
+					<img src="http://i.imgur.com/dms9hgM.gif" width=100%  alt="rr Banner" title="raid race Banner"><br><br>
+					<div class="well well-dark-transparent">
+						The first Raid Race is being held on the100.io to celebrate the 1st Aniversary of the100.  The contest runs from Jan 01 to Jan 12.  Visit the <a href="https://www.the100.io/destiny-raid-race-contest" target="_new" style="color: Blue !important;">Raid Race Contest Site</a> for more details and to submit your times.<br><br>
+					</div>
+				</div>
+			</div>
+			<div id="SRL" class="tab-pane">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+					<img src="http://i.imgur.com/RWGFLD5.jpg" width=100%  alt="srl Banner" title="Sparrow Banner"><br>
+					<h3 style="font-size: 22px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Leaderboard</h3>
+					<h3 style="font-size: 16px; text-align:center; margin: 0px 0px 30px; padding: 5px 0px 5px;"><a href="https://docs.google.com/spreadsheets/d/1NcSpzQhM7HY6nNZ3tIYgCyepxb4hFpf9cRfCAfYKdKI/edit?usp=sharing" target="_new">UPDATE YOUR TIMES HERE</a></h3>
+					<img src="http://i.imgur.com/8qJdOMO.jpg" width=100%  alt="leader Banner" title="leader Banner"><br>
+					<!--<div class="section">                  
+		                        	<h3 style="font-size: 28px; text-align:center; border-top: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;">Bounties</h3>             
+		                        	<div style="font-size: 13px; text-align:left; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 8px; text-align:center;">Bounty</div>
+		                                        	<div class="col-xs-8" style="padding: 8px; text-align:center;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/4275602366-srl-bugs-on-the-windshield" target="_new">Bugs on the Windshield</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Kill enemies on the track during any SRL race.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/3856095524-srl-go-big-or-go-home" target="_new">Go Big or Go Home</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Complete 10 other SRL bounties.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/4275602357-srl-mars-pacesetter" target="_new">Mars Pacesetter</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Complete an SRL lap on Mars in fewer than 2 minutes.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/4275602355-srl-martian-monopoly" target="_new">Martian Monopoly</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Place in the Top 3 on Mars.</div>
+		                                	</div>
+		 
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/3856095525-srl-pacesetter" target="_new">Pacesetter</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Finish SRL races in the Top 3 places.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/4275602356-srl-speed-bumps" target="_new">Speed Bumps</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Kill enemies on the track during any SRL race.</div>
+		                                	</div>
+							<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/4275602353-srl-threading-the-needle" target="_new">Threading the Needle</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Hit 15 consecutive gates.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/4275602358-srl-through-the-gates" target="_new">Through the Gates</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Hit gates in a single race during any SRL race.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/4275602367-srl-trick-rider" target="_new">Trick Rider</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Complete tricks in SRL races. Emotes, rolls and flips.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/4275602354-srl-venus-pacesetter">Venus Pacesetter</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Complete an SRL lap on Venus in fewer than 2 minutes.</div>
+		                                	</div>
+		 
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/4275602352-srl-venusian-victory-lane" target="_new">Venusian Victory Lane</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Place in the Top 3 on Venus.</div>
+		                                	</div>
+		                               
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">  
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;"><a href="http://db.destinytracker.com/items/4275602359-srl-wear-the-shiny-off" target="_new">Wear the Shiny Off</a></div>
+		                                        	<div class="col-xs-8" style="padding: 5px 8px;">Complete a race without your Sparrow being destroyed.</div>
+		                                	</div>                                
+		                        	</div>
+		                	</div>
+					<div style="font-size: 13px; text-align:left;" class="section">                  
+		                        	<h3 style="font-size: 28px; text-align:center; border-top: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;"><a href="http://db.destinytracker.com/quests/22457969-sparrow-racing">Quest - Sparrow Racing</a></h3>             
+		                        	<div style="font-size: 13px; text-align:left; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px; text-align:center;">1</div>
+		                                        	<div class="col-xs-11" style="padding: 8px; text-align:left;">Racing Holiday</div>
+		                                	</div>
+		                                        <div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 8px;">Objective</div>
+		                                        	<div class="col-xs-7" style="padding: 8px;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;">Talk to Amanda</div>
+		                                        	<div class="col-xs-7" style="padding: 5px 8px;">Talk to Amanda Holiday in the Tower</div>
+		                                	</div>
+		                               	</div>
+						<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px; text-align:center;">2</div>
+		                                        	<div class="col-xs-11" style="padding: 8px; text-align:left;">SRL: Class C License</div>
+		                                	</div>
+		                                        <div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 8px;">Objective</div>
+		                                        	<div class="col-xs-7" style="padding: 8px;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;">Races Finished</div>
+		                                        	<div class="col-xs-7" style="padding: 5px 8px;">Complete 5 Races to earn Class C License</div>
+		                                	</div>
+		                               	</div>
+						<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px; text-align:center;">3</div>
+		                                        	<div class="col-xs-11" style="padding: 8px; text-align:left;">SRL: Class B License</div>
+		                                	</div>
+		                                        <div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 8px;">Objective</div>
+		                                        	<div class="col-xs-7" style="padding: 8px;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;">Hit Gates</div>
+		                                        	<div class="col-xs-7" style="padding: 5px 8px;">Hit 60 gates in a single race to earn Class B License</div>
+		                                	</div>
+		                               	</div>
+						<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px; text-align:center;">4</div>
+		                                        	<div class="col-xs-11" style="padding: 8px; text-align:left;">SRL: Class A License</div>
+		                                	</div>
+		                                        <div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 8px;">Objective</div>
+		                                        	<div class="col-xs-7" style="padding: 8px;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;">Top 3 and 15 Gates</div>
+		                                        	<div class="col-xs-7" style="padding: 5px 8px;">Finish in the top 3 to help earn Class A License</div>
+		                                	</div>
+							<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;">15 Consecutive Gates</div>
+		                                        	<div class="col-xs-7" style="padding: 5px 8px;">Hit 15 consecutive gates to help earn Class A License</div>
+		                                	</div>
+		                               	</div>
+						<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px; text-align:center;">5</div>
+		                                        	<div class="col-xs-11" style="padding: 8px; text-align:left;">SRL: Class S License</div>
+		                                	</div>
+		                                        <div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 8px;">Objective</div>
+		                                        	<div class="col-xs-7" style="padding: 8px;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;">Win Races</div>
+		                                        	<div class="col-xs-7" style="padding: 5px 8px;">Win 3 Races to help earn Class S License</div>
+		                                	</div>
+							<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;">No Destruction</div>
+		                                        	<div class="col-xs-7" style="padding: 5px 8px;">Finish 3 Races without destroying your sparrow to help earn Class S License</div>
+		                                	</div>
+		                               	</div>
+						<div style="font-size: 13px; background-color: #DADFDD; color: #1f252c;">
+		                                	<div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px; font-weight: 600;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px; text-align:center;">6</div>
+		                                        	<div class="col-xs-11" style="padding: 8px; text-align:left;">Victory Lap</div>
+		                                	</div>
+		                                        <div style="background-color: #428bca; margin: 0; color: #ffffff; font-size: 14px;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 8px;">Objective</div>
+		                                        	<div class="col-xs-7" style="padding: 8px;">Description</div>
+		                                	</div>
+		                                                                                       
+		                                	<div style="margin: 0; border-bottom: 1px solid #bec0c2; border-top: 1px solid #efefef;" class="row">
+		                                        	<div class="col-xs-1" style="padding: 5px 8px;"> </div>
+		                                        	<div class="col-xs-4" style="padding: 5px 8px;">Talk to Amanda</div>
+		                                        	<div class="col-xs-7" style="padding: 5px 8px;">Talk to Amanda Holiday to collect your sweet loot</div>
+		                                	</div>
+		                               	</div>
+						
+					</div>-->
+				</div>
+			</div>
+			<div id="HoJ" class="tab-pane">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">House of Judgement [11/24]</h3>
+					<img src="http://i.imgur.com/9UKFQeL.jpg" width=75%  alt="qw Banner" title="queens wrath Banner"><br>
+				</div>
+			</div>
+			<div id="info" class="tab-pane">
+				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Clan Information</h3>
+					<p>Our Clan, Echo Company 453 / Too Many Cooks, exists for earning achievements such as: Raiding Party, Flawless Raider, Strength of the Pack, etc.  Communication and Scheduling should be done through this site.</p>
+						<ul class="list-inline">
+							<li><a href="https://www.bungie.net/en/Clan/Xbox/633932" target="_blank"class="btn btn-success">Join EC453 Clan</a></li>
+							<li><a target="_blank" href="http://destinytracker.com/clans/633932/too-many-cooks" class="btn btn-primary">EC453 Stats</a></li>
+							<li><a href="mailto:echocompany453@gmail.com" target="_blank" class="btn btn-warning">Contact the Mods</a></li>
+						</ul>
+						<br>
+				</div>
+			</div>
+			<div id="bungie" class="tab-pane">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+					<a class="twitter-timeline" href="https://twitter.com/Bungie" data-widget-id="693068913672900609">Tweets by @Bungie</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</div>
+			<div id="bungiehelp" class="tab-pane">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+					<a class="twitter-timeline" href="https://twitter.com/BungieHelp" data-widget-id="693066466330054656">Tweets by @BungieHelp</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+				</div>
+			</div>
+			
     </div>
   </div>
 </div>
 
-<!-- End Introduction & Clan invite -->
-
-<!-- Begin Featured Clip -->
-
-<div class="row">
-  <hr />
-  
-  
-  <div class="col-md-6">
-    <div class="alert alert-info">
-      <ul class="list-inline">
-        <li><h4>Featured Clip</h4></li>
-        <li class="dropdown pull-right"><a href="#" class="dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></a>
-          <ul class="dropdown-menu dropdown-menu-right">
-            <li class="dropdown-header">Official EC730</li>
-            <li><a href="https://www.youtube.com/watch?v=rEyfP9Oi0F4" target="_blank">The Phenoms - Nov. Iron Banner</a></li>
-            <li><a href="https://www.youtube.com/watch?v=8zGIgey0LVQ" target="_blank">"The Solstice..." - Oct. Iron Banner</a></li>
-            <li class="dropdown-header">WidiamET</li>
-            <li><a href="https://www.youtube.com/watch?v=Muwr1Y_MnEw" target="_blank">I Tried: A Destiny Year 2 Montage</a></li>
-          </ul>
-        </li>
-      </ul>
-      <b><a href="https://www.youtube.com/watch?v=E-XzLmOZ57g" target="_blank"><img src="http://i.imgur.com/7qABJg4.jpg" width="100%"/></a></b>
-      <br />
-      <p class="text-center"><b>Clip of the Week:</b> PoisonEye7<br /><small><b><a href="https://www.youtube.com/watch?v=E-XzLmOZ57g" target="_blank">Username Checks Out: An Iron Banner Rift Montage</a></b></small></p>
-      <br />
-      <p class="text-center"><a class="btn btn-danger" href="http://goo.gl/forms/aIK86ESc0T" target="_blank">Submit a clip</a></p>
-    </div>
-  </div>
-  
-  <!-- End Featured clip -->
-  
-
-  <!-- Begin Featured Guardian -->
-  
-<div class="col-sm-6">
-  <div class="col-sm-6">
-    <h5>Twitter Feeds</h5>
-  </div>
-  <div class="col-sm-6">
-    <ul class="nav nav-pills nav-justified">
-      <li class="dropdown active"><a data-toggle="pill" href="#bungie">Bungie</a></li>
-      <li><a data-toggle="pill" href="#ubisoft">Division</a></li>
-    </ul>
-  </div>
-  
-  <div class="tab-content">
-    <div id="bungie" class="tab-pane fade in active">
-      <a class="twitter-timeline" href="https://twitter.com/Bungie" data-widget-id="693219384748302336" height="275">Tweets by @Bungie</a>
-    </div>
-    <div id="ubisoft" class="tab-pane fade">
-      <a class="twitter-timeline" href="https://twitter.com/TheDivisionGame" data-widget-id="696037057647349760" height="275">Tweets by @TheDivisionGame</a>
-    </div>
-  </div>
-
-</div>
-
-<!--End Featured Guardian -->
-
-<!--End Mod Columns -->
-
-<hr />
-
-
-
-<!--Begin Mods & Sherpa info -->
-
-<div class="col-sm-3">
