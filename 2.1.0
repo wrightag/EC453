@@ -145,7 +145,7 @@
 					- MAR 09 - <a href="http://www.twitch.tv/bungie" target="_blank" style="color: lightblue !important;">Bungie Ride Along</a><br><br>
 					- MAR 16 - <a href="http://www.twitch.tv/bungie" target="_blank" style="color: lightblue !important;">Bungie Ride Along</a><br><br>
 					- MAR 22 - <a data-toggle="tab" href="#IB" style="color: green;">IRON BANNER RETURNS</a><br><br>
-					<p style="padding:10px 0 0; border-top:1px solid #aaaaaa;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
+					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 		    		</div>
       			</div>
       			<div id="info" class="tab-pane fade">
@@ -153,7 +153,7 @@
 					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Clan Information</h3>
 					<p>Our Clan, Echo Company 453 / Too Many Cooks, exists for earning achievements such as: Raiding Party, Flawless Raider, Strength of the Pack, etc.  Communication and Scheduling should be done through this site.</p>
 					<a target="_blank" href="https://www.bungie.net/en/Clan/Xbox/633932" class="btn btn-primary btn-block">JOIN OUR CLAN HERE</a>
-					<br>
+					<br><br>
 					<div class="btn-group btn-group-justified">
 						<div class="btn-group">
     							<button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">Other Clan Info <span class="caret"></span></button>
@@ -195,10 +195,11 @@
 						    	</div>
 						</div>
 					</div>
-					<br><br><p style="padding: 15px; background-color: #ffffff; color:#000000; font-size: 12px;"><strong>NOTICE:</strong><br>
+					<br><br>
+					<p style="padding: 15px; background-color: #ffffff; color:#000000; font-size: 12px;"><strong>NOTICE:</strong><br>
 			    		After joining the clan you must set it as your active clan. <br><a href="https://www.youtube.com/watch?v=_iWKhbRHnkw" target="_blank">Click here to see how via mobile</a><br><br>
 					<br><br>
-					<p style="padding:10px 0 0; border-top:1px solid #aaaaaa;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
+					<p style="padding:10px 0 0; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 			</div>
 		      	<div id="NF" class="tab-pane fade">
@@ -206,7 +207,7 @@
 		          		<table align="center" style="font-size: 16px;">
 						<tbody>
 							<tr>
-					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Vanguard Nightfall Strike [03/01] - Dust Palace<br></td>
+					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Nightfall Strike [03/01] - Dust Palace<br></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/Ro5kgj1.jpg" width=100%  alt="nf Banner" title="nightfall Banner"><br></td>
@@ -353,7 +354,7 @@
 					<!--GOLGY     "http://i.imgur.com/MtG4Vli.jpg"  -->
 					<!--ORYX      "http://i.imgur.com/kFUPWM1.jpg"  -->
 					<img src="http://i.imgur.com/MtG4Vli.jpg" width=75%  alt="cm Banner" title="challenge Banner"><br>
-					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
+					<p style="padding:10px 0 0; text-align:center;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 			</div>
 			<div id="CoO" class="tab-pane fade">
@@ -363,7 +364,7 @@
 					<!--KALGOOR "http://i.imgur.com/bdyXnP1.jpg"  -->
 					<!--THALNOK "http://i.imgur.com/KZhvFuK.jpg"  -->
 					<img src="http://i.imgur.com/bdyXnP1.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
-					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
+					<p style="padding:10px 0 0; text-align:center;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 			</div>
 			<div id="VI" class="tab-pane fade">
@@ -388,7 +389,7 @@
 					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Wormspore
 					</td></tr>
 					</tbody><tfoot></tfoot></table>
-					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
+					<p style="padding:10px 0 0; text-align:center;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>	
 			</div>
 			<div id="QW" class="tab-pane fade">
