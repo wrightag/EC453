@@ -103,9 +103,9 @@
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#KF"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Kings Fall<br><span class="glyphicon glyphicon-king" style="padding-right:22px;"></span>Challenge Mode</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#CoO"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Court of Oryx T3</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#AD"><small><span class="glyphicon glyphicon-bullhorn" style="padding-right:10px;"></span>Armsday</small></a></li>
-			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a href="/groups/91/moments"><small><span class="glyphicon glyphicon-play-circle" style="padding-right:10px;"></span>Group Moments</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#twitch"><small><span class="glyphicon glyphicon-facetime-video" style="padding-right:10px;"></span>Twitch</small></a></li>
-      			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungie"><small><span class="glyphicon glyphicon-exclamation-sign" style="padding-right:10px;"></span>Bungie Twitter</small></a></li>
+      			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#BR"><small><span class="glyphicon glyphicon-film" style="padding-right:10px;"></span>Bungie Ride Along</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungie"><small><span class="glyphicon glyphicon-exclamation-sign" style="padding-right:10px;"></span>Bungie Twitter</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungiehelp"><small><span class="glyphicon glyphicon-question-sign" style="padding-right:10px;"></span>Bungie Help</small></a></li>
 			
 			<!-- INACTIVE EVENTS
@@ -140,10 +140,10 @@
         			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
           				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
 					- FEB 25 - <a href="https://www.reddit.com/r/DestinyTheGame/comments/47m8gw/this_week_at_bungie_02252016/" target="_blank" style="color: lightblue !important;">THIS WEEK AT BUNGIE </a> (news)<br><br>
-					- MAR 02 - <a href="http://www.twitch.tv/bungie" target="_blank" style="color: lightblue !important;">Bungie Ride Along</a><br><br>
+					- MAR 02 - <a data-toggle="tab" href="#BR" style="color: lightblue !important;">Bungie Ride Along</a><br><br>
 					- MAR 04 - <a data-toggle="tab" href="#ToO" style="color: yellow;">TRIALS OF OSIRIS RETURNS</a><br><br>
-					- MAR 09 - <a href="http://www.twitch.tv/bungie" target="_blank" style="color: lightblue !important;">Bungie Ride Along</a><br><br>
-					- MAR 16 - <a href="http://www.twitch.tv/bungie" target="_blank" style="color: lightblue !important;">Bungie Ride Along</a><br><br>
+					- MAR 09 - <a data-toggle="tab" href="#BR" style="color: lightblue !important;">Bungie Ride Along</a><br><br>
+					- MAR 16 - <a data-toggle="tab" href="#BR" style="color: lightblue !important;">Bungie Ride Along</a><br><br>
 					- MAR 22 - <a data-toggle="tab" href="#IB" style="color: green;">IRON BANNER RETURNS</a><br><br>
 					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 		    		</div>
@@ -452,7 +452,19 @@
 					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 		      	</div>
-			<div id="IB" class="tab-pane fade">
+			<div id="BR" class="tab-pane fade in">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+          				<h3 style="color: #fbcc40; font-family: 'Roboto', sans-serif; font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Bungie Ride Along<br>Dreadnaught [03/02 @ 1400 EST]</h3>
+			    		<div class="content text-content">
+						We're headed back to the Dreadnaught, and we're bringing a world artist and an activity designer along for the ride.
+						<div><br></div>
+						<!--<div><img src="http://i.imgur.com/Y9vyd3e.jpg" style="text-align:center;" width="75%"><br></div>-->
+						<div><br></div>
+						<div>Our Fireteam will embark on a walking architectural tour of the "inscrutable loot-filled fortress" that was the setting for your adventures in Destiny: The Taken King. <b>Senior Artist Andrew Hopps</b> will explain how we turned conceptual visions into playable space. <b>Senior Designer Brian Frank</b> will share some details for how we filled those spaces with danger and treasure worthy of heroes.</div><div><br></div><div>You're invited to join us by way of <a href="http://www.twitch.tv/bungie" style="color: #fbcc40; font-family: 'Roboto', sans-serif;" title="" target="_blank">Twitch</a>:</div><div><blockquote style="margin: 0 0 0 40px; border: none; padding: 0px;"><div><b>Dreadnaught Ride Along</b></div><div><b>Wednesday, March 2nd</b></div><div><b>11AM Pacific</b></div></blockquote></div><div><br></div><div>The Dreadnaught is a place of mystery and secrets. <a href="http://www.twitch.tv/bungie" style="color: #fbcc40; font-family: 'Roboto', sans-serif;" title="" target="_blank">Join us</a> as some of those secrets are revealed and we unravel the mysteries of how we make the games you play.</div><div><br></div><div>The Taken are not likely to cooperate with our developer commentary expedition, so expect some gunfire, too!</div>
+					</div>
+		    		</div>
+      			</div>
+      			<div id="IB" class="tab-pane fade">
 				<div class="well well-dark-transparent" style="background-color: #294638; overflow:auto; height:550px;">
 				    <img src="https://i.imgur.com/GOYBL1f.jpg" style="text-align:center;" width="100%" alt="Iron Banner" title="Iron Banner logo"></h3>
 			    	    <p>Iron Banner is gone for now! See you next time!</p>
