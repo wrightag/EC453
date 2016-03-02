@@ -1,147 +1,74 @@
-<h3>Getting Started</h3>
-<div class="bg-warning section-title" data-toggle="collapse" data-target="#1" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><strong>Suggest New Features</strong>&nbsp;&nbsp;&nbsp;<span class="glyphicon glyphicon-chevron-down"></span></div>
-<div class="bg-warning collapse out" id="1">
-        <p style="border-top: 2px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 20px;">To suggest new features for the100, head on over to the <a href="https://www.reddit.com/r/the100website/comments/3s1cvo/the100_features_suggestions_mega_thread/" target="_blank">r/the100 subreddit</a></span></p>
-</div>
+<div class="row main-container">
+	<ul class="nav nav-pills nav-justified core-content-nav-pills">
+		  <li class="active"><a href="/help">Help Desk</a></li>
+		  <li class=""><a href="/community">Community</a></li>
+		  <li class=""><a href="/supporters">Supporters</a></li>
+		  <li class=""><a href="/hq">HQ</a></li>
+	</ul>
+	<div class="row" style="margin-top: 2em;">
+	  	<div class="col-sm-7">
+		  	<form class="site-search" id="group_search" action="/groups" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+		      		<div class="form-group">
+				    	<input class="form-control" placeholder="Search Groups" type="text" name="q[name_cont]" id="q_name_cont">
+		      		</div>
+		      		<button type="submit" class="btn btn-default">&gt;</button>
+			</form>		<br>
+		</div>
+	  	<div class="col-sm-5">
+		  <form class="site-search" id="user_search" action="/users" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+		    <div class="form-group">
+			    <input class="form-control" placeholder="Search Users" type="text" name="q[gamertag_cont]" id="q_gamertag_cont">
+		    </div>
+		    <button type="submit" class="btn btn-default">&gt;</button>
+		   </form>		<br>
+		</div>
+  	</div>
 
-<div class="section-title" data-toggle="collapse" data-target="#2">
-	<h3 class="bg-warning">Help Chatroom</h3>
-	<div class="bg-warning collapse out" id="2">
-        <p>Head on over to the&nbsp;<a href="https://www.the100.io/help" target="_blank">Help Chatroom</a>&nbsp;for anything you cant find here or for general questions.</p>
-    </div>
-</div>
-<div class="section-title" data-toggle="collapse" data-target="#3">
-	<h3 class="bg-warning">How Do I Get Started</h3>
-	<div class="bg-warning collapse out" id="3">
-        <p>Start by saying hi to your group in the group chat. Just a simple "hey guys, just joined and looking forward to raiding with you!" is fine.
-        <br><br>Next, take a look at any upcoming games in your group. If you see one you like, click the join button. Keep track of when it starts, because you want to be online on your xbox/ psn 10 minutes in advance so the game creator can send you an xbox/ psn invite.
-        <br><br>If you don't see any games that work for you, you can post your own game. Try to post at least 24 hours in advance for best results. It'll automatically email all members when you post a gaming session, so don't double post or create fake gaming sessions. If you don't want to get these emails, just click "my account" at the top, edit your profile, and check the box to stop getting email notifications.
-        <br><br>You can also leave and join a group at anytime, so if you don't like this group click browse groups and find one you like better.
-        </p>
-    </div>
-</div>
-<div class="section-title" data-toggle="collapse" data-target="#4">
-	<h3 class="bg-warning">What Time Zone Are Games Listed?</h3>
-	<div class="bg-warning collapse out" id="4">
-        <p>You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.
-        <br><br>Hint: If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.
-        </p>
-    </div>
-</div>
-<!--
-h2>Getting Started</h2>
-	<div class="well well-dark-transparent" style="font-size: 20px;>
-	<div class="well well-dark-transparent section-title" data-target="#1" data-toggle="collapse"><b><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>Suggest New Features</b></div>
-	<div class="well well-dark-transparent collapse out" id="1" style="font-size: 14px;">
-	        <p>To suggest new features for the100, head on over to the <a style="color:#ffffff;" href="https://www.reddit.com/r/the100website/comments/3s1cvo/the100_features_suggestions_mega_thread/" target="_blank">r/the100 subreddit</a></span>
-	        </p>
-	
-	</div>
-	</div>
-	<br>
-	<div class="well well-dark-transparent" style="font-size: 20px;>
-	<div class="bg-warning section-title" data-target="#1" data-toggle="collapse"><b><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>Help Chatroom</b></div>
-	<div class="bg-warning collapse out" id="1" style="font-size: 14px;">
-	        <p>Head on over to the&nbsp;<a style="color:#ffffff;" href="https://www.the100.io/help" target="_blank">Help Chatroom</a>&nbsp;for anything you cant find here or for general questions.</p>
-	</div>
-	</div>
-	<br>
-	<div class="well well-dark-transparent" style="font-size: 20px;>
-	<div class="bg-warning section-title" data-target="#1" data-toggle="collapse"><b><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>How Do I Get Started</b></div>
-	<div class="bg-warning collapse out" id="1" style="font-size: 14px;">
-	        <p>Start by saying hi to your group in the group chat. Just a simple "hey guys, just joined and looking forward to raiding with you!" is fine.
-	        <br><br>Next, take a look at any upcoming games in your group. If you see one you like, click the join button. Keep track of when it starts, because you want to be online on your xbox/ psn 10 minutes in advance so the game creator can send you an xbox/ psn invite.
-	        <br><br>If you don't see any games that work for you, you can post your own game. Try to post at least 24 hours in advance for best results. It'll automatically email all members when you post a gaming session, so don't double post or create fake gaming sessions. If you don't want to get these emails, just click "my account" at the top, edit your profile, and check the box to stop getting email notifications.
-	        <br><br>You can also leave and join a group at anytime, so if you don't like this group click browse groups and find one you like better.
-	        </p>
-	</div>
-	</div>
-	<br>
-	<div class="well well-dark-transparent" style="font-size: 20px;>
-	<div class="bg-warning section-title" data-target="#1" data-toggle="collapse"><b><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>What Time Zone Are Games Listed?</b></div>
-	<div class="bg-warning collapse out" id="1" style="font-size: 14px;">
-	        <p>You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.
-	        <br><br>Hint: If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.
-	        </p>
-	</div>
-	</div>
-	<br>
-<br>
-<h2>Getting Started</h2>
-	<div class="well well-dark-transparent" style="font-family: 'Roboto', sans-serif; font-size: 24px; padding-left: 10px; background-color: #fafafa;">
-	<div class="bg-warning section-title" data-target="#1" data-toggle="collapse" style="color: #428bca; background-color: #fafafa;"><b><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>Suggest New Features</b></div>
-	<div class="bg-warning collapse out" id="1" style="color:#000000; font-size: 14px; background-color: #fafafa;">
-	        <p>To suggest new features for the100, head on over to the <a style="color:#ffffff;" href="https://www.reddit.com/r/the100website/comments/3s1cvo/the100_features_suggestions_mega_thread/" target="_blank">r/the100 subreddit</a></span>
-	        </p>
-	</div>
-	</div>
-	<br>
-	<div class="well well-dark-transparent" style="font-family: 'Roboto', sans-serif; font-size: 24px; padding-left: 10px; background-color: #fafafa;">
-	<div class="bg-warning section-title" data-target="#2" data-toggle="collapse" style="color: #428bca; background-color: #fafafa;"><b><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>Help Chatroom</b></div>
-	<div class="bg-warning collapse out" id="2" style="color:#000000; font-size: 14px; background-color: #fafafa;">
-	        <p>Head on over to the&nbsp;<a style="color:#ffffff;" href="https://www.the100.io/help" target="_blank">Help Chatroom</a>&nbsp;for anything you cant find here or for general questions.</p>
-	</div>
-	</div>
-	<br>
-	<div class="well well-dark-transparent" style="font-family: 'Roboto', sans-serif; font-size: 24px; padding-left: 10px; background-color: #fafafa;">
-	<div class="bg-warning section-title" data-target="#3" data-toggle="collapse" style="color: #428bca; background-color: #fafafa;"><b><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>How Do I Get Started</b></div>
-	<div class="bg-warning collapse out" id="3" style="color:#000000; font-size: 14px; background-color: #fafafa;">
-	        <p>Start by saying hi to your group in the group chat. Just a simple "hey guys, just joined and looking forward to raiding with you!" is fine.
-	        <br><br>Next, take a look at any upcoming games in your group. If you see one you like, click the join button. Keep track of when it starts, because you want to be online on your xbox/ psn 10 minutes in advance so the game creator can send you an xbox/ psn invite.
-	        <br><br>If you don't see any games that work for you, you can post your own game. Try to post at least 24 hours in advance for best results. It'll automatically email all members when you post a gaming session, so don't double post or create fake gaming sessions. If you don't want to get these emails, just click "my account" at the top, edit your profile, and check the box to stop getting email notifications.
-	        <br><br>You can also leave and join a group at anytime, so if you don't like this group click browse groups and find one you like better.
-	        </p>
-	</div>
-	</div>
-	<br>
-	<div class="well well-dark-transparent" style="font-family: 'Roboto', sans-serif; font-size: 24px; padding-left: 10px; background-color: #fafafa;">
-	<div class="bg-warning section-title" data-target="#4" data-toggle="collapse" style="color: #428bca; background-color: #fafafa;"><b><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>What Time Zone Are Games Listed?</b></div>
-	<div class="bg-warning collapse out" id="3" style="color:#000000; font-size: 14px; background-color: #fafafa;">
-	        <p>You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.
-	        <br><br>Hint: If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.
-	        </p>
-	</div>
-	</div>
-	<br>
-<br>
-<div class="well well-dark-transparent">
-	<h2>Getting Started</h2>
-	<div class="alert alert-info" style="font-size: 20px;">
-	<div class="bg-warning section-title" data-target="#4" data-toggle="collapse" style="font-family: 'Roboto', sans-serif; color: #428bca; background-color: #fafafa;"><strong><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>Suggest New Features</strong></div>
-	<div class="bg-warning collapse out" id="4" style="font-size: 14px; font-family: 'Roboto', sans-serif;">
-	        <p>To suggest new features for the100, head on over to the <a style="color:#ffffff;" href="https://www.reddit.com/r/the100website/comments/3s1cvo/the100_features_suggestions_mega_thread/" target="_blank">r/the100 subreddit</a></span>
-	        </p>
-	</div>
-	</div>
-	<br>
-	<div class="alert alert-info" style="font-size: 20px;">
-	<div class="bg-warning section-title" data-target="#4" data-toggle="collapse" style="color: #428bca; background-color: #fafafa;"><strong><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>Help Chatroom</strong></div>
-	<div class="bg-warning collapse out" id="4" style="font-size: 14px;">
-	        <p>Head on over to the&nbsp;<a style="color:#ffffff;" href="https://www.the100.io/help" target="_blank">Help Chatroom</a>&nbsp;for anything you cant find here or for general questions.</p>
-	</div>
-	</div>
-	<br>
-	<div class="alert alert-info" style="font-size: 20px;">
-	<div class="bg-warning section-title" data-target="#4" data-toggle="collapse" style="color: #428bca; background-color: #fafafa;"><strong><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>How Do I Get Started</strong></div>
-	<div class="bg-warning collapse out" id="4" style="font-size: 14px;">
-	        <p>Start by saying hi to your group in the group chat. Just a simple "hey guys, just joined and looking forward to raiding with you!" is fine.
-	        <br><br>Next, take a look at any upcoming games in your group. If you see one you like, click the join button. Keep track of when it starts, because you want to be online on your xbox/ psn 10 minutes in advance so the game creator can send you an xbox/ psn invite.
-	        <br><br>If you don't see any games that work for you, you can post your own game. Try to post at least 24 hours in advance for best results. It'll automatically email all members when you post a gaming session, so don't double post or create fake gaming sessions. If you don't want to get these emails, just click "my account" at the top, edit your profile, and check the box to stop getting email notifications.
-	        <br><br>You can also leave and join a group at anytime, so if you don't like this group click browse groups and find one you like better.
-	        </p>
-	</div>
-	</div>
-	<br>
-	<div class="alert alert-info" style="font-size: 20px;">
-	<div class="bg-warning section-title" data-target="#4" data-toggle="collapse" style="color: #428bca; background-color: #fafafa;"><strong><span class="glyphicon glyphicon-plus" style="padding:10px;"></span>What Time Zone Are Games Listed?</strong></div>
-	<div class="bg-warning collapse out" id="4" style="font-size: 14px;">
-	        <p>You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.
-	        <br><br>Hint: If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.
-	        </p>
-	</div>
-	</div>
-	<br>
-	
-</div>
-<br>
--->
+	<div class="row">
+		<div class="col-sm-7">
+			<h3>Frequently Asked Questions</h3>
+		  	<h4><small>Look here for common questions and answers.</small></h4>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#1" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>Suggest New Features</div>
+			<div class="bg-warning out collapse" id="1" style="height: 20px;">
+		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">To suggest new features for the100, head on over to the <a href="https://www.reddit.com/r/the100website/comments/3s1cvo/the100_features_suggestions_mega_thread/" target="_blank">r/the100 subreddit</a></p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#2" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>How Do I Get Started?</span></div>
+			<div class="bg-warning out collapse" id="2" style="height: 20px;">
+		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">Start by saying hi to your group in the group chat. Just a simple "hey guys, just joined and looking forward to raiding with you!" is fine.
+		        	<br><br>Next, take a look at any upcoming games in your group. If you see one you like, click the join button. Keep track of when it starts, because you want to be online on your xbox/ psn 10 minutes in advance so the game creator can send you an xbox/ psn invite.
+		        	<br><br>If you don't see any games that work for you, you can post your own game. Try to post at least 24 hours in advance for best results. It'll automatically email all members when you post a gaming session, so don't double post or create fake gaming sessions. If you don't want to get these emails, just click "my account" at the top, edit your profile, and check the box to stop getting email notifications.
+		        	<br><br>You can also leave and join a group at anytime, so if you don't like this group click browse groups and find one you like better.
+		        	</p>
+		        </div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#3" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>What Time Zone Are Games Listed?</div>
+			<div class="bg-warning out collapse" id="3" style="height: 20px;">
+		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.
+		        	<br><br>Hint: If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.
+		        	</p>
+		    	</div>
+			<br>
+			<h3>Creating and Joining Games</h3>
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#1" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>Suggest New Features</div>
+			<div class="bg-warning out collapse" id="1" style="height: 20px;">
+		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">To suggest new features for the100, head on over to the <a href="https://www.reddit.com/r/the100website/comments/3s1cvo/the100_features_suggestions_mega_thread/" target="_blank">r/the100 subreddit</a></p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#2" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>How Do I Get Started?</span></div>
+			<div class="bg-warning out collapse" id="2" style="height: 20px;">
+		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">Start by saying hi to your group in the group chat. Just a simple "hey guys, just joined and looking forward to raiding with you!" is fine.
+		        	<br><br>Next, take a look at any upcoming games in your group. If you see one you like, click the join button. Keep track of when it starts, because you want to be online on your xbox/ psn 10 minutes in advance so the game creator can send you an xbox/ psn invite.
+		        	<br><br>If you don't see any games that work for you, you can post your own game. Try to post at least 24 hours in advance for best results. It'll automatically email all members when you post a gaming session, so don't double post or create fake gaming sessions. If you don't want to get these emails, just click "my account" at the top, edit your profile, and check the box to stop getting email notifications.
+		        	<br><br>You can also leave and join a group at anytime, so if you don't like this group click browse groups and find one you like better.
+		        	</p>
+		        </div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#3" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>What Time Zone Are Games Listed?</div>
+			<div class="bg-warning out collapse" id="3" style="height: 20px;">
+		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.
+		        	<br><br>Hint: If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.
+		        	</p>
+		    	</div>
+			<br>
+		</div>
