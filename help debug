@@ -1,9 +1,9 @@
 <div class="row main-container">
 	<ul class="nav nav-pills nav-justified core-content-nav-pills">
-		  <li class="active"><a href="/help">Help Desk</a></li>
-		  <li class=""><a href="/community">Community</a></li>
-		  <li class=""><a href="/supporters">Supporters</a></li>
-		  <li class=""><a href="/hq">HQ</a></li>
+		 <li class="active"><a href="/help">Help Desk</a></li>
+		 <li class=""><a href="/community">Community</a></li>
+		 <li class=""><a href="/supporters">Supporters</a></li>
+		 <li class=""><a href="/hq">HQ</a></li>
 	</ul>
 	<div class="row" style="margin-top: 2em;">
 	  	<div class="col-sm-7">
@@ -12,63 +12,192 @@
 				    	<input class="form-control" placeholder="Search Groups" type="text" name="q[name_cont]" id="q_name_cont">
 		      		</div>
 		      		<button type="submit" class="btn btn-default">&gt;</button>
-			</form>		<br>
+			</form>		
+			<br>
 		</div>
 	  	<div class="col-sm-5">
-		  <form class="site-search" id="user_search" action="/users" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
-		    <div class="form-group">
-			    <input class="form-control" placeholder="Search Users" type="text" name="q[gamertag_cont]" id="q_gamertag_cont">
-		    </div>
-		    <button type="submit" class="btn btn-default">&gt;</button>
-		   </form>		<br>
+		  	<form class="site-search" id="user_search" action="/users" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+			    	<div class="form-group">
+				    	<input class="form-control" placeholder="Search Users" type="text" name="q[gamertag_cont]" id="q_gamertag_cont">
+			    	</div>
+		    		<button type="submit" class="btn btn-default">&gt;</button>
+			 </form>		
+			 <br>
 		</div>
   	</div>
-
+<!--**************************** START OF SECTION **************************** START OF SECTION **************************** -->
 	<div class="row">
-		<div class="col-sm-7">
+		<div class="col-sm-12">
+<!--**************************** FAQ INFO **************************** FAQ INFO **************************** FAQ INFO ****************************-->
 			<h3>Frequently Asked Questions</h3>
 		  	<h4><small>Look here for common questions and answers.</small></h4>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#1" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>Suggest New Features</div>
-			<div class="bg-warning out collapse" id="1" style="height: 20px;">
-		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">To suggest new features for the100, head on over to the <a href="https://www.reddit.com/r/the100website/comments/3s1cvo/the100_features_suggestions_mega_thread/" target="_blank">r/the100 subreddit</a></p>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#1" style="color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+				Suggest New Features
+			</div>
+			<div class="bg-warning out collapse" id="1" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To suggest new features for the100, head on over to the <a href="https://www.reddit.com/r/the100website/comments/3s1cvo/the100_features_suggestions_mega_thread/" target="_blank">r/the100 subreddit</a></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#2" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>How Do I Get Started?</span></div>
-			<div class="bg-warning out collapse" id="2" style="height: 20px;">
-		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">Start by saying hi to your group in the group chat. Just a simple "hey guys, just joined and looking forward to raiding with you!" is fine.
-		        	<br><br>Next, take a look at any upcoming games in your group. If you see one you like, click the join button. Keep track of when it starts, because you want to be online on your xbox/ psn 10 minutes in advance so the game creator can send you an xbox/ psn invite.
-		        	<br><br>If you don't see any games that work for you, you can post your own game. Try to post at least 24 hours in advance for best results. It'll automatically email all members when you post a gaming session, so don't double post or create fake gaming sessions. If you don't want to get these emails, just click "my account" at the top, edit your profile, and check the box to stop getting email notifications.
-		        	<br><br>You can also leave and join a group at anytime, so if you don't like this group click browse groups and find one you like better.
-		        	</p>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#2" style="color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+				How Do I Get Started?
+			</div>
+			<div class="bg-warning out collapse" id="2" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Start by saying hi to your group in the group chat. Just a simple "hey guys, just joined and looking forward to raiding with you!" is fine.</p>
+			        <p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Next, take a look at any upcoming games in your group. If you see one you like, click the join button. Keep track of when it starts, because you want to be online on your xbox/ psn 10 minutes in advance so the game creator can send you an xbox/ psn invite.</p>
+			       	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you don't see any games that work for you, you can post your own game. Try to post at least 24 hours in advance for best results. It'll automatically email all members when you post a gaming session, so don't double post or create fake gaming sessions. If you don't want to get these emails, just click <strong>"my account"</strong> at the top, edit your profile, and check the box to stop getting email notifications.</p>
+			        <p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can also leave and join a group at anytime, so if you don't like this group click browse groups and find one you like better.</p>
 		        </div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#3" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>What Time Zone Are Games Listed?</div>
-			<div class="bg-warning out collapse" id="3" style="height: 20px;">
-		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.
-		        	<br><br>Hint: If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.
-		        	</p>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#3" style="color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+				What Time Zone Are Games Listed?
+			</div>
+			<div class="bg-warning out collapse" id="3" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="text-decoration: underline;"><span><strong>Setting Your Default Time Zone</strong></span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.</p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><strong>Hint:</strong> If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.</p>
 		    	</div>
 			<br>
-			<h3>Creating and Joining Games</h3>
-		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#1" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>Suggest New Features</div>
-			<div class="bg-warning out collapse" id="1" style="height: 20px;">
-		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">To suggest new features for the100, head on over to the <a href="https://www.reddit.com/r/the100website/comments/3s1cvo/the100_features_suggestions_mega_thread/" target="_blank">r/the100 subreddit</a></p>
+<!--**************************** GAME INFO **************************** GAME INFO **************************** GAME INFO ****************************-->			
+			<h3>Game Session Information</h3>
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#4" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Setting Default Game and Games You Play
+		  	</div>
+			<div class="bg-warning out collapse" id="4" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="text-decoration: underline;"><span><strong>Setting Your Default Game</strong></span></p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Users can now select their primary game on the edit profile page and you can change it any time.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">It sets the default for games search, group search, and new game creation to whatever game you have chosen. </p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can change this to whatever game you are currently primarily playing. If at any time you are going to be playing another game for a while, you can change it as often as you want.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">There should be no need for you to ever login to both <a href="http://the100.io/" target="_blank" rel="noreferrer" data-referer-safe="1">the100.io</a> and <a href="http://thedivision.the100.io/" target="_blank" rel="noreferrer" data-referer-safe="1">thedivision.the100.io</a>, you can just change your primary game.  </p>
+				<p style="text-decoration: underline;"><span><strong>Setting Games You Play</strong></span></p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Users can now add the games they play on the edit profile page and you can add or remove games at any time.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">This is used for primarily for notifications. Groups now send notifications for all games they have listed in the group "games we play" area by default.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You as user can edit your profile and change this to only receive notifications for games you've added to your "games I play" list.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">This feature is in progress and should be displayed on profile view and integrate it more</p>
+				<p><iframe src="https://www.youtube.com/embed/Sm0CP30x1Xo" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#2" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>How Do I Get Started?</span></div>
-			<div class="bg-warning out collapse" id="2" style="height: 20px;">
-		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">Start by saying hi to your group in the group chat. Just a simple "hey guys, just joined and looking forward to raiding with you!" is fine.
-		        	<br><br>Next, take a look at any upcoming games in your group. If you see one you like, click the join button. Keep track of when it starts, because you want to be online on your xbox/ psn 10 minutes in advance so the game creator can send you an xbox/ psn invite.
-		        	<br><br>If you don't see any games that work for you, you can post your own game. Try to post at least 24 hours in advance for best results. It'll automatically email all members when you post a gaming session, so don't double post or create fake gaming sessions. If you don't want to get these emails, just click "my account" at the top, edit your profile, and check the box to stop getting email notifications.
-		        	<br><br>You can also leave and join a group at anytime, so if you don't like this group click browse groups and find one you like better.
-		        	</p>
-		        </div>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#5" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		How do I create a game session?
+		  	</div>
+			<div class="bg-warning out collapse" id="5" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Click the blue "new gaming session" button to post your next gaming session. At work? Post it now so others can see it and join so you're ready to go later. You have to manually invite everyone using the XBL/PSN messaging system, so make sure to do that a little before your game time. As the session creator, the others are expecting you to invite everyone into a party.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Creating a gaming session will automatically email all members of your group when you post a gaming session, so don't double post or create fake gaming sessions.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you don't want to get these emails, just click <strong>"My Account" -&gt; Edit Profile, drop down "more notification options," and uncheck the box that says "[Email] New Group Game</strong></p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you want more information on Game Session types (Default, Group Only, and Friends only), check out this help article on <a href="/hc/en-us/articles/215007698" target="_blank">Game Session Types</a></p>
+				<p><iframe src="https://www.youtube.com/embed/6By-6cMsEYk" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#3" style="font-family: 'Roboto', sans-serif;color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>What Time Zone Are Games Listed?</div>
-			<div class="bg-warning out collapse" id="3" style="height: 20px;">
-		        	<p style="border-top: 1px solid #fff; font-family: 'Roboto', sans-serif; font-size: 14px; padding-top: 15px;">You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.
-		        	<br><br>Hint: If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.
-		        	</p>
-		    	</div>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#6" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Game Session Types
+		  	</div>
+			<div class="bg-warning out collapse" id="6" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">When creating a new gaming session you currently have 3 options when deciding how the session will post: Public, Group Only and Friends Only.</p>
+				<p style="margin-left: 2em; margin-right: 1em; display:inline-block; text-decoration: underline;">1. Public Games</strong></span></p>
+				<ul>
+					<li>-- This is the default selection, with group only and friends only boxes being unchecked.</li>
+					<li>-- In the "Which Group?" field, if "None" is selected the session will post only to the public games section (not in any groups).
+						<ul>
+							<li>* Anyone on your friends list will receive a notification provided they have "New Friend Games" notifications enabled.</li>
+						</ul>
+					</li>
+					<li>-- If you do select a group in the "Which Group?" field, a session will be listed to that group AND the public gaming sessions section.
+						<ul>
+							<li>* Members of the group you post to will be notified of the session being created provided they have "New Group Games" notifications enabled.</li>
+						</ul>
+					</li>
+				</ul>
+				<p style="margin-left: 2em; margin-right: 1em; display:inline-block; text-decoration: underline;">2. Group Only Games</strong></span></p>
+				<ul>
+					<li>-- Selecting "Group only" when creating a session will list the session under the group you specify and not list the groups in the public games listing.</li>
+					<li>-- Members of the group you post to will be notified of the session being created provided they have "New Group Games" notifications enabled.</li>
+					<li>-- The game session can still be found by anyone who browses through the group pages or by one of your friends who browses friends upcoming games.</li>
+				</ul>
+				<p style="margin-left: 2em; margin-right: 1em; display:inline-block; text-decoration: underline;">3. Friends Only Games</strong></span></p>
+				<ul>
+					<li>-- Selecting "Friends only" will not list the session to any groups or in the public games.</li>
+					<li>-- Only people who are on your the100 friends list will be notified of the session creation provided they have "New Friend Games" notifications enabled.</li>
+				</ul>
+			</div>
 			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#7" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		How Do I Join a Game Session?
+		  	</div>
+			<div class="bg-warning out collapse" id="7" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Click the blue "join" button next to any game to join it. Then make sure to be online and signed into your Xbox/Playstation approximately 10 minutes before start time, so the game creator can send you an invite.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you don't get an invite, send them a message through XBL/PSN asking for an invite. You can also try chatting with them right on the game lobby page on the100.io. If no one invites you then start inviting the other players on your own.</p>
+				<p><iframe src="https://www.youtube.com/embed/B4UdIWI9uxE" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#8" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Reserve Users - How and Why?
+		  	</div>
+			<div class="bg-warning out collapse" id="8" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To join a game session as a reserve, simply navigate to the game session you would like to be a reserve in. Then click join and then click join as a reserve.</p>
+				<p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>This feature is best used for the following:</strong></span></p>
+				<p style="margin-left: 2em; margin-right: 2em; display:inline-block;">-- If you will be online and available to help if the session doesn't fill up</p>
+				<p style="margin-left: 2em; margin-right: 2em; display:inline-block;">-- If you are willing to help but don't want to take a spot for someone that needs or wants to attend the session</p>
+				<p style="margin-left: 2em; margin-right: 2em; display:inline-block;">-- You are willing to join if someone doesn't show up</p>
+				<p><iframe src="https://www.youtube.com/embed/QdtNtMub5zY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#9" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Why can a non-group member join my game?
+		  	</div>
+			<div class="bg-warning out collapse" id="9" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">For any default groups ("x Company #"), anyone can navigate to these groups via the "Browse Groups" up in the header; they can even come across groups that are at capacity. If they know a group they are looking for, they can also navigate to a group via Google search. Default groups' games are visible to all, so even a user not in that group has the ability to join sessions posted to that group.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block; color: #428bca;"><strong>Making a Session "Group Only" will prevent the session from being listed in the Public Games listings, however anyone that can navigate to the session page will be able to join the session.</strong></span></p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#10" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		How do I find past/previous games?
+		  	</div>
+			<div class="bg-warning out collapse" id="10" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To find previous game sessions within a particular group, go to the group page and scroll down below the Upcoming Games. Drop down the "Recent Games" link to see the 10 previous games in that group.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To find previous sessions that you have taken part in, go to your Dashboard by finding the link of the same name in the header, choose the My Games tab, and then scroll below the Upcoming Game. Drop down the "Recent Games" link to see your 10 most recent game sessions.</p>
+				<p><iframe src="https://www.youtube.com/embed/e6dZalvxIpY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
+			<br>
+<!--**************************** APP INFO **************************** APP INFO **************************** APP INFO ****************************-->
+			<h3>APP Information</h3>
+		  	
+		  	
+		  	
+<!--**************************** USER INFO **************************** USER INFO **************************** USER INFO ****************************-->
+			<h3>User Information</h3>
+		  	
+
+
+<!--**************************** CHAT INFO **************************** CHAT INFO **************************** CHAT INFO ****************************-->
+			<h3>Chat Information</h3>
+		  	
+
+
+<!--*************************** GROUP INFO *************************** GROUP INFO *************************** GROUP INFO ****************************-->			
+			<h3>Group Information</h3>
+		  			
+
+<!--*************************** MOD INFO *************************** MOD INFO *************************** MOD INFO ****************************-->			
+			<h3>Moderator Information</h3>
+		  	
+		  	
+<!--*************************** Supporter INFO *************************** Supporter INFO *************************** Supporter INFO ****************************-->			
+			<h3>Supporter Information</h3>
+		  			
 		</div>
