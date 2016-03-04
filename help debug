@@ -303,7 +303,7 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="20" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><p>Activity Score is based off of how many sessions you have joined or created.</p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Activity Score is based off of how many sessions you have joined or created.</p>
 				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can also get points for inviting users to the 100 via your special link tied to your profile (use the invite friends or promote link at the top of your group page.</p>
 				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><img src="http://i.imgur.com/WnCgTh2.png" style="width:100%;" alt=""></p>
 				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Increase your activity score by posting gaming sessions (2 points), joining gaming sessions (1 point), and getting new members to join with a referral link (5 points).</p>
@@ -313,7 +313,80 @@
 			
 <!--**************************** CHAT INFO **************************** CHAT INFO **************************** CHAT INFO ****************************-->
 			<h3>Chat Information</h3>
-		  	
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#21" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Chat Features
+		  	</div>
+			<div class="bg-warning out collapse" id="21" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Chat features that are supported are:</span></strong></p>
+				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Unread message count in favicon</p>
+				<p style="margin-left: 3em; margin-right: 1em; display:inline-block;">- Notifications are only triggered if you are hiding the screen/window</p>
+				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Feedback from ​the100bot​ when the chat is reconnecting</p>
+				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">3. Users can edit their own messages for up to 5 minutes after posting</p>
+				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">4. Moderators who are <a style="background-color: #428bca;" href="https://www.the100.io/supporters" target="_blank">SUPPORTERS</a> can edit anyone's message at any time</p>
+				<p style="margin-left: 3em; margin-right: 1em; display:inline-block;">- The post will be flagged with moderator who edited the post</p>
+				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">5. Chat also can have various Formatting, Inline Images, and EMOJI</p>
+				<p style="margin-left: 3em; margin-right: 1em; display:inline-block;">- SEE NEXT SECTION IN THE FAQ</p>
+				
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#22" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Chat Formatting, Inline Images, and EMOJI
+		  	</div>
+			<div class="bg-warning out collapse" id="22" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><p>On 2015-09-11 Chat was upgraded to include various new formatting features. It now supports markdown formatting similar to what reddit used.</p>
+				<p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>FONT FORMATTING</span></strong></p>
+				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Italics</p>
+				<p>Text can be displayed in an italic font by surrounding a word or words with either single asterisks (*) or single underscores (_).</p>
+				<p>For example:</p>
+				<p>This sentence includes *italic text*.</p>
+				<p><span class="wysiwyg-color-black">is displayed as: </span>This sentence includes <em>italic text</em>.</p>
+				<p><strong><span>Bold</span></strong></p>
+				<p>Text can be displayed in a bold font by surrounding a word or words with either double asterisks (**) or double underscores (__).</p>
+				<p>For example:</p>
+				<p>This sentence includes **bold text**.</p>
+				<p>is displayed as: This sentence includes <strong>bold text.</strong></p>
+				<p><strong>Superscript</strong></p>
+				<p>Text can be displayed in superscript font by surrounding a word or words with single carets (^)</p>
+				<p>For example:</p>
+				<p>This sentence includes superscript^text^.</p>
+				<p>is displayed as: This sentence includes superscript<sup>text</sup>.</p>
+				<p><strong>Spoilers</strong></p>
+				<p>Spoiler text can be hidden by surrounding a word or words with double tildes (~~)</p>
+				<p>This sentence includes ~~spoilers~~.</p>
+				<p>The word "spoilers" will be hidden and will only show on mouseover.</p>
+				<p><strong>Code Blocks</strong></p>
+				<p>Wrap in backticks (aka the grave accent) for a code block `<span class="wysiwyg-color-red"><span class="wysiwyg-color-red120">like this</span><span class="wysiwyg-color-black">`</span></span></p>
+				<p>Backticks <code>(`)</code>, not to be confused with apostrophes <code>(')</code></p>
+				<p><strong>Inline-style links</strong></p>
+				<p><code>[I'm an inline-style link](https://www.google.com)</code> will show as</p>
+				<p><a style="background-color: #ffffff;" href="https://www.google.com">I'm an inline-style link</a> in the chat</p>
+				<p><strong>Inline-image links</strong></p>
+				<p><span style="font-family: monospace; font-size: 1em;">![](image url here)</span></p>
+				<p><strong>Inline-youtube links</strong></p>
+				<p><span style="font-family: monospace; font-size: 1em;">![](youtube url here)</span></p>
+				<p><strong>Emoji</strong></p>
+				<p>Send emoji using ​:&lt;emoji name&gt;:</p>
+				<p>Most of the emoji listed here are supported: <a style="background-color: #ffffff;" href="http://www.emoji-cheat-sheet.com" target="_blank">http://www.emoji-cheat-sheet.com</a></p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		How to Mention / Tag Other Users
+		  	</div>
+			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><p>Activity Score is based off of how many sessions you have joined or created.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can also get points for inviting users to the 100 via your special link tied to your profile (use the invite friends or promote link at the top of your group page.</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><img src="http://i.imgur.com/WnCgTh2.png" style="width:100%;" alt=""></p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Increase your activity score by posting gaming sessions (2 points), joining gaming sessions (1 point), and getting new members to join with a referral link (5 points).</p>
+				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you see anyone trying to game the system or posting fake gaming sessions, go to their profile and click "report user" to notify us.</p>
+			</div>
+			<br>
+			
 
 
 <!--*************************** GROUP INFO *************************** GROUP INFO *************************** GROUP INFO ****************************-->			
