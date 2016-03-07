@@ -27,7 +27,7 @@
   	</div>
 <!--**************************** START OF SECTION ****************************-->
 	<div class="row">
-		<div class="col-sm-12">
+		<div class="col-sm-7">
 <!--**************************** FAQ INFO ****************************-->
 			<h3>Frequently Asked Questions</h3>
 		  	<h4><small>Look here for common questions and answers.</small></h4>
@@ -600,5 +600,9 @@
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/3nb3cbzx6i8" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-		  			
 		</div>
+		<div class="col-sm-5">
+			<!--**************************** INSERT CHAT API ****************************-->
+		</div>
+	</div>
+</div>
