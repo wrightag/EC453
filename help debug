@@ -55,9 +55,9 @@
 			</div>
 			<div class="bg-warning out collapse" id="3" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: September 04, 2015 By: <a style="color: #FBB829;" href="https://www.the100.io/u/chinesebeatle" target="_blank"><ins>chinesebeatle</ins></a></small><span></p>
-		        	<p style="text-decoration: underline;"><span><strong>Setting Your Default Time Zone</strong></span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.</p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><strong>Hint:</strong> If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.</p>
+		        	<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Setting Your Default Time Zone</strong></span></p>
+		        	<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">You can set your time zone by going to My Account -> Edit Profile -> Timezone, and then click update after you select your time zone. All times on the site will then display in your time zone when you are browsing while logged in. If you are not logged in, all times display in US Pacific time.</p>
+		        	<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;"><strong>Hint:</strong> If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.</p>
 		    	</div>
 			<br>
 <!--**************************** GAME INFO ****************************-->			
@@ -68,17 +68,17 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="4" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="text-decoration: underline;"><span><strong>Setting Your Default Game</strong></span></p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Users can now select their primary game on the edit profile page and you can change it any time.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">It sets the default for games search, group search, and new game creation to whatever game you have chosen. </p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can change this to whatever game you are currently primarily playing. If at any time you are going to be playing another game for a while, you can change it as often as you want.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">There should be no need for you to ever login to both <a href="http://the100.io/" target="_blank" rel="noreferrer" data-referer-safe="1">the100.io</a> and <a href="http://thedivision.the100.io/" target="_blank" rel="noreferrer" data-referer-safe="1">thedivision.the100.io</a>, you can just change your primary game.  </p>
-				<p style="text-decoration: underline;"><span><strong>Setting Games You Play</strong></span></p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Users can now add the games they play on the edit profile page and you can add or remove games at any time.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">This is used for primarily for notifications. Groups now send notifications for all games they have listed in the group "games we play" area by default.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You as user can edit your profile and change this to only receive notifications for games you've added to your "games I play" list.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">This feature is in progress and should be displayed on profile view and integrate it more</p>
-				<p><iframe src="https://www.youtube.com/embed/Sm0CP30x1Xo" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+		        	<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Setting Your Default Game</strong></span></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Users can now select their primary game on the edit profile page and you can change it any time.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">It sets the default for games search, group search, and new game creation to whatever game you have chosen. </p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">You can change this to whatever game you are currently primarily playing. If at any time you are going to be playing another game for a while, you can change it as often as you want.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">There should be no need for you to ever login to both <a href="http://the100.io/" target="_blank" rel="noreferrer" data-referer-safe="1">the100.io</a> and <a href="http://thedivision.the100.io/" target="_blank" rel="noreferrer" data-referer-safe="1">thedivision.the100.io</a>, you can just change your primary game.  </p>
+				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Setting Games You Play</strong></span></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Users can now add the games they play on the edit profile page and you can add or remove games at any time.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">This is used for primarily for notifications. Groups now send notifications for all games they have listed in the group "games we play" area by default.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">You as user can edit your profile and change this to only receive notifications for games you've added to your "games I play" list.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">This feature is in progress and should be displayed on profile view and integrate it more</p>
+				<br><p><iframe src="https://www.youtube.com/embed/Sm0CP30x1Xo" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#5" style="color: #428bca; font-size: 18px;">
@@ -147,8 +147,8 @@
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Xbox:</strong></span></p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">One way to invite users who are not on your friends list is to send them an Xbox message and let them know an invite is coming. Then you can invite them through their profile to your fire team.</p>
-				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Another way to invite users is to invite them all to a party and then invite party to your game (fireteam)</p><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Xbox:</strong></span></p>
-				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Playstation:</strong></span><span><small>Courtesy of: <a style="color: #FBB829;" href="https://www.the100.io/u/NemesisFlux" target="_blank"><ins>NemesisFlux</ins></a></small><span></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Another way to invite users is to invite them all to a party and then invite party to your game (fireteam)</p>
+				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Playstation:</strong></span><span> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <small>Courtesy of: <a style="color: #FBB829;" href="https://www.the100.io/u/NemesisFlux" target="_blank"><ins>NemesisFlux</ins></a></small><span></p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">One way to invite users who are not on your friends list is to send PSN "Party" invites, not Fireteam invites. The person running the game sets their Fireteam to public, when they are in the raid (or whatever) and then tells everyone that they can join on them. (Everyone can hear this because they are in the voice Party.) From the PSN Party listing, you can join the Fireteam of a Party member by selecting that player in the Party listing. (But you can only join on them if you are their friend or their Fireteam is set to public.)</p>
 			</div>
 			<br>
@@ -488,11 +488,11 @@
 			<h3>Supporter Information</h3>
 		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#32" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
-		  		How to become a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a>
+		  		How to become a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">&nbsp;SUPPORTER&nbsp;</a>
 		  	</div>
 			<div class="bg-warning out collapse" id="32" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To become a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a> you can either choose to make a donation, refer friends to the100.io, or become a Sherpa</p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To become a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">&nbsp;SUPPORTER&nbsp;</a> you can either choose to make a donation, refer friends to the100.io, or become a Sherpa</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To make a donation, head over to <a href="https://www.the100.io/supporters" target="_blank">The Supporters Page</a></p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you don't have and extra cash, start referring friends to the site using <a href="https://www.the100.io/refer" target="_blank">The Refer Friends Page</a> </p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Another free way to become a supporter is to participate in the Sherpa Program. See the <a href="https://www.the100.io/users/123/sherpa" target="_blank">Sherpa Page</a> for more info</p>
@@ -501,7 +501,7 @@
 			<br>
 		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#33" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
-		  		Why Should I Become A <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a>
+		  		Why Should I Become A <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">&nbsp;SUPPORTER&nbsp;</a>
 		  	</div>
 			<div class="bg-warning out collapse" id="33" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
@@ -516,7 +516,7 @@
 			<br>
 		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#34" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
-		  		<a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a> Perks
+		  		<a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">&nbsp;SUPPORTER&nbsp;</a> Perks
 		  	</div>
 			<div class="bg-warning out collapse" id="34" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
@@ -543,7 +543,7 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="35" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a> you can add any friends (that are friends through the100.io) to any game session.</p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">&nbsp;SUPPORTER&nbsp;</a> you can add any friends (that are friends through the100.io) to any game session.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To add a friend to a game:</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Go to the game session lobby that you wish to add your friend to</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Scroll to the bottom of the page</p>
@@ -558,7 +558,7 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="36" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a> you can add a Custom Character to any game session you've joined.</p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">&nbsp;SUPPORTER&nbsp;</a> you can add a Custom Character to any game session you've joined.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">In order to add a custom character to a game session you first need to create your custom character.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To create your custom characters:</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Go to the game session lobby you've joined</p>
@@ -575,7 +575,7 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="37" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a> you can add a Custom Character to any game session you've joined.</p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">&nbsp;SUPPORTER&nbsp;</a> you can add a Custom Character to any game session you've joined.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">In order to add a custom character to a game session you first need to create your custom character.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To add a custom character to a game session:</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Go to the game session lobby you've joined</p>
@@ -591,7 +591,7 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="38" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a supporter you can set up iCal or Google Calendar Syncing for your gaming sessions.</p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">&nbsp;SUPPORTER&nbsp;</a> you can set up iCal or Google Calendar Syncing for your gaming sessions.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To set up calendar syncing:</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Go you your DASHBOARD</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Scroll to supporter perks</p>
