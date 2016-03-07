@@ -25,10 +25,10 @@
 			 <br>
 		</div>
   	</div>
-<!--**************************** START OF SECTION **************************** START OF SECTION **************************** -->
+<!--**************************** START OF SECTION ****************************-->
 	<div class="row">
 		<div class="col-sm-12">
-<!--**************************** FAQ INFO **************************** FAQ INFO **************************** FAQ INFO ****************************-->
+<!--**************************** FAQ INFO ****************************-->
 			<h3>Frequently Asked Questions</h3>
 		  	<h4><small>Look here for common questions and answers.</small></h4>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#1" style="color: #428bca; font-size: 18px;"><span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
@@ -60,7 +60,7 @@
 		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><strong>Hint:</strong> If you're ever unsure, all times displayed on this site will list the time zone code next to the date of the session.</p>
 		    	</div>
 			<br>
-<!--**************************** GAME INFO **************************** GAME INFO **************************** GAME INFO ****************************-->			
+<!--**************************** GAME INFO ****************************-->			
 			<h3>Game Session Information</h3>
 		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#4" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
@@ -134,9 +134,9 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="7" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Click the blue "join" button next to any game to join it. Then make sure to be online and signed into your Xbox/Playstation approximately 10 minutes before start time, so the game creator can send you an invite.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you don't get an invite, send them a message through XBL/PSN asking for an invite. You can also try chatting with them right on the game lobby page on the100.io. If no one invites you then start inviting the other players on your own.</p>
-				<p><iframe src="https://www.youtube.com/embed/B4UdIWI9uxE" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Click the blue "join" button next to any game to join it. Then make sure to be online and signed into your Xbox/Playstation approximately 10 minutes before start time, so the game creator can send you an invite.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you don't get an invite, send them a message through XBL/PSN asking for an invite. You can also try chatting with them right on the game lobby page on the100.io. If no one invites you then start inviting the other players on your own.</p>
+				<br><p><iframe src="https://www.youtube.com/embed/B4UdIWI9uxE" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#7" style="color: #428bca; font-size: 18px;">
@@ -145,11 +145,11 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="7" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Xbox:</strong></span></p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">One way to invite users who are not on your friends list is to send them an Xbox message and let them know an invite is coming. Then you can invite them through their profile to your fire team.</p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Another way to invite users is to invite them all to a party and then invite party to your game (fireteam)</p><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Xbox:</strong></span></p>
-				<p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Playstation:</strong></span><span><small>Courtesy of: <a style="color: #FBB829;" href="https://www.the100.io/u/NemesisFlux" target="_blank"><ins>NemesisFlux</ins></a></small><span></p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">One way to invite users who are not on your friends list is to send PSN "Party" invites, not Fireteam invites. The person running the game sets their Fireteam to public, when they are in the raid (or whatever) and then tells everyone that they can join on them. (Everyone can hear this because they are in the voice Party.) From the PSN Party listing, you can join the Fireteam of a Party member by selecting that player in the Party listing. (But you can only join on them if you are their friend or their Fireteam is set to public.)</p>
+		        	<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Xbox:</strong></span></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">One way to invite users who are not on your friends list is to send them an Xbox message and let them know an invite is coming. Then you can invite them through their profile to your fire team.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Another way to invite users is to invite them all to a party and then invite party to your game (fireteam)</p><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Xbox:</strong></span></p>
+				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Playstation:</strong></span><span><small>Courtesy of: <a style="color: #FBB829;" href="https://www.the100.io/u/NemesisFlux" target="_blank"><ins>NemesisFlux</ins></a></small><span></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">One way to invite users who are not on your friends list is to send PSN "Party" invites, not Fireteam invites. The person running the game sets their Fireteam to public, when they are in the raid (or whatever) and then tells everyone that they can join on them. (Everyone can hear this because they are in the voice Party.) From the PSN Party listing, you can join the Fireteam of a Party member by selecting that player in the Party listing. (But you can only join on them if you are their friend or their Fireteam is set to public.)</p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#8" style="color: #428bca; font-size: 18px;">
@@ -158,12 +158,12 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="8" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To join a game session as a reserve, simply navigate to the game session you would like to be a reserve in. Then click join and then click join as a reserve.</p>
-				<p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>This feature is best used for the following:</strong></span></p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">-- If you will be online and available to help if the session doesn't fill up</p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">-- If you are willing to help but don't want to take a spot for someone that needs or wants to attend the session</p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">-- You are willing to join if someone doesn't show up</p>
-				<p><iframe src="https://www.youtube.com/embed/QdtNtMub5zY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To join a game session as a reserve, simply navigate to the game session you would like to be a reserve in. Then click join and then click join as a reserve.</p>
+				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>This feature is best used for the following:</strong></span></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">-- If you will be online and available to help if the session doesn't fill up</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">-- If you are willing to help but don't want to take a spot for someone that needs or wants to attend the session</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">-- You are willing to join if someone doesn't show up</p>
+				<br><p><iframe src="https://www.youtube.com/embed/QdtNtMub5zY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#9" style="color: #428bca; font-size: 18px;">
@@ -172,8 +172,8 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="9" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">For any default groups ("x Company #"), anyone can navigate to these groups via the "Browse Groups" up in the header; they can even come across groups that are at capacity. If they know a group they are looking for, they can also navigate to a group via Google search. Default groups' games are visible to all, so even a user not in that group has the ability to join sessions posted to that group.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block; color: #428bca;"><strong>Making a Session "Group Only" will prevent the session from being listed in the Public Games listings, however anyone that can navigate to the session page will be able to join the session.</strong></span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">For any default groups ("x Company #"), anyone can navigate to these groups via the "Browse Groups" up in the header; they can even come across groups that are at capacity. If they know a group they are looking for, they can also navigate to a group via Google search. Default groups' games are visible to all, so even a user not in that group has the ability to join sessions posted to that group.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block; color: #428bca;"><strong>Making a Session "Group Only" will prevent the session from being listed in the Public Games listings, however anyone that can navigate to the session page will be able to join the session.</strong></span></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#10" style="color: #428bca; font-size: 18px;">
@@ -182,9 +182,9 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="10" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To find previous game sessions within a particular group, go to the group page and scroll down below the Upcoming Games. Drop down the "Recent Games" link to see the 10 previous games in that group.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To find previous sessions that you have taken part in, go to your Dashboard by finding the link of the same name in the header, choose the My Games tab, and then scroll below the Upcoming Game. Drop down the "Recent Games" link to see your 10 most recent game sessions.</p>
-				<p><iframe src="https://www.youtube.com/embed/e6dZalvxIpY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To find previous game sessions within a particular group, go to the group page and scroll down below the Upcoming Games. Drop down the "Recent Games" link to see the 10 previous games in that group.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To find previous sessions that you have taken part in, go to your Dashboard by finding the link of the same name in the header, choose the My Games tab, and then scroll below the Upcoming Game. Drop down the "Recent Games" link to see your 10 most recent game sessions.</p>
+				<br><p><iframe src="https://www.youtube.com/embed/e6dZalvxIpY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#11" style="color: #428bca; font-size: 18px;">
@@ -193,10 +193,10 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="11" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Kicking a user is used to remove an user from a session. This is primarily used to remove someone when they have asked the game creator to do so.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><strong>Removing a user just to make room for a friend is not acceptable. </strong>If you would like to have a friend join a full session, message the other users in the session to see if they wouldn't mind leaving.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To kick a user, go to the game session and click "kick" on the user you want to remove. You must be the session creator in order to be able to kick someone.</p>
-				<p><iframe src="https://www.youtube.com/embed/h3mGk0D1qPM" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Kicking a user is used to remove an user from a session. This is primarily used to remove someone when they have asked the game creator to do so.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><strong>Removing a user just to make room for a friend is not acceptable. </strong>If you would like to have a friend join a full session, message the other users in the session to see if they wouldn't mind leaving.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To kick a user, go to the game session and click "kick" on the user you want to remove. You must be the session creator in order to be able to kick someone.</p>
+				<br><p><iframe src="https://www.youtube.com/embed/h3mGk0D1qPM" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#12" style="color: #428bca; font-size: 18px;">
@@ -205,14 +205,14 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="12" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Reporting no-shows should only be used in cases where an user fails to communicate prior to the start of the session that he will not be attending the session. If the user leaves the session prior to the start time, that is not worthy of a no-show report. </p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">However, reporting users as no-shows is important to help keep the site functioning as intended. </p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To mark someone as a no-show, go the gaming session and click mark as a no-show.  More than one user must mark them as a no-show to prevent fraudulent activity.</p>
-				<p><iframe src="https://www.youtube.com/embed/2ZbCmLGtvJA" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Reporting no-shows should only be used in cases where an user fails to communicate prior to the start of the session that he will not be attending the session. If the user leaves the session prior to the start time, that is not worthy of a no-show report. </p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">However, reporting users as no-shows is important to help keep the site functioning as intended. </p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To mark someone as a no-show, go the gaming session and click mark as a no-show.  More than one user must mark them as a no-show to prevent fraudulent activity.</p>
+				<br><p><iframe src="https://www.youtube.com/embed/2ZbCmLGtvJA" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
 			
-<!--**************************** APP INFO **************************** APP INFO **************************** APP INFO ****************************-->
+<!--**************************** APP INFO ****************************-->
 			<h3>APP Information</h3>
 		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#13" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
@@ -220,8 +220,8 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="13" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">The Anroid App can be found in the Google Play Store here: <a href="https://play.google.com/apps/testing/io.the100.mobile" target="_blank">The100.io Group Matchmaking</a></p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To give feedback on the Android App please head on over to the <a href="https://www.reddit.com/r/the100website/comments/47n5wq/the100io_android_app_beta_feedback/" target="_blank">the100 subreddit - Android App Feedback</a></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">The Anroid App can be found in the Google Play Store here: <a href="https://play.google.com/apps/testing/io.the100.mobile" target="_blank">The100.io Group Matchmaking</a></p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To give feedback on the Android App please head on over to the <a href="https://www.reddit.com/r/the100website/comments/47n5wq/the100io_android_app_beta_feedback/" target="_blank">the100 subreddit - Android App Feedback</a></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#14" style="color: #428bca; font-size: 18px;">
@@ -230,12 +230,12 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="14" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">The iOS app can be found in the Apple Store here: <a href="https://itunes.apple.com/us/app/the100.io-group-matchmaking/id972830288?mt=8" target="_blank">The100.io Group Matchmaking</a></p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To give feedback on the iOS App please head on over to the <a href="https://www.reddit.com/r/the100website/comments/465wlb/the100io_ios_app_feedback/" target="_blank">the100 subreddit - iOS App Feedback</a></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">The iOS app can be found in the Apple Store here: <a href="https://itunes.apple.com/us/app/the100.io-group-matchmaking/id972830288?mt=8" target="_blank">The100.io Group Matchmaking</a></p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To give feedback on the iOS App please head on over to the <a href="https://www.reddit.com/r/the100website/comments/465wlb/the100io_ios_app_feedback/" target="_blank">the100 subreddit - iOS App Feedback</a></p>
 			</div>
 			<br>
 			
-<!--**************************** USER INFO **************************** USER INFO **************************** USER INFO ****************************-->
+<!--**************************** USER INFO *****************************-->
 			<h3>User Information</h3>
 		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#15" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
@@ -243,9 +243,9 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="15" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To add a user as a friend, go to the the user's profile by clicking their name and click the "Add Friend" button.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you need to find a user, Go to <a href="https://www.the100.io/community" target="_blank">https://www.the100.io/community</a> and enter the users Xbox or Playstation gamertag it the appropriate search box.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/pTEyRZMc_GU" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To add a user as a friend, go to the the user's profile by clicking their name and click the "Add Friend" button.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you need to find a user, Go to <a href="https://www.the100.io/community" target="_blank">https://www.the100.io/community</a> and enter the users Xbox or Playstation gamertag it the appropriate search box.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/pTEyRZMc_GU" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#16" style="color: #428bca; font-size: 18px;">
@@ -254,13 +254,13 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="16" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>What is Karma?</strong></span></p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Karma is basically a measure of how awesome you are.</p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">If you find another player especially friendly or helpful, click the star button on their profile to award them a karma point.</p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Karma can only be give once per person, so if you see someone with 10 karma points, that means 10 different people thought they were awesome.</p>
-				<p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>How do I give Karma?</strong></span></p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">You can give someone Karma by clicking the give karma button on their profile. You can only give a person Karma once.</p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">There is a time and activity threshold before you can give Karma. You need to have used the site for a week or two, and created or joined an "average" number of sessions in that time to increase your activity score. The exact details of the requirements for being able to give karma are kept unspecified to prevent abuse of the Karma system.</p>
+		        	<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>What is Karma?</strong></span></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Karma is basically a measure of how awesome you are.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">If you find another player especially friendly or helpful, click the star button on their profile to award them a karma point.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Karma can only be give once per person, so if you see someone with 10 karma points, that means 10 different people thought they were awesome.</p>
+				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>How do I give Karma?</strong></span></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">You can give someone Karma by clicking the give karma button on their profile. You can only give a person Karma once.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">There is a time and activity threshold before you can give Karma. You need to have used the site for a week or two, and created or joined an "average" number of sessions in that time to increase your activity score. The exact details of the requirements for being able to give karma are kept unspecified to prevent abuse of the Karma system.</p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#17" style="color: #428bca; font-size: 18px;">
@@ -269,9 +269,9 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="17" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Reporting users is a feature that allows another user to report users who are not being respectful and or not following the rules of the site.  This helps the100.io to function with helpful and friendly users.  </p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To report a user, go to their profile and click report user.  If you can not find their profile, refer to your game session history or <a href="/hc/en-us/articles/208307518-Finding-Users-and-Adding-Friends" target="_blank">read this article to find a user</a></p>
-				<p><iframe src="https://www.youtube.com/embed/-dFrrqUNoe0" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Reporting users is a feature that allows another user to report users who are not being respectful and or not following the rules of the site.  This helps the100.io to function with helpful and friendly users.  </p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To report a user, go to their profile and click report user.  If you can not find their profile, refer to your game session history or <a href="/hc/en-us/articles/208307518-Finding-Users-and-Adding-Friends" target="_blank">read this article to find a user</a></p>
+				<br><p><iframe src="https://www.youtube.com/embed/-dFrrqUNoe0" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#18" style="color: #428bca; font-size: 18px;">
@@ -280,11 +280,11 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="18" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To manage email notifications, navigate to &gt; My Account &gt; Edit profile.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Scroll down to notifications area and select the options you want. </p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block; color: #428bca;"><strong>More options are listed if you click the More Notification Options Link.</strong></span></p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">The Mobile notifications are for the future mobile app coming soon.</span></p>
-				<p><iframe src="https://www.youtube.com/embed/VkVJxN7GU24" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To manage email notifications, navigate to &gt; My Account &gt; Edit profile.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Scroll down to notifications area and select the options you want. </p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block; color: #428bca;"><strong>More options are listed if you click the More Notification Options Link.</strong></span></p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">The Mobile notifications are for the future mobile app coming soon.</span></p>
+				<br><p><iframe src="https://www.youtube.com/embed/VkVJxN7GU24" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#19" style="color: #428bca; font-size: 18px;">
@@ -293,8 +293,8 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="19" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Go to My Account -&gt; Edit Profile, and find the field "Avatar". Select the file you wish to use and upload it.</p>
-				<p><iframe src="https://www.youtube.com/embed/18no4X9H08g" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Go to My Account -&gt; Edit Profile, and find the field "Avatar". Select the file you wish to use and upload it.</p>
+				<br><p><iframe src="https://www.youtube.com/embed/18no4X9H08g" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#20" style="color: #428bca; font-size: 18px;">
@@ -303,15 +303,15 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="20" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Activity Score is based off of how many sessions you have joined or created.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can also get points for inviting users to the 100 via your special link tied to your profile (use the invite friends or promote link at the top of your group page.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><img src="http://i.imgur.com/WnCgTh2.png" style="width:100%;" alt=""></p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Increase your activity score by posting gaming sessions (2 points), joining gaming sessions (1 point), and getting new members to join with a referral link (5 points).</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you see anyone trying to game the system or posting fake gaming sessions, go to their profile and click "report user" to notify us.</p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Activity Score is based off of how many sessions you have joined or created.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can also get points for inviting users to the 100 via your special link tied to your profile (use the invite friends or promote link at the top of your group page.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><img src="http://i.imgur.com/WnCgTh2.png" style="width:100%;" alt=""></p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Increase your activity score by posting gaming sessions (2 points), joining gaming sessions (1 point), and getting new members to join with a referral link (5 points).</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you see anyone trying to game the system or posting fake gaming sessions, go to their profile and click "report user" to notify us.</p>
 			</div>
 			<br>
 			
-<!--**************************** CHAT INFO **************************** CHAT INFO **************************** CHAT INFO ****************************-->
+<!--**************************** CHAT INFO ****************************-->
 			<h3>Chat Information</h3>
 		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#21" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
@@ -319,58 +319,56 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="21" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Chat features that are supported are:</span></strong></p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Unread message count in favicon</p>
-				<p style="margin-left: 3em; margin-right: 1em; display:inline-block;">- Notifications are only triggered if you are hiding the screen/window</p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Feedback from ​the100bot​ when the chat is reconnecting</p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">3. Users can edit their own messages for up to 5 minutes after posting</p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">4. Moderators who are <a style="background-color: #428bca;" href="https://www.the100.io/supporters" target="_blank">SUPPORTERS</a> can edit anyone's message at any time</p>
-				<p style="margin-left: 3em; margin-right: 1em; display:inline-block;">- The post will be flagged with moderator who edited the post</p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">5. Chat also can have various Formatting, Inline Images, and EMOJI</p>
-				<p style="margin-left: 3em; margin-right: 1em; display:inline-block;">- SEE NEXT SECTION IN THE FAQ</p>
+		        	<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Chat features that are supported are:</span></strong></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Unread message count in favicon</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">- Notifications are only triggered if you are hiding the screen/window</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Feedback from ​the100bot​ when the chat is reconnecting</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">3. Users can edit their own messages for up to 5 minutes after posting</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">4. Moderators who are <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTERS</a> can edit anyone's message at any time</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">- The post will be flagged with moderator who edited the post</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">5. Chat also can have various Formatting, Inline Images, and EMOJI</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">- SEE NEXT SECTION IN THE FAQ</p>
 				
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#22" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
-		  		Chat Formatting, Inline Images, and EMOJI
+		  		Chat Formatting, Inline Formatting, and EMOJI
 		  	</div>
 			<div class="bg-warning out collapse" id="22" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><p>On 2015-09-11 Chat was upgraded to include various new formatting features. It now supports markdown formatting similar to what reddit used.</p>
-				<p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>FONT FORMATTING</span></strong></p>
-				<p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Italics</p>
-				<p>Text can be displayed in an italic font by surrounding a word or words with either single asterisks (*) or single underscores (_).</p>
-				<p>For example:</p>
-				<p>This sentence includes *italic text*.</p>
-				<p><span class="wysiwyg-color-black">is displayed as: </span>This sentence includes <em>italic text</em>.</p>
-				<p><strong><span>Bold</span></strong></p>
-				<p>Text can be displayed in a bold font by surrounding a word or words with either double asterisks (**) or double underscores (__).</p>
-				<p>For example:</p>
-				<p>This sentence includes **bold text**.</p>
-				<p>is displayed as: This sentence includes <strong>bold text.</strong></p>
-				<p><strong>Superscript</strong></p>
-				<p>Text can be displayed in superscript font by surrounding a word or words with single carets (^)</p>
-				<p>For example:</p>
-				<p>This sentence includes superscript^text^.</p>
-				<p>is displayed as: This sentence includes superscript<sup>text</sup>.</p>
-				<p><strong>Spoilers</strong></p>
-				<p>Spoiler text can be hidden by surrounding a word or words with double tildes (~~)</p>
-				<p>This sentence includes ~~spoilers~~.</p>
-				<p>The word "spoilers" will be hidden and will only show on mouseover.</p>
-				<p><strong>Code Blocks</strong></p>
-				<p>Wrap in backticks (aka the grave accent) for a code block `<span class="wysiwyg-color-red"><span class="wysiwyg-color-red120">like this</span><span class="wysiwyg-color-black">`</span></span></p>
-				<p>Backticks <code>(`)</code>, not to be confused with apostrophes <code>(')</code></p>
-				<p><strong>Inline-style links</strong></p>
-				<p><code>[I'm an inline-style link](https://www.google.com)</code> will show as</p>
-				<p><a style="background-color: #ffffff;" href="https://www.google.com">I'm an inline-style link</a> in the chat</p>
-				<p><strong>Inline-image links</strong></p>
-				<p><span style="font-family: monospace; font-size: 1em;">![](image url here)</span></p>
-				<p><strong>Inline-youtube links</strong></p>
-				<p><span style="font-family: monospace; font-size: 1em;">![](youtube url here)</span></p>
-				<p><strong>Emoji</strong></p>
-				<p>Send emoji using ​:&lt;emoji name&gt;:</p>
-				<p>Most of the emoji listed here are supported: <a style="background-color: #ffffff;" href="http://www.emoji-cheat-sheet.com" target="_blank">http://www.emoji-cheat-sheet.com</a></p>
+				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>FONT FORMATTING</span></strong></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;"><strong><span>Italics</span></strong></p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Text can be displayed in an italic font by surrounding a word or words with either single asterisks (*) or single underscores (_).</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">For example: This sentence includes *italic text*.</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Is displayed as: </span>This sentence includes <em>italic text</em>.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;"><strong><span>Bold</span></strong></p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Text can be displayed in a bold font by surrounding a word or words with either double asterisks (**) or double underscores (__).</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">For example: This sentence includes **bold text**.</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Is displayed as: This sentence includes <strong>bold text.</strong></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;"><strong>Superscript</strong></p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Text can be displayed in superscript font by surrounding a word or words with single carets (^)</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">For example: This sentence includes superscript^text^.</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Is displayed as: This sentence includes superscript<sup>text</sup>.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;"><strong>Spoilers</strong></p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Spoiler text can be hidden by surrounding a word or words with double tildes (~~)</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">This sentence includes ~~spoilers~~.</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">The word "spoilers" will be hidden and will only show on mouseover.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;"><strong>Code Blocks</strong></p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Wrap in backticks (aka the grave accent) for a code block `<span style="color: red; background-color: white;">I AM A CODE BLOCK</span>`</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Backticks `, not to be confused with apostrophes '</p>
+				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inline Formatting</span></strong></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;"><strong>Inline-style links</strong></p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;"><code>[I'm an inline-style link](https://www.google.com)</code> will show as</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;"><a href="https://www.google.com">I'm an inline-style link</a> in the chat</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;"><strong>Inline-image links</strong></p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;"><span style="font-family: monospace; font-size: 1em;">![](image url here)</span></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;"><strong>Inline-youtube links</strong></p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;"><span style="font-family: monospace; font-size: 1em;">![](youtube url here)</span></p>
+				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Emoji</span></strong></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Send emoji using :<emoji name>:</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Most of the emoji listed here are supported: <a style="background-color: #ffffff;" href="http://www.emoji-cheat-sheet.com" target="_blank">http://www.emoji-cheat-sheet.com</a></p>
 			</div>
 			<br>
 			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
@@ -379,25 +377,92 @@
 		  	</div>
 			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
-		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><p>Activity Score is based off of how many sessions you have joined or created.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can also get points for inviting users to the 100 via your special link tied to your profile (use the invite friends or promote link at the top of your group page.</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><img src="http://i.imgur.com/WnCgTh2.png" style="width:100%;" alt=""></p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Increase your activity score by posting gaming sessions (2 points), joining gaming sessions (1 point), and getting new members to join with a referral link (5 points).</p>
-				<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you see anyone trying to game the system or posting fake gaming sessions, go to their profile and click "report user" to notify us.</p>
+		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Use @[username] in a chat to send a message to that user's attention, and they will get an email notifying them that someone mentioned them in chat with a link to the room they were mentioned (as long as they have not turned off the email notifications for mentions or turned off all gaming notifications).</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">If the user has a space in their name, substitute an underscore (_) for the space or use multiple underscores (_) if they have multiple spaces.</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">To tag Fear Broner use @Fear_Broner</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">To tag N E O O N E X use @N_E_O_O_N_E_X</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">The @[username] can be used anywhere in the message</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">The @[username] can be used multiple times in a message to mention multiple users.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Within a game session lobby ONLY, "@all" can be used to notify all members that are currently signed up for that session</p>
 			</div>
 			<br>
 			
-
-
-<!--*************************** GROUP INFO *************************** GROUP INFO *************************** GROUP INFO ****************************-->			
+<!--*************************** GROUP INFO ***************************-->			
 			<h3>Group Information</h3>
-		  			
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		How To Search For Groups
+		  	</div>
+			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you know the name of the <strong>Public Group</strong> or <strong>Private Group</strong> and need to find their group page, Go to https://www.the100.io/community and enter the appropriate group name in the search box.</p>
+		        	<br><p><iframe src="https://www.youtube.com/embed/Ggf9qiy1pyo" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Group inactivity/Re-joining a group
+		  	</div>
+			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You will be removed from a group if you are not active in that particular group for 45 days. Performing the following actions qualifies as being active in the group:</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Creating a game session</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Joining a game session</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Posting a message in the group chat room</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you are inactive for a period of time, you should receive an email asking, "Do you like [group name]?" If you wish to stay in the group, select the "I want to stay in this group" option, and that will reset your inactivity timer.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><img src="http://i.imgur.com/Xc5WFLj.jpg" style="width:100%;" alt=""></p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you are removed from a group and can't find any emails like what is described above, you can <a href="/hc/en-us/articles/208288808-How-To-Search-For-Groups">search for your previous group</a> and rejoin it using the "Join" button on the group page. Finally, if you don't remember which group you were previously a member of, or the group is full when you attempt to rejoin, you can email mike(at)the100.io and he can get you added back into your former group.</p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		How many members are allowed in a group?
+		  	</div>
+			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Groups have a soft cap of 100 members with no invite needed.</p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Groups can also have up to 120 members by using the invite referral link. However, the group mods can adjust the group hard limit to either 150 or 200.</p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">New members must use a referral link to have the ability to join a group once the size of the group reaches 100 members.</p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">The referral link can be provided by any current member of the group. With referral links, a group can increase up to a hard cap of 120 members.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Here is where you can find the referral link:</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><img src="http://i.imgur.com/sQScg2l.png" style="width:100%;" alt=""> </p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Creating Private Groups
+		  	</div>
+			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you have an existing group/clan, or want to create one more specific than our general groups, you can do so here. Once you create your group, make sure to spread the word by sharing your group link with any existing members, and sharing on social media and forums to recruit new members. Private groups don't appear in the public directory, and we don't auto-fill them with new users who signup. If you don't want to promote your group yourself, consider becoming a mod of one of our auto-generated public groups instead.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">We do offer some privacy options like not displaying group chat publicly, but this is not meant to be a 100% secure communications tool, so please don't post anything sensitive/ confidential anywhere on the site. Also, you're welcome to make your group approval-required and be as selective as you want about who you let in, but this site is meant to be a friendly place for people to find others to play videogames, so please don't be rude/ mean/ power hungry/ fascist about it.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><strong>IF YOU CREATE A PRIVATE GROUP, YOU NEED TO PROMOTE IT YOURSELF</strong>.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you don't want to spend time promoting, please don't make a private group, join a public group where we handle all the promotion for you, and you just focus on playing.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can find out about and create a new Private Group by clicking on the "Private Groups" link in the footer on the100.io page, or by <a href="https://www.the100.io/groups/new" target="_blank">clicking here</a></p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/m-NLTLqwQUI" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		How To Add Members in a Private Group
+		  	</div>
+			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To add members to a private group you have created, follow these steps:</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Navigate to your private group page</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Click on edit group, located in the groups header</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">3. Scroll down to the <span class="wysiwyg-underline"><strong>Pending Members</strong></span> section, located on the right hand side under the mod chat</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">4. Add the members you wish to allow, deny the pending members you wish to prevent from joining.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/jJzi0sLhzUw" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
+			<br>
+					
 
-<!--*************************** MOD INFO *************************** MOD INFO *************************** MOD INFO ****************************-->			
+<!--*************************** MOD INFO ***************************-->			
 			<h3>Moderator Information</h3>
 		  	
 		  	
-<!--*************************** Supporter INFO *************************** Supporter INFO *************************** Supporter INFO ****************************-->			
+<!--*************************** Supporter INFO ***************************-->			
 			<h3>Supporter Information</h3>
 		  			
 		</div>
