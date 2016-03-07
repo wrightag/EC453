@@ -139,11 +139,11 @@
 				<br><p><iframe src="https://www.youtube.com/embed/B4UdIWI9uxE" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#7" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#8" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		How Do Invite Users To My Game?
 		  	</div>
-			<div class="bg-warning out collapse" id="7" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="8" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Inviting Users on Xbox:</strong></span></p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">One way to invite users who are not on your friends list is to send them an Xbox message and let them know an invite is coming. Then you can invite them through their profile to your fire team.</p>
@@ -152,11 +152,11 @@
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">One way to invite users who are not on your friends list is to send PSN "Party" invites, not Fireteam invites. The person running the game sets their Fireteam to public, when they are in the raid (or whatever) and then tells everyone that they can join on them. (Everyone can hear this because they are in the voice Party.) From the PSN Party listing, you can join the Fireteam of a Party member by selecting that player in the Party listing. (But you can only join on them if you are their friend or their Fireteam is set to public.)</p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#8" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#9" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Reserve Users - How and Why?
 		  	</div>
-			<div class="bg-warning out collapse" id="8" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="9" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To join a game session as a reserve, simply navigate to the game session you would like to be a reserve in. Then click join and then click join as a reserve.</p>
 				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>This feature is best used for the following:</strong></span></p>
@@ -166,32 +166,32 @@
 				<br><p><iframe src="https://www.youtube.com/embed/QdtNtMub5zY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#9" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#10" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Why can a non-group member join my game?
 		  	</div>
-			<div class="bg-warning out collapse" id="9" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="10" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">For any default groups ("x Company #"), anyone can navigate to these groups via the "Browse Groups" up in the header; they can even come across groups that are at capacity. If they know a group they are looking for, they can also navigate to a group via Google search. Default groups' games are visible to all, so even a user not in that group has the ability to join sessions posted to that group.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block; color: #428bca;"><strong>Making a Session "Group Only" will prevent the session from being listed in the Public Games listings, however anyone that can navigate to the session page will be able to join the session.</strong></span></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#10" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#11" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		How do I find past/previous games?
 		  	</div>
-			<div class="bg-warning out collapse" id="10" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="11" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To find previous game sessions within a particular group, go to the group page and scroll down below the Upcoming Games. Drop down the "Recent Games" link to see the 10 previous games in that group.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To find previous sessions that you have taken part in, go to your Dashboard by finding the link of the same name in the header, choose the My Games tab, and then scroll below the Upcoming Game. Drop down the "Recent Games" link to see your 10 most recent game sessions.</p>
 				<br><p><iframe src="https://www.youtube.com/embed/e6dZalvxIpY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#11" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#12" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Removing a user from a session
 		  	</div>
-			<div class="bg-warning out collapse" id="11" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="12" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Kicking a user is used to remove an user from a session. This is primarily used to remove someone when they have asked the game creator to do so.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><strong>Removing a user just to make room for a friend is not acceptable. </strong>If you would like to have a friend join a full session, message the other users in the session to see if they wouldn't mind leaving.</p>
@@ -199,11 +199,11 @@
 				<br><p><iframe src="https://www.youtube.com/embed/h3mGk0D1qPM" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#12" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#13" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Reporting No-Shows
 		  	</div>
-			<div class="bg-warning out collapse" id="12" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="13" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Reporting no-shows should only be used in cases where an user fails to communicate prior to the start of the session that he will not be attending the session. If the user leaves the session prior to the start time, that is not worthy of a no-show report. </p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">However, reporting users as no-shows is important to help keep the site functioning as intended. </p>
@@ -214,21 +214,21 @@
 			
 <!--**************************** APP INFO ****************************-->
 			<h3>APP Information</h3>
-		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#13" style="color: #428bca; font-size: 18px;">
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#14" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Android App
 		  	</div>
-			<div class="bg-warning out collapse" id="13" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="14" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">The Anroid App can be found in the Google Play Store here: <a href="https://play.google.com/apps/testing/io.the100.mobile" target="_blank">The100.io Group Matchmaking</a></p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To give feedback on the Android App please head on over to the <a href="https://www.reddit.com/r/the100website/comments/47n5wq/the100io_android_app_beta_feedback/" target="_blank">the100 subreddit - Android App Feedback</a></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#14" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#15" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		iOS App
 		  	</div>
-			<div class="bg-warning out collapse" id="14" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="15" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">The iOS app can be found in the Apple Store here: <a href="https://itunes.apple.com/us/app/the100.io-group-matchmaking/id972830288?mt=8" target="_blank">The100.io Group Matchmaking</a></p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To give feedback on the iOS App please head on over to the <a href="https://www.reddit.com/r/the100website/comments/465wlb/the100io_ios_app_feedback/" target="_blank">the100 subreddit - iOS App Feedback</a></p>
@@ -237,22 +237,22 @@
 			
 <!--**************************** USER INFO *****************************-->
 			<h3>User Information</h3>
-		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#15" style="color: #428bca; font-size: 18px;">
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#16" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Finding Users and Adding Friends
 		  	</div>
-			<div class="bg-warning out collapse" id="15" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="16" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To add a user as a friend, go to the the user's profile by clicking their name and click the "Add Friend" button.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you need to find a user, Go to <a href="https://www.the100.io/community" target="_blank">https://www.the100.io/community</a> and enter the users Xbox or Playstation gamertag it the appropriate search box.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/pTEyRZMc_GU" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#16" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#17" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		What is Karma and How do I give it?
 		  	</div>
-			<div class="bg-warning out collapse" id="16" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="17" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>What is Karma?</strong></span></p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Karma is basically a measure of how awesome you are.</p>
@@ -263,22 +263,22 @@
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">There is a time and activity threshold before you can give Karma. You need to have used the site for a week or two, and created or joined an "average" number of sessions in that time to increase your activity score. The exact details of the requirements for being able to give karma are kept unspecified to prevent abuse of the Karma system.</p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#17" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#18" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Reporting Users
 		  	</div>
-			<div class="bg-warning out collapse" id="17" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="18" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Reporting users is a feature that allows another user to report users who are not being respectful and or not following the rules of the site.  This helps the100.io to function with helpful and friendly users.  </p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To report a user, go to their profile and click report user.  If you can not find their profile, refer to your game session history or <a href="/hc/en-us/articles/208307518-Finding-Users-and-Adding-Friends" target="_blank">read this article to find a user</a></p>
 				<br><p><iframe src="https://www.youtube.com/embed/-dFrrqUNoe0" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#18" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#19" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Managing Notifications
 		  	</div>
-			<div class="bg-warning out collapse" id="18" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="19" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To manage email notifications, navigate to &gt; My Account &gt; Edit profile.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Scroll down to notifications area and select the options you want. </p>
@@ -287,21 +287,21 @@
 				<br><p><iframe src="https://www.youtube.com/embed/VkVJxN7GU24" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#19" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#20" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		How Do I Add A Profile Picture
 		  	</div>
-			<div class="bg-warning out collapse" id="19" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="20" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Go to My Account -&gt; Edit Profile, and find the field "Avatar". Select the file you wish to use and upload it.</p>
 				<br><p><iframe src="https://www.youtube.com/embed/18no4X9H08g" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#20" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#21" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Activity Score
 		  	</div>
-			<div class="bg-warning out collapse" id="20" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="21" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Activity Score is based off of how many sessions you have joined or created.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can also get points for inviting users to the 100 via your special link tied to your profile (use the invite friends or promote link at the top of your group page.</p>
@@ -313,11 +313,11 @@
 			
 <!--**************************** CHAT INFO ****************************-->
 			<h3>Chat Information</h3>
-		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#21" style="color: #428bca; font-size: 18px;">
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#22" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Chat Features
 		  	</div>
-			<div class="bg-warning out collapse" id="21" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="22" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>Chat features that are supported are:</span></strong></p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Unread message count in favicon</p>
@@ -331,11 +331,11 @@
 				
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#22" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Chat Formatting, Inline Formatting, and EMOJI
 		  	</div>
-			<div class="bg-warning out collapse" id="22" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><p>On 2015-09-11 Chat was upgraded to include various new formatting features. It now supports markdown formatting similar to what reddit used.</p>
 				<br><p style="text-decoration: underline; margin-left: 1em; margin-right: 1em; display:inline-block;"><span><strong>FONT FORMATTING</span></strong></p>
@@ -371,11 +371,11 @@
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Most of the emoji listed here are supported: <a style="background-color: #ffffff;" href="http://www.emoji-cheat-sheet.com" target="_blank">http://www.emoji-cheat-sheet.com</a></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#24" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		How to Mention / Tag Other Users
 		  	</div>
-			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="24" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Use @[username] in a chat to send a message to that user's attention, and they will get an email notifying them that someone mentioned them in chat with a link to the room they were mentioned (as long as they have not turned off the email notifications for mentions or turned off all gaming notifications).</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">If the user has a space in their name, substitute an underscore (_) for the space or use multiple underscores (_) if they have multiple spaces.</p>
@@ -389,21 +389,21 @@
 			
 <!--*************************** GROUP INFO ***************************-->			
 			<h3>Group Information</h3>
-		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#25" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		How To Search For Groups
 		  	</div>
-			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="25" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you know the name of the <strong>Public Group</strong> or <strong>Private Group</strong> and need to find their group page, Go to https://www.the100.io/community and enter the appropriate group name in the search box.</p>
 		        	<br><p><iframe src="https://www.youtube.com/embed/Ggf9qiy1pyo" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#26" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Group inactivity/Re-joining a group
 		  	</div>
-			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="26" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You will be removed from a group if you are not active in that particular group for 45 days. Performing the following actions qualifies as being active in the group:</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Creating a game session</p>
@@ -414,11 +414,11 @@
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you are removed from a group and can't find any emails like what is described above, you can <a href="/hc/en-us/articles/208288808-How-To-Search-For-Groups">search for your previous group</a> and rejoin it using the "Join" button on the group page. Finally, if you don't remember which group you were previously a member of, or the group is full when you attempt to rejoin, you can email mike(at)the100.io and he can get you added back into your former group.</p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#27" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		How many members are allowed in a group?
 		  	</div>
-			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="27" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Groups have a soft cap of 100 members with no invite needed.</p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Groups can also have up to 120 members by using the invite referral link. However, the group mods can adjust the group hard limit to either 150 or 200.</p>
@@ -428,11 +428,11 @@
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><img src="http://i.imgur.com/sQScg2l.png" style="width:100%;" alt=""> </p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#28" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		Creating Private Groups
 		  	</div>
-			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="28" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you have an existing group/clan, or want to create one more specific than our general groups, you can do so here. Once you create your group, make sure to spread the word by sharing your group link with any existing members, and sharing on social media and forums to recruit new members. Private groups don't appear in the public directory, and we don't auto-fill them with new users who signup. If you don't want to promote your group yourself, consider becoming a mod of one of our auto-generated public groups instead.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">We do offer some privacy options like not displaying group chat publicly, but this is not meant to be a 100% secure communications tool, so please don't post anything sensitive/ confidential anywhere on the site. Also, you're welcome to make your group approval-required and be as selective as you want about who you let in, but this site is meant to be a friendly place for people to find others to play videogames, so please don't be rude/ mean/ power hungry/ fascist about it.</p>
@@ -442,27 +442,163 @@
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/m-NLTLqwQUI" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#23" style="color: #428bca; font-size: 18px;">
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#29" style="color: #428bca; font-size: 18px;">
 		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
 		  		How To Add Members in a Private Group
 		  	</div>
-			<div class="bg-warning out collapse" id="23" style="font-size: 14px;">
+			<div class="bg-warning out collapse" id="29" style="font-size: 14px;">
 		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
 		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To add members to a private group you have created, follow these steps:</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Navigate to your private group page</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Click on edit group, located in the groups header</p>
-				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">3. Scroll down to the <span class="wysiwyg-underline"><strong>Pending Members</strong></span> section, located on the right hand side under the mod chat</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">3. Scroll down to the <strong>Pending Members</strong> section, located on the right hand side under the mod chat</p>
 				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">4. Add the members you wish to allow, deny the pending members you wish to prevent from joining.</p>
 				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/jJzi0sLhzUw" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
 			</div>
 			<br>
-					
-
+			
 <!--*************************** MOD INFO ***************************-->			
 			<h3>Moderator Information</h3>
-		  	
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#30" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		How to become a Mod
+		  	</div>
+			<div class="bg-warning out collapse" id="30" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You become a mod by increasing your Activity Score above approximately 50 if there are no mods; above approximately 70 if there already is a mod</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><strong>NOTE:</strong> it slowly increases over time otherwise eventually everyone would become a mod. You may need more than 50 or 70 points if the group has existed for a long time).</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Once you do, you'll see a "become mod" link at the top of your group's page. Click that, and now you're a mod.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Groups are limited to a maximum of 3 mods.</p>
+			</div>
+			<br>
+			<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#31" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		What do Moderators do?
+		  	</div>
+			<div class="bg-warning out collapse" id="31" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a mod, you're the friendly face of your group. Welcome new members in chat, and help them figure out how to post or join their first game.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Keep the group activity high by creating and joining games as often as you can.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">You can also pick a nickname for your group and add latest news to the top of the page.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Lastly, you can kick any members if they have been reported by peers 5 or more times.</p>
+			</div>
+			<br>
 		  	
 <!--*************************** Supporter INFO ***************************-->			
 			<h3>Supporter Information</h3>
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#32" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		How to become a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a>
+		  	</div>
+			<div class="bg-warning out collapse" id="32" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To become a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a> you can either choose to make a donation, refer friends to the100.io, or become a Sherpa</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To make a donation, head over to <a href="https://www.the100.io/supporters" target="_blank">The Supporters Page</a></p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">If you don't have and extra cash, start referring friends to the site using <a href="https://www.the100.io/refer" target="_blank">The Refer Friends Page</a> </p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Another free way to become a supporter is to participate in the Sherpa Program. See the <a href="https://www.the100.io/users/123/sherpa" target="_blank">Sherpa Page</a> for more info</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><strong>Note:</strong> Secure payments are handled by <a href="https://stripe.com/" target="_blank">Stripe</a>, we don't see or store your card info. One time payments can also be made with Pay-Pal.</p>
+			</div>
+			<br>
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#33" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Why Should I Become A <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a>
+		  	</div>
+			<div class="bg-warning out collapse" id="33" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Contributions help us keep the site running, and add new features such as:</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Native mobile apps for Android and iPhone</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Mobile push notifications</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Improved email and push notification options like a daily email summary, username mentions in chat, and more</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Private messages and chat between users</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Better MOD tools</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Better sorting and search options for everything (games, members) for power users</p>
+			</div>
+			<br>
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#34" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		<a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a> Perks
+		  	</div>
+			<div class="bg-warning out collapse" id="34" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">Here are the current available perks for supporters:</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Supporter badge</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;"><img src="http://i.imgur.com/xpw2c9s.gif" style="width:100%;" alt=""></p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Access to the <a href="https://www.the100.io/hq">HQ page</a></p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Gives supporters direct access into what's happening:</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Daily numbers for new users, new gaming sessions created, and more coming soon.</p>
+				<br><p style="margin-left: 3em; margin-right: 1em; display:inline-block;">Private chat room for supporters only to discuss whatever you want directly with the developers and other supporters.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Ability to add people from your friends list to any game session</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Increase number of groups one can be a member of from 3 to 6</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Sync your game sessions to an iCal or Google calendar via your Dashboard</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Ability to add a profile cover banner</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">If you are a moderator and a supporter, you have the ability to promote another user to become a moderator.</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Ability to Create a Custom Character and Add it to any game session you've joined</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Ability to add videos to the moments page for your group</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">Send private messages through your dashboard</p>
+			</div>
+			<br>
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#35" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Adding Friends to Game Sessions
+		  	</div>
+			<div class="bg-warning out collapse" id="35" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a> you can add any friends (that are friends through the100.io) to any game session.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To add a friend to a game:</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Go to the game session lobby that you wish to add your friend to</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Scroll to the bottom of the page</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">3. Click supporter options</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">4. Select the friend you wish to add</p>
+				<p><iframe src="https://www.youtube.com/embed/1_XlP3qDfVA" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
+			<br>
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#36" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Creating a Custom Character
+		  	</div>
+			<div class="bg-warning out collapse" id="36" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a> you can add a Custom Character to any game session you've joined.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">In order to add a custom character to a game session you first need to create your custom character.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To create your custom characters:</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Go to the game session lobby you've joined</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Scroll to the bottom of the page</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">3. Click SUPPORTER options</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">4. Click manage characters</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">5. Create your new character by entering in your information</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/soqSPOOKO_U" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
+			<br>
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#37" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		Adding Custom Characters to a Game Session
+		  	</div>
+			<div class="bg-warning out collapse" id="37" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a <a style="background-color: #428bca; color: white;" href="https://www.the100.io/supporters" target="_blank">SUPPORTER</a> you can add a Custom Character to any game session you've joined.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">In order to add a custom character to a game session you first need to create your custom character.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To add a custom character to a game session:</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Go to the game session lobby you've joined</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Scroll to the bottom of the page</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">3. Click SUPPORTER options</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">4. Select the character you wish to add to the game</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/AMK12t-fQdY" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
+			<br>
+		  	<div class="bg-warning section-title collapsed" data-toggle="collapse" data-target="#38" style="color: #428bca; font-size: 18px;">
+		  		<span class="glyphicon-plus" style="padding-right: 20px; padding-left: 20px;"></span>
+		  		How to Set-up iCal or Google Calendar Syncing
+		  	</div>
+			<div class="bg-warning out collapse" id="38" style="font-size: 14px;">
+		        	<p style="width:96%; padding-top: 1em; text-align:right; border-top: 1px solid #fff; margin-left: 1em; margin-right: 1em; display:inline-block; color: #808080; font-size: 12px;"><span><small>Updated: March 03, 2016 By: <a style="color: #FBB829;" href="https://www.the100.io/u/Fear%20Broner" target="_blank"><ins>Fear Broner</ins></a></small><span></p>
+		        	<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">As a supporter you can set up iCal or Google Calendar Syncing for your gaming sessions.</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;">To set up calendar syncing:</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">1. Go you your DASHBOARD</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">2. Scroll to supporter perks</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">3. Click on SUBSCRIBE under "My Calendar"</p>
+				<br><p style="margin-left: 2em; margin-right: 1em; display:inline-block;">4. Follow the instructions</p>
+				<br><p style="margin-left: 1em; margin-right: 1em; display:inline-block;"><iframe src="https://www.youtube.com/embed/3nb3cbzx6i8" width="560" height="315" frameborder="0" allowfullscreen=""></iframe></p>
+			</div>
+			<br>
 		  			
 		</div>
