@@ -95,11 +95,11 @@
   	<div class="col-sm-3" style="padding-right: 5px;">
 	    	<ul class="nav nav-pills nav-stacked" style="background-color: #202020; color: #428bca; border-collapse:collapse;">
 		      	<li class="active" style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#home"><small><span class="glyphicon glyphicon-home" style="padding-right:10px;"></span>Home</small></a></li>
-		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:10px;"></span>News</small></a></li>
 		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#info"><small><span class="glyphicon glyphicon-info-sign" style="padding-right:10px;"></span>Clan Info</small></a></li>
-			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#divisioninfo"><small>Division Info</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:10px;"></span>News</small></a></li>
+		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#divisioninfo"><small>Division Info</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#divisionY1"><small>Division Roadmap</small></a></li>
-			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#dtwitter"><small><span class="glyphicon glyphicon-question-sign" style="padding-right:10px;"></span>Dvision Twitter</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#dtwitter"><small>Dvision Twitter</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#NF"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Nightfall Strike</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#QW"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Petra Bounties</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#KF"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Kings Fall<br><span class="glyphicon glyphicon-king" style="padding-right:22px;"></span>Challenge Mode</small></a></li>
@@ -141,18 +141,18 @@
       			<div id="news" class="tab-pane fade">
         			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
           				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
-					<p style="color: orange !important;"> - MAR 08 - Division - <a data-toggle="tab" href="#divisioninfo" style="color: orange !important;">Launch</a></p><br>
-					<p style="color: lightblue !important;"> - MAR 09 - Destiny - <a data-toggle="tab" href="#BR" style="color: lightblue !important;">Bungie Ride Along</a></p><br>
-					<p style="color: lightblue !important;"> - MAR 11 - Destiny - <a href="https://www.reddit.com/r/DestinyTheGame/comments/47m8gw/this_week_at_bungie_02252016/" target="_blank" style="color: lightblue !important;">THIS WEEK AT BUNGIE </a></p><br>
-					<p style="color: lightblue !important;"> - MAR 11 - Destiny - <a data-toggle="tab" href="#ToO" style="color: yellow;">Trials of Osiris</a></p><br>
-					<p style="color: lightblue !important;"> - MAR 16 - Destiny - <a data-toggle="tab" href="#BR" style="color: lightblue !important;">Bungie Ride Along</a></p><br>
-					<p style="color: lightblue !important;"> - MAR 22 - Destiny - <a data-toggle="tab" href="#IB" style="color: green;">Iron Banner</a></p><br>
-					<p style="color: orange !important;"> - APRIL - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Update 1.1 - Incursions</a></p><br>
-					<p style="color: orange !important;"> - MAY - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Update 1.2  - Conflict</a></p><br>
-					<p style="color: orange !important;"> - JUNE - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion I - Underground</a></p><br>
-					<p style="color: orange !important;"> - SUMMER - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion II - Survival</a></p><br>
-					<p style="color: orange !important;"> - WINTER - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion III - Last Stand</a></p><br>
-					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
+					<p style="color: orange !important;"> - MAR 08 - Division - <a data-toggle="tab" href="#divisioninfo" style="color: orange !important;">Launch</a></p>
+					<p style="color: lightblue !important;"> - MAR 09 - Destiny - <a data-toggle="tab" href="#BR" style="color: lightblue !important;">Bungie Ride Along</a></p>
+					<p style="color: lightblue !important;"> - MAR 11 - Destiny - <a href="https://www.reddit.com/r/DestinyTheGame/comments/47m8gw/this_week_at_bungie_02252016/" target="_blank" style="color: lightblue !important;">THIS WEEK AT BUNGIE </a></p>
+					<p style="color: lightblue !important;"> - MAR 11 - Destiny - <a data-toggle="tab" href="#ToO" style="color: lightblue !important;">Trials of Osiris</a></p>
+					<p style="color: lightblue !important;"> - MAR 16 - Destiny - <a data-toggle="tab" href="#BR" style="color: lightblue !important;">Bungie Ride Along</a></p>
+					<p style="color: lightblue !important;"> - MAR 22 - Destiny - <a data-toggle="tab" href="#IB" style="color: lightblue !important;">Iron Banner</a></p>
+					<p style="color: orange !important;"> - APR ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Update 1.1 - Incursions</a></p>
+					<p style="color: orange !important;"> - MAY ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Update 1.2  - Conflict</a></p>
+					<p style="color: orange !important;"> - JUN ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion I - Underground</a></p>
+					<p style="color: orange !important;"> - SUM ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion II - Survival</a></p>
+					<p style="color: orange !important;"> - WIN ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion III - Last Stand</a></p>
+					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
 		    		</div>
       			</div>
       			<div id="info" class="tab-pane fade">
@@ -213,59 +213,50 @@
         			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
           				<h3 style="color: #ff6d10; font-family: 'Roboto', sans-serif; font-size: 24px; text-align:center; border-bottom: 2px solid #ff6d10; margin: 0px 0px 30px; padding: 5px 0px 5px;">Division Info</h3>
 			    		<div class="content text-content">
-						<p style="color: #9b8f7c;">Coming soon! Use this for now: <strong><a style="color: #ff6d10;" href="https://www.reddit.com/r/thedivision/comments/48icpe/the_division_community_hubs_resources_guides_and/">Division Resources</a></strong></p>
+						<p style="color: #9b8f7c;">Coming soon! Use this for now: <strong><a style="color: #ff6d10;" target="_blank"  href="https://www.reddit.com/r/thedivision/comments/48icpe/the_division_community_hubs_resources_guides_and/">Division Resources</a></strong></p>
 					</div>
 		    		</div>
       			</div>
       			<div id="divisionY1" class="tab-pane fade in">
         			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
           				<h3 style="color: #ff6d10; font-family: 'Roboto', sans-serif; font-size: 24px; text-align:center; border-bottom: 2px solid #ff6d10; margin: 0px 0px 30px; padding: 5px 0px 5px;">The Divison Year 1 Roadmap</h3>
-			    		<div id="content" class="content tdzc clearfix">
-			    			<div id="post-detail"> 
-			    				<article id="post-2356" class="post-detail clearfix post-2356 post type-post status-publish format-video has-post-thumbnail category-news category-videos tag-trailer post_format-post-format-video" itemscope="" itemtype="http://schema.org/BlogPosting">
-			    					<div class="content-inner post-content clearfix e-content" itemprop="articleBody">
-			    						<a class="media-link iframe" href="https://cdn.division.zone/uploads/2016/03/tc-the-division-year-one-content-roadmap.jpg"><img class="aligncenter wp-image-2357 size-content-full" src="https://cdn.division.zone/uploads/2016/03/tc-the-division-year-one-content-roadmap-678x381.jpg" alt="The Division Year One Content Roadmap" width="100%"></a>
-			    						<div>
-			    							<div id="toc_container" class="toc_wrap_right no_bullets">
-			    								<ul class="toc_list" style="color: #ff6d10;">
-			    									<li><a style="color: #ff6d10;" href="#free-updates"><span class="toc_number toc_depth_1">1</span> Free Updates</a>
-				    									<ul>
-				    										<li><a style="color: #ff6d10;" href="#incursions"><span class="toc_number toc_depth_2">1.1</span> Incursions</a></li>
-				    										<li><a style="color: #ff6d10;" href="#conflict"><span class="toc_number toc_depth_2">1.2</span> Conflict</a></li>
-			    										</ul>
-		    										</li>
-		    										<li><a style="color: #ff6d10;" href="#expansions"><span class="toc_number toc_depth_1">2</span> Expansions</a>
-		    											<ul>
-		    												<li><a style="color: #ff6d10;" href="#underground"><span class="toc_number toc_depth_2">2.1</span> Underground</a></li>
-		    												<li><a style="color: #ff6d10;" href="#survival"><span class="toc_number toc_depth_2">2.2</span> Survival</a></li>
-		    												<li><a style="color: #ff6d10;" href="#last-stand"><span class="toc_number toc_depth_2">2.3</span> Last Stand</a></li>
-	    												</ul>
-    												</li>
-    											</ul>
-    										</div>
-    										<div><hr style="color: #ff6d10;"></div>
-	    										<h2><span id="free-updates">Free Updates</span></h2>
-	    										<h3 style="color: #ff6d10;"><span id="incursions">Incursions</span></h3>
-	    										<p style="color: #9b8f7c;"><em><strong>April.</strong></em>The first update called&nbsp;<strong>Incursions</strong> is a&nbsp;challenging<strong> end-game activity</strong>&nbsp;that is developed specifically for playing in a squad and <strong>focuses heavily on teamplay</strong>. It will be<strong> available for free and playable&nbsp;for everyone</strong>. In Incursions you have to stand&nbsp;against an seemingly unstoppable force to earn&nbsp;new powerful weapons and gear items. Moreover you&nbsp;would obviously have to&nbsp;<strong>protect and escort an armored vehicle</strong> in some scenarios.</p>
-	    										<h3 style="color: #ff6d10;"><span id="conflict">Conflict</span></h3>
-	    										<p style="color: #9b8f7c;"><strong><em>May.&nbsp;</em></strong>It is said that it will change the way you play in the <strong><a style="color: #ff6d10;" href="https://division.zone/zones/dark-zone/">Dark Zone</a></strong> and will also add a <strong>new Incursion</strong> in the iconic <strong><a style="color: #ff6d10;" href="https://en.wikipedia.org/wiki/Columbus_Circle" target="_blank">Columbos Circle</a></strong> – a&nbsp;heavily trafficked intersection in Manhattan; also for free and available for everyone.</p>
-	    										<hr style="color: #ff6d10;">
-	    										<h2><span id="expansions">Expansions</span></h2>
-	    										<p style="color: #9b8f7c;">The three major&nbsp;expansions are purchasable DLCs.&nbsp;<strong><a style="color: #ff6d10;" href="https://division.zone/the-division-season-pass/">Season Pass</a></strong>&nbsp;holders&nbsp;don’t have to buy them as they are already included.</p>
-	    										<h3  style="color: #ff6d10;" id="expansion-1-underground"><span id="underground">Underground</span></h3>
-	    										<p style="color: #9b8f7c;"><em><strong>June. </strong></em>The first&nbsp;expansion lets players explore the uncharted underworld of New York City. Players will chase deadly enemies with up to three other Agents through an endless maze of tunnels and subways.</p>
-	    										<p style="color: #9b8f7c;">If you have played games like Diablo 3, then this might work similar to the there implemented (Nephalem)&nbsp;Rift system, with random generated dungeons and more challenging encounters as well as&nbsp;better rewards&nbsp;the more you progress. <em>That would be great.</em></p>
-	    										<h3 style="color: #ff6d10;"><span id="survival">Survival</span></h3>
-	    										<p style="color: #9b8f7c;"><em><strong>Summer.&nbsp;</strong></em>In the&nbsp;<strong>Survival</strong> expansion, players will have to survive as long as possible by gathering essential supplies and high-tech equipment to take back New York. The <strong><a style="color: #ff6d10;" href="https://division.zone/zones/dark-zone/#rogue-protocol">Rogue Protocol</a></strong> seems to play a big role in this mode.</p>
-	    										<h3 style="color: #ff6d10;"><span id="last-stand">Last Stand</span></h3>
-	    										<p style="color: #9b8f7c;"><em><strong>Winter.</strong>&nbsp;</em>A new threat rises in Winter 2016, as players and their squad must prepare to defend against a relentless foe. Based on the shown footage you will&nbsp;probably be able to establish your own base with turrets and other tools to hold the attackers of. Furthermore its cover art is featuring the Statue of Liberty in some way.</p>
-	    										<hr style="color: #ff6d10;">
-	    										<p style="color: #9b8f7c;">Last but not least here is the <strong><a style="color: #ff6d10;" href="https://youtu.be/Bk3doWjPauA">Year One Content Trailer</a></strong> for the new announced content.</p>
-    										</div>
-    									</div>
-    								</div>
-    							</div>	
+			    		<a class="media-link iframe"  target="_blank" href="https://cdn.division.zone/uploads/2016/03/tc-the-division-year-one-content-roadmap.jpg"><img class="aligncenter wp-image-2357 size-content-full" src="https://cdn.division.zone/uploads/2016/03/tc-the-division-year-one-content-roadmap-678x381.jpg" alt="The Division Year One Content Roadmap" width="100%"></a>
+		    			<div>
+		    				<div>
+    							<ul>
+    								<li><a style="color: #ff6d10;" href="#free-updates"><span>1</span> Free Updates</a>
+    									<ul>
+    										<li><a style="color: #ff6d10;" href="#incursions"><span>1.1</span> Incursions</a></li>
+    										<li><a style="color: #ff6d10;" href="#conflict"><span>1.2</span> Conflict</a></li>
+    									</ul>
+    								</li>
+    								<li><a style="color: #ff6d10;" href="#expansions"><span>2</span> Expansions</a>
+    									<ul>
+    										<li><a style="color: #ff6d10;" href="#underground"><span>2.1</span> Underground</a></li>
+    										<li><a style="color: #ff6d10;" href="#survival"><span>2.2</span> Survival</a></li>
+    										<li><a style="color: #ff6d10;" href="#last-stand"><span>2.3</span> Last Stand</a></li>
+    									</ul>
+    								</li>
+    							</ul>
     						</div>
+    						<hr style="color: #ff6d10;">
+    						<h2><span id="free-updates">Free Updates</span></h2>
+    						<h3 style="color: #ff6d10;"><span id="incursions">Incursions</span></h3>
+    						<p style="color: #9b8f7c;"><em><strong>April.</strong></em>The first update called&nbsp;<strong>Incursions</strong> is a&nbsp;challenging<strong> end-game activity</strong>&nbsp;that is developed specifically for playing in a squad and <strong>focuses heavily on teamplay</strong>. It will be<strong> available for free and playable&nbsp;for everyone</strong>. In Incursions you have to stand&nbsp;against an seemingly unstoppable force to earn&nbsp;new powerful weapons and gear items. Moreover you&nbsp;would obviously have to&nbsp;<strong>protect and escort an armored vehicle</strong> in some scenarios.</p>
+    						<h3 style="color: #ff6d10;"><span id="conflict">Conflict</span></h3>
+    						<p style="color: #9b8f7c;"><strong><em>May.&nbsp;</em></strong>It is said that it will change the way you play in the <strong><a style="color: #ff6d10;" target="_blank"  href="https://division.zone/zones/dark-zone/">Dark Zone</a></strong> and will also add a <strong>new Incursion</strong> in the iconic <strong><a style="color: #ff6d10;" target="_blank"  href="https://en.wikipedia.org/wiki/Columbus_Circle" target="_blank">Columbos Circle</a></strong> – a&nbsp;heavily trafficked intersection in Manhattan; also for free and available for everyone.</p>
+    						<hr style="color: #ff6d10;">
+    						<h2><span id="expansions">Expansions</span></h2>
+    						<p style="color: #9b8f7c;">The three major&nbsp;expansions are purchasable DLCs.&nbsp;<strong><a style="color: #ff6d10;" target="_blank"  href="https://division.zone/the-division-season-pass/">Season Pass</a></strong>&nbsp;holders&nbsp;don’t have to buy them as they are already included.</p>
+    						<h3  style="color: #ff6d10;" id="expansion-1-underground"><span id="underground">Underground</span></h3>
+    						<p style="color: #9b8f7c;"><em><strong>June. </strong></em>The first&nbsp;expansion lets players explore the uncharted underworld of New York City. Players will chase deadly enemies with up to three other Agents through an endless maze of tunnels and subways.</p>
+    						<p style="color: #9b8f7c;">If you have played games like Diablo 3, then this might work similar to the there implemented (Nephalem)&nbsp;Rift system, with random generated dungeons and more challenging encounters as well as&nbsp;better rewards&nbsp;the more you progress. <em>That would be great.</em></p>
+    						<h3 style="color: #ff6d10;"><span id="survival">Survival</span></h3>
+    						<p style="color: #9b8f7c;"><em><strong>Summer.&nbsp;</strong></em>In the&nbsp;<strong>Survival</strong> expansion, players will have to survive as long as possible by gathering essential supplies and high-tech equipment to take back New York. The <strong><a style="color: #ff6d10;" target="_blank"  href="https://division.zone/zones/dark-zone/#rogue-protocol">Rogue Protocol</a></strong> seems to play a big role in this mode.</p>
+    						<h3 style="color: #ff6d10;"><span id="last-stand">Last Stand</span></h3>
+    						<p style="color: #9b8f7c;"><em><strong>Winter.</strong>&nbsp;</em>A new threat rises in Winter 2016, as players and their squad must prepare to defend against a relentless foe. Based on the shown footage you will&nbsp;probably be able to establish your own base with turrets and other tools to hold the attackers of. Furthermore its cover art is featuring the Statue of Liberty in some way.</p>
+    						<hr style="color: #ff6d10;">
+    						<p style="color: #9b8f7c;">Last but not least here is the <strong><a style="color: #ff6d10;"  target="_blank" href="https://youtu.be/Bk3doWjPauA">Year One Content Trailer</a></strong> for the new announced content.</p>
     					</div>
     				</div>
       			</div>
@@ -1237,8 +1228,6 @@
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
 			</div>
-			
     		</div>
   	</div>
 </div>
-
