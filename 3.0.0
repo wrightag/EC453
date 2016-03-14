@@ -99,6 +99,7 @@
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:10px;"></span>News</small></a></li>
 		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#divisioninfo"><small>Division Info</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#divisionY1"><small>Division Roadmap</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#divisionFarm"><small>Dark Zone Farming</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#dtwitter"><small>Dvision Twitter</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#NF"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Nightfall Strike</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#QW"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Petra Bounties</small></a></li>
@@ -240,6 +241,32 @@
     							</ul>
     						</div>
     						<hr style="color: #ff6d10;">
+    						<h2><span id="free-updates">Free Updates</span></h2>
+    						<h3 style="color: #ff6d10;"><span id="incursions">Incursions</span></h3>
+    						<p style="color: #9b8f7c;"><em><strong>April.</strong></em>The first update called&nbsp;<strong>Incursions</strong> is a&nbsp;challenging<strong> end-game activity</strong>&nbsp;that is developed specifically for playing in a squad and <strong>focuses heavily on teamplay</strong>. It will be<strong> available for free and playable&nbsp;for everyone</strong>. In Incursions you have to stand&nbsp;against an seemingly unstoppable force to earn&nbsp;new powerful weapons and gear items. Moreover you&nbsp;would obviously have to&nbsp;<strong>protect and escort an armored vehicle</strong> in some scenarios.</p>
+    						<h3 style="color: #ff6d10;"><span id="conflict">Conflict</span></h3>
+    						<p style="color: #9b8f7c;"><strong><em>May.&nbsp;</em></strong>It is said that it will change the way you play in the <strong><a style="color: #ff6d10;" target="_blank"  href="https://division.zone/zones/dark-zone/">Dark Zone</a></strong> and will also add a <strong>new Incursion</strong> in the iconic <strong><a style="color: #ff6d10;" target="_blank"  href="https://en.wikipedia.org/wiki/Columbus_Circle" target="_blank">Columbos Circle</a></strong> – a&nbsp;heavily trafficked intersection in Manhattan; also for free and available for everyone.</p>
+    						<hr style="color: #ff6d10;">
+    						<h2><span id="expansions">Expansions</span></h2>
+    						<p style="color: #9b8f7c;">The three major&nbsp;expansions are purchasable DLCs.&nbsp;<strong><a style="color: #ff6d10;" target="_blank"  href="https://division.zone/the-division-season-pass/">Season Pass</a></strong>&nbsp;holders&nbsp;don’t have to buy them as they are already included.</p>
+    						<h3  style="color: #ff6d10;" id="expansion-1-underground"><span id="underground">Underground</span></h3>
+    						<p style="color: #9b8f7c;"><em><strong>June. </strong></em>The first&nbsp;expansion lets players explore the uncharted underworld of New York City. Players will chase deadly enemies with up to three other Agents through an endless maze of tunnels and subways.</p>
+    						<p style="color: #9b8f7c;">If you have played games like Diablo 3, then this might work similar to the there implemented (Nephalem)&nbsp;Rift system, with random generated dungeons and more challenging encounters as well as&nbsp;better rewards&nbsp;the more you progress. <em>That would be great.</em></p>
+    						<h3 style="color: #ff6d10;"><span id="survival">Survival</span></h3>
+    						<p style="color: #9b8f7c;"><em><strong>Summer.&nbsp;</strong></em>In the&nbsp;<strong>Survival</strong> expansion, players will have to survive as long as possible by gathering essential supplies and high-tech equipment to take back New York. The <strong><a style="color: #ff6d10;" target="_blank"  href="https://division.zone/zones/dark-zone/#rogue-protocol">Rogue Protocol</a></strong> seems to play a big role in this mode.</p>
+    						<h3 style="color: #ff6d10;"><span id="last-stand">Last Stand</span></h3>
+    						<p style="color: #9b8f7c;"><em><strong>Winter.</strong>&nbsp;</em>A new threat rises in Winter 2016, as players and their squad must prepare to defend against a relentless foe. Based on the shown footage you will&nbsp;probably be able to establish your own base with turrets and other tools to hold the attackers of. Furthermore its cover art is featuring the Statue of Liberty in some way.</p>
+    						<hr style="color: #ff6d10;">
+    						<p style="color: #9b8f7c;">Last but not least here is the <strong><a style="color: #ff6d10;"  target="_blank" href="https://youtu.be/Bk3doWjPauA">Year One Content Trailer</a></strong> for the new announced content.</p>
+    					</div>
+    				</div>
+      			</div>
+      			<div id="divisionY1" class="tab-pane fade in">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+          				<h3 style="color: #ff6d10; font-family: 'Roboto', sans-serif; font-size: 24px; text-align:center; border-bottom: 2px solid #ff6d10; margin: 0px 0px 30px; padding: 5px 0px 5px;">The Divison Dark Zone<br>Phoenix Credit Farming</h3>
+			    		<a class="media-link iframe"  target="_blank" href="https://cdn.division.zone/uploads/2016/03/tc-the-division-year-one-content-roadmap.jpg"><img class="aligncenter wp-image-2357 size-content-full" src="https://cdn.division.zone/uploads/2016/03/tc-the-division-year-one-content-roadmap-678x381.jpg" alt="The Division Year One Content Roadmap" width="100%"></a>
+		    			<div>
+		    				<hr style="color: #ff6d10;">
     						<h2><span id="free-updates">Free Updates</span></h2>
     						<h3 style="color: #ff6d10;"><span id="incursions">Incursions</span></h3>
     						<p style="color: #9b8f7c;"><em><strong>April.</strong></em>The first update called&nbsp;<strong>Incursions</strong> is a&nbsp;challenging<strong> end-game activity</strong>&nbsp;that is developed specifically for playing in a squad and <strong>focuses heavily on teamplay</strong>. It will be<strong> available for free and playable&nbsp;for everyone</strong>. In Incursions you have to stand&nbsp;against an seemingly unstoppable force to earn&nbsp;new powerful weapons and gear items. Moreover you&nbsp;would obviously have to&nbsp;<strong>protect and escort an armored vehicle</strong> in some scenarios.</p>
