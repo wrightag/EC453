@@ -29,7 +29,7 @@
 				     	</ul>
 				</li>
 				<li class="dropdown">
-					<a class="dropdown-toggle" data-toggle="dropdown" href="#"><small><span class="glyphicon glyphicon-eye-open" style="padding-right:10px;"></span></small>ToO<span class="caret"></span></a>
+					<a style="color: yellow !important;" class="dropdown-toggle" data-toggle="dropdown" href="#"><small><span class="glyphicon glyphicon-eye-open" style="padding-right:10px;"></span></small>ToO<span class="caret"></span></a>
   					<ul class="dropdown-menu">
 						<li><a data-toggle="tab" href="#ToO">TRIALS OF OSIRIS</a></li>
 						<li class="divider"></li>
@@ -97,18 +97,18 @@
 		      	<li class="active" style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#home"><small><span class="glyphicon glyphicon-home" style="padding-right:10px;"></span>Home</small></a></li>
 		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#info"><small><span class="glyphicon glyphicon-info-sign" style="padding-right:10px;"></span>Clan Info</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#news"><small><span class="glyphicon glyphicon-th-list" style="padding-right:10px;"></span>News</small></a></li>
-		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#divisioninfo"><small>Division Info</small></a></li>
-			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#divisionY1"><small>Division Roadmap</small></a></li>
-			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#divisionFarm"><small>Dark Zone Farming</small></a></li>
-			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#dtwitter"><small>Dvision Twitter</small></a></li>
-			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#NF"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Nightfall Strike</small></a></li>
+		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#NF"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Nightfall Strike</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#QW"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Petra Bounties</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#KF"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Kings Fall<br><span class="glyphicon glyphicon-king" style="padding-right:22px;"></span>Challenge Mode</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#CoO"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Court of Oryx T3</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#ToO"><small><span class="glyphicon glyphicon-eye-open" style="padding-right:10px;"></span>Trials of Osiris</small></a></li>
-			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#twitch"><small><span class="glyphicon glyphicon-facetime-video" style="padding-right:10px;"></span>Twitch</small></a></li>
-      			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungie"><small><span class="glyphicon glyphicon-exclamation-sign" style="padding-right:10px;"></span>Bungie Twitter</small></a></li>
-			
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungie"><small><span class="glyphicon glyphicon-exclamation-sign" style="padding-right:10px;"></span>Bungie Twitter</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisioninfo"><small>Division Info</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionY1"><small>Division Roadmap</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionFarm"><small>Dark Zone Farming</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#dtwitter"><small>Dvision Twitter</small></a></li>
+			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #6441a5 !important;" data-toggle="tab" href="#twitch"><small><span class="glyphicon glyphicon-facetime-video" style="padding-right:10px;"></span>Twitch</small></a></li>
+      			
 			<!-- INACTIVE EVENTS
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#AD"><small><span class="glyphicon glyphicon-bullhorn" style="padding-right:10px;"></span>Armsday</small></a></li>
 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#VI"><small><span class="glyphicon glyphicon-transfer" style="padding-right:10px;"></span>Material Exhange</small></a></li>
@@ -127,7 +127,7 @@
   	<div class="col-sm-9" style="padding-left: 5px;">
     		<div class="tab-content">
       			<div id="home" class="tab-pane fade in active">
-        			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Welcome To Our Shit Show!</h3>
 			    		Where the expectation of skill is directly proportional to the expectations of Neo to fall asleep before a session. The average age is old enough to remember Tamagotchis, with one exception (Animosity), who is old enough to remember walking with dinosaurs. Some of us are parents and some of us act like children. Most games are at night, after G.T.L. in NJ (6 PM EST). Stay active in the chat so you know who is being made fun of this week.
           				<br><br>Help make the100.io better <br>
@@ -140,24 +140,22 @@
 		    		</div>
       			</div>
       			<div id="news" class="tab-pane fade">
-        			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
-					<p style="color: orange !important;"> - MAR 08 - Division - <a data-toggle="tab" href="#divisioninfo" style="color: orange !important;">Launch</a></p>
-					<p style="color: lightblue !important;"> - MAR 09 - Destiny - <a data-toggle="tab" href="#BR" style="color: lightblue !important;">Bungie Ride Along</a></p>
-					<p style="color: lightblue !important;"> - MAR 11 - Destiny - <a href="https://www.reddit.com/r/DestinyTheGame/comments/47m8gw/this_week_at_bungie_02252016/" target="_blank" style="color: lightblue !important;">THIS WEEK AT BUNGIE </a></p>
+					<p style="color: lightblue !important;"> - MAR 11 - Destiny - <a href="https://www.reddit.com/r/DestinyTheGame/comments/4a11xs/this_week_at_bungie_03112016/" target="_blank" style="color: lightblue !important;">THIS WEEK AT BUNGIE </a></p>
 					<p style="color: lightblue !important;"> - MAR 11 - Destiny - <a data-toggle="tab" href="#ToO" style="color: lightblue !important;">Trials of Osiris</a></p>
 					<p style="color: lightblue !important;"> - MAR 16 - Destiny - <a data-toggle="tab" href="#BR" style="color: lightblue !important;">Bungie Ride Along</a></p>
 					<p style="color: lightblue !important;"> - MAR 22 - Destiny - <a data-toggle="tab" href="#IB" style="color: lightblue !important;">Iron Banner</a></p>
-					<p style="color: orange !important;"> - APR ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Update 1.1 - Incursions</a></p>
-					<p style="color: orange !important;"> - MAY ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Update 1.2  - Conflict</a></p>
-					<p style="color: orange !important;"> - JUN ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion I - Underground</a></p>
-					<p style="color: orange !important;"> - SUM ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion II - Survival</a></p>
-					<p style="color: orange !important;"> - WIN ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion III - Last Stand</a></p>
+					<p style="color: #ff6d10 !important;"> - APR ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Update 1.1 - Incursions</a></p>
+					<p style="color: #ff6d10 !important;"> - MAY ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Update 1.2  - Conflict</a></p>
+					<p style="color: #ff6d10 !important;"> - JUN ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion I - Underground</a></p>
+					<p style="color: #ff6d10 !important;"> - SUM ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion II - Survival</a></p>
+					<p style="color: #ff6d10 !important;"> - WIN ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: orange !important;">Expansion III - Last Stand</a></p>
 					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
 		    		</div>
       			</div>
       			<div id="info" class="tab-pane fade">
-				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
 					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Clan Information</h3>
 					<p>Our Clan, Echo Company 453 / Too Many Cooks, exists for earning achievements such as: Raiding Party, Flawless Raider, Strength of the Pack, etc.  Communication and Scheduling should be done through this site.</p>
 					<a target="_blank" href="https://www.bungie.net/en/Clan/Xbox/633932" class="btn btn-primary btn-block">JOIN OUR CLAN HERE</a>
@@ -211,7 +209,7 @@
 				</div>
 			</div>
 		      	<div id="divisioninfo" class="tab-pane fade in">
-        			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="color: #ff6d10; font-family: 'Roboto', sans-serif; font-size: 24px; text-align:center; border-bottom: 2px solid #ff6d10; margin: 0px 0px 30px; padding: 5px 0px 5px;">Division Info</h3>
 			    		<div class="content text-content">
 						<p style="color: #9b8f7c;">Coming soon! Use this for now: <strong><a style="color: #ff6d10;" target="_blank"  href="https://www.reddit.com/r/thedivision/comments/48icpe/the_division_community_hubs_resources_guides_and/">Division Resources</a></strong></p>
@@ -219,7 +217,7 @@
 		    		</div>
       			</div>
       			<div id="divisionY1" class="tab-pane fade in">
-        			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="color: #ff6d10; font-family: 'Roboto', sans-serif; font-size: 24px; text-align:center; border-bottom: 2px solid #ff6d10; margin: 0px 0px 30px; padding: 5px 0px 5px;">The Divison Year 1 Roadmap</h3>
 			    		<a class="media-link iframe"  target="_blank" href="https://cdn.division.zone/uploads/2016/03/tc-the-division-year-one-content-roadmap.jpg"><img class="aligncenter wp-image-2357 size-content-full" src="https://cdn.division.zone/uploads/2016/03/tc-the-division-year-one-content-roadmap-678x381.jpg" alt="The Division Year One Content Roadmap" width="100%"></a>
 		    			<div>
@@ -261,47 +259,37 @@
     					</div>
     				</div>
       			</div>
-      			<div id="divisionY1" class="tab-pane fade in">
-        			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
-          				<h3 style="color: #ff6d10; font-family: 'Roboto', sans-serif; font-size: 24px; text-align:center; border-bottom: 2px solid #ff6d10; margin: 0px 0px 30px; padding: 5px 0px 5px;">The Divison Dark Zone<br>Phoenix Credit Farming</h3>
-			    		<a class="media-link iframe"  target="_blank" href="https://cdn.division.zone/uploads/2016/03/tc-the-division-year-one-content-roadmap.jpg"><img class="aligncenter wp-image-2357 size-content-full" src="https://cdn.division.zone/uploads/2016/03/tc-the-division-year-one-content-roadmap-678x381.jpg" alt="The Division Year One Content Roadmap" width="100%"></a>
+      			<div id="divisionFarm" class="tab-pane fade in">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
+          				<h3 style="color: #ff6d10; font-family: 'Roboto', sans-serif; font-size: 24px; text-align:center; border-bottom: 2px solid #ff6d10; margin: 0px 0px 30px; padding: 5px 0px 5px;">The Divison Dark Zone<br>Boss & Phoenix Credit Farming</h3>
+			    		<a class="media-link iframe"  target="_blank" href="http://i.imgur.com/4WrLpSv.jpg"><img class="aligncenter wp-image-2357 size-content-full" src="http://i.imgur.com/4WrLpSv.jpg" alt="The Division Phoenix Credit Farming" width="100%"></a>
 		    			<div>
 		    				<hr style="color: #ff6d10;">
-    						<h2><span id="free-updates">Free Updates</span></h2>
-    						<h3 style="color: #ff6d10;"><span id="incursions">Incursions</span></h3>
-    						<p style="color: #9b8f7c;"><em><strong>April.</strong></em>The first update called&nbsp;<strong>Incursions</strong> is a&nbsp;challenging<strong> end-game activity</strong>&nbsp;that is developed specifically for playing in a squad and <strong>focuses heavily on teamplay</strong>. It will be<strong> available for free and playable&nbsp;for everyone</strong>. In Incursions you have to stand&nbsp;against an seemingly unstoppable force to earn&nbsp;new powerful weapons and gear items. Moreover you&nbsp;would obviously have to&nbsp;<strong>protect and escort an armored vehicle</strong> in some scenarios.</p>
-    						<h3 style="color: #ff6d10;"><span id="conflict">Conflict</span></h3>
-    						<p style="color: #9b8f7c;"><strong><em>May.&nbsp;</em></strong>It is said that it will change the way you play in the <strong><a style="color: #ff6d10;" target="_blank"  href="https://division.zone/zones/dark-zone/">Dark Zone</a></strong> and will also add a <strong>new Incursion</strong> in the iconic <strong><a style="color: #ff6d10;" target="_blank"  href="https://en.wikipedia.org/wiki/Columbus_Circle" target="_blank">Columbos Circle</a></strong> – a&nbsp;heavily trafficked intersection in Manhattan; also for free and available for everyone.</p>
+    						<h3 style="color: #ff6d10;"><span>Stratagy</span></h3>
+    						<p style="color: #9b8f7c;">Enter the Dark Zone 01 area at the enterance marked with the green target</p>
+    						<p style="color: #9b8f7c;">Follow the path to the first yellow skull. This will be the first <strong>Boss</strong></p>
+    						<p style="color: #9b8f7c;">Continue following the path and killing <strong>Bosses</strong> as you reach them.</p>
+    						<p style="color: #9b8f7c;">Head to the nearest <strong>Extraction Zone</strong> as needed</p>
     						<hr style="color: #ff6d10;">
-    						<h2><span id="expansions">Expansions</span></h2>
-    						<p style="color: #9b8f7c;">The three major&nbsp;expansions are purchasable DLCs.&nbsp;<strong><a style="color: #ff6d10;" target="_blank"  href="https://division.zone/the-division-season-pass/">Season Pass</a></strong>&nbsp;holders&nbsp;don’t have to buy them as they are already included.</p>
-    						<h3  style="color: #ff6d10;" id="expansion-1-underground"><span id="underground">Underground</span></h3>
-    						<p style="color: #9b8f7c;"><em><strong>June. </strong></em>The first&nbsp;expansion lets players explore the uncharted underworld of New York City. Players will chase deadly enemies with up to three other Agents through an endless maze of tunnels and subways.</p>
-    						<p style="color: #9b8f7c;">If you have played games like Diablo 3, then this might work similar to the there implemented (Nephalem)&nbsp;Rift system, with random generated dungeons and more challenging encounters as well as&nbsp;better rewards&nbsp;the more you progress. <em>That would be great.</em></p>
-    						<h3 style="color: #ff6d10;"><span id="survival">Survival</span></h3>
-    						<p style="color: #9b8f7c;"><em><strong>Summer.&nbsp;</strong></em>In the&nbsp;<strong>Survival</strong> expansion, players will have to survive as long as possible by gathering essential supplies and high-tech equipment to take back New York. The <strong><a style="color: #ff6d10;" target="_blank"  href="https://division.zone/zones/dark-zone/#rogue-protocol">Rogue Protocol</a></strong> seems to play a big role in this mode.</p>
-    						<h3 style="color: #ff6d10;"><span id="last-stand">Last Stand</span></h3>
-    						<p style="color: #9b8f7c;"><em><strong>Winter.</strong>&nbsp;</em>A new threat rises in Winter 2016, as players and their squad must prepare to defend against a relentless foe. Based on the shown footage you will&nbsp;probably be able to establish your own base with turrets and other tools to hold the attackers of. Furthermore its cover art is featuring the Statue of Liberty in some way.</p>
-    						<hr style="color: #ff6d10;">
-    						<p style="color: #9b8f7c;">Last but not least here is the <strong><a style="color: #ff6d10;"  target="_blank" href="https://youtu.be/Bk3doWjPauA">Year One Content Trailer</a></strong> for the new announced content.</p>
+    						<p style="color: #9b8f7c;">Here is the <strong><a style="color: #ff6d10;"  target="_blank" href="https://www.youtube.com/watch?v=XEBHGdYoIe4">Arekkz Dark Zone Farming Video</a></strong> to see the route first hand</p>
     					</div>
     				</div>
       			</div>
       			<div id="dtwitter" class="tab-pane fade">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
 					<a class="twitter-timeline" href="https://twitter.com/TheDivisionGame" data-widget-id="708388316438204416">Tweets by @TheDivisionGame</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
 			</div>
 			<div id="NF" class="tab-pane fade">
-		      		<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+		      		<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
 		          		<table align="center" style="font-size: 16px;">
 						<tbody>
 							<tr>
-					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Nightfall Strike [03/01] - Dust Palace<br></td>
+					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Nightfall Strike [03/15] - Shield Brothers<br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/Ro5kgj1.jpg" width=100%  alt="nf Banner" title="nightfall Banner"><br></td>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/iCN5Q9w.jpg" width=100%  alt="nf Banner" title="nightfall Banner"><br></td>
 					               	</tr>
 							<tr>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest?cb=20150711201441" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="30" height="30"></a></td>
@@ -314,25 +302,26 @@
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Heavily shielded and highly aggressive enemies appear in great numbers.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette1.wikia.nocookie.net/destinypedia/images/5/5c/Grounded_skull_icon.png/revision/latest?cb=20150714090526" class="image image-thumbnail"><img src="http://vignette1.wikia.nocookie.net/destinypedia/images/5/5c/Grounded_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150714090526&amp;format=webp" alt="Grounded skull icon" title="Grounded " width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Grounded</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Players take more damage while airborne.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1f/Angry_skull_icon.png/revision/latest?cb=20150712090530" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1f/Angry_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150712090530" alt="Berserk skull icon" title="Berserk" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Berserk</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Minions of <a href="/wiki/The_Darkness" title="The Darkness">the Darkness</a> won't flinch, even after massive damage.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/c/c1/Trickle_skull_icon.png/revision/latest?cb=20150921210550" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/c/c1/Trickle_skull_icon.png/revision/latest?cb=20150921210550" alt="Trickle skull icon" Title="Trickle" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Trickle</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Recharge of abilities is significantly reduced.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/0/01/Juggler_skull_icon.png/revision/latest?cb=20150711201543" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/0/01/Juggler_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201543&amp;format=webp" alt="Juggler skull icon" title="Juggler " width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Juggler</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">No ammo drops for your equipped weapon.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest?cb=20150714090529" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150714090529&amp;format=webp" alt="Brawler skull icon" title="Brawler" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Brawler</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Guardian melee damage is greatly increased.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a8/Solar_Burn_skull_icon.png/revision/latest?cb=20150711201425" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a8/Solar_Burn_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201425&amp;format=webp" alt="Solar Burn skull icon" Title="Solar Burn" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Solar Burn</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Solar Damage from any source is greatly increased.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3a/Void_Burn_skull_icon.png/revision/latest?cb=20150721090531" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3a/Void_Burn_skull_icon.png/revision/latest?cb=20150721090531" alt="Void Burn skull icon" Title="Void" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Void Burn</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Void Damage from any source is greatly increased.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a9/Specialist_skull_icon.png/revision/latest?cb=20150711201503" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a9/Specialist_skull_icon.png/revision/latest?cb=20150711201503" alt="Specialist skull icon" Title="Specialist" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Specialist</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Secondary Weapon damage is favored.</td>
 							</tr>
+							
 							
 						</tbody>
 						<tfoot></tfoot>
@@ -439,41 +428,41 @@
 							
 		*****************************************************************************************************************************************************-->
         		<div id="KF" class="tab-pane fade">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
-					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">King's Fall Challenge Mode [03/01]</h3>
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">King's Fall Challenge Mode [03/15]</h3>
 					<!--WARPRIEST "http://i.imgur.com/xR36lPt.jpg"  -->
 					<!--GOLGY     "http://i.imgur.com/MtG4Vli.jpg"  -->
 					<!--ORYX      "http://i.imgur.com/kFUPWM1.jpg"  -->
-					<img src="http://i.imgur.com/MtG4Vli.jpg" width=75%  alt="cm Banner" title="challenge Banner"><br>
+					<img src="http://i.imgur.com/xR36lPt.jpg" width=75%  alt="cm Banner" title="challenge Banner"><br>
 					<p style="padding:10px 0 0; text-align:center;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 			</div>
 			<div id="CoO" class="tab-pane fade">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
-					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Court of Oryx Tier III Boss [03/01]</h3>
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Court of Oryx Tier III Boss [03/15]</h3>
 					<!--BALWUR  "http://i.imgur.com/ldqCcJI.jpg"  -->
 					<!--KALGOOR "http://i.imgur.com/bdyXnP1.jpg"  -->
 					<!--THALNOK "http://i.imgur.com/KZhvFuK.jpg"  -->
-					<img src="http://i.imgur.com/bdyXnP1.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
+					<img src="http://i.imgur.com/ldqCcJI.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
 					<p style="padding:10px 0 0; text-align:center;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 			</div>
 			<div id="VI" class="tab-pane fade">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
-					<h3 style="font-size: 28px; text-align:center; margin: 0px 0px 15px; padding: 5px 0px 5px;">Vendor Material Exchange [03/01]</h3>
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
+					<h3 style="font-size: 28px; text-align:center; margin: 0px 0px 15px; padding: 5px 0px 5px;">Vendor Material Exchange [03/15]</h3>
 					<table align="center" style="font-size: 28px; text-align:center; border: 1px solid white;">
 					<tbody>
 					<tr>
 					<td style="padding:5px; background-color: #231C46; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/FWC.png/revision/latest?cb=20160123023153" class="image image-thumbnail" title=""><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/FWC.png/revision/latest?cb=20160123023153" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="FWC.png" data-image-name="FWC.png"></a>
-					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Spirit Bloom
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Helium Filament
 					</td></tr>
 					<tr>
 					<td style="padding:5px; background-color: #E4E4E4; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/e/e4/DeadOrbitIcon.png/revision/latest?cb=20150321222243" class="image image-thumbnail" title=""><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/e/e4/DeadOrbitIcon.png/revision/latest?cb=20150321222243" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="DeadOrbitIcon.png" data-image-name="DeadOrbitIcon.png"></a>
-					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Wormspore
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Relic Iron
 					</td></tr>
 					<tr>
 					<td style="padding:5px; background-color: #963637; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/9/9b/NewMonarchy.png/revision/latest?cb=20160123024152" class="image image-thumbnail" title=""><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/9/9b/NewMonarchy.png/revision/latest?cb=20160123024152" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="NewMonarchy.png" data-image-name="NewMonarchy.png"></a>
-					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Helium Filament
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Spinmetal
 					</td></tr>
 					<tr>
 					<td style="padding:5px; background-color: #B66A1C; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://www.destinygamewiki.com/mediawiki/images/9/90/Eris_morn_emblem1.jpg" class="image image-thumbnail" title=""><img src="http://www.destinygamewiki.com/mediawiki/images/9/90/Eris_morn_emblem1.jpg" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="NewMonarchy.png" data-image-name="NewMonarchy.png"></a>
@@ -484,11 +473,11 @@
 				</div>	
 			</div>
 			<div id="QW" class="tab-pane fade">
-				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
 		          		<table align="center" style="font-size: 16px;">
 						<tbody>
 							<tr>
-					                  	<td colspan= 2 style="font-size: 22px; text-align:center; padding:5px;">Queens Wrath Bounties [03/01]<br></td>
+					                  	<td colspan= 2 style="font-size: 22px; text-align:center; padding:5px;">Queens Wrath Bounties [03/15]<br></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan= 2 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/eEHsrCh.jpg" width=100%  alt="nf Banner" title="nightfall Banner"><br></td>
@@ -498,39 +487,40 @@
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128832-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
 								-->
-								<!--WANTED: Irxori, Lost to Oryx-->
+								<!--WANTED: Irxori, Lost to Oryx
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128833-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Irxori, Lost to Oryx. Cosmodrome. Head left through Mothyards, until you reach the Skywatch.</td>
+								-->
+								<!--WANTED: 
+								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128834-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
+								-->
+								<!--WANTED: Darnu, Horn of Oryx -->
+								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128835-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Darnu, Horn of Oryx. Cosmodrome. Head right on spawn into the Divide.</td>
 								
-								<!--WANTED: Baroness Grayris
-								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128832-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
+								<!--WANTED: 
+								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128838-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
 								-->
-								<!--WANTED: Baroness Grayris
-								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128832-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
-								-->
-								<!--WANTED: Baroness Grayris
-								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128832-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
-								-->
-								<!--WANTED: Baroness Grayris
-								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128832-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
+								<!--WANTED: 
+								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128839-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
 								-->
 							</tr>
 							<tr>
-								<!--Kill 12 Consumed on MARS-->
+								<!--Kill 12 Consumed on MARS 
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/114907886-take-them-out" class="image image-thumbnail">Take Them Out</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Kill 12 Consumed or named Fallen, Hive, Cabal, or Vex on Mars.</td>
-								<!--Kill 12 Consumed on VENUS
+								-->
+								<!--Kill 12 Consumed on VENUS 
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/1351492852-take-them-out" class="image image-thumbnail">Take Them Out</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Kill 12 Consumed or named Fallen, Hive, Cabal, or Vex on Venus.</td>
 								-->
-								<!--Kill 12 Consumed on EARTH
+								<!--Kill 12 Consumed on EARTH -->
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/2355199022-take-them-out" class="image image-thumbnail">Take Them Out</a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Kill 12 Consumed or named Fallen, Hive, Cabal, or Vex on Earth.</td>
-								-->
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Kill 12 Consumed or named Fallen, Hive, Cabal, or Vex on Cosmodrome.</td>
+								
 							</tr>
 							<tr>
 								<!--Kill 100 Taken-->
@@ -544,7 +534,7 @@
 				</div>
 		      	</div>
 			<div id="BR" class="tab-pane fade in">
-        			<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="color: #fbcc40; font-family: 'Roboto', sans-serif; font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Bungie Ride Along<br>Dreadnaught [03/02 @ 1400 EST]</h3>
 			    		<div class="content text-content">
 						We're headed back to the Dreadnaught, and we're bringing a world artist and an activity designer along for the ride.
@@ -556,7 +546,7 @@
 		    		</div>
       			</div>
       			<div id="IB" class="tab-pane fade">
-				<div class="well well-dark-transparent" style="background-color: #294638; overflow:auto; height:550px;">
+				<div class="well well-dark-transparent" style="background-color: #294638; overflow:auto; height:590px;">
 				    <img src="https://i.imgur.com/GOYBL1f.jpg" style="text-align:center;" width="100%" alt="Iron Banner" title="Iron Banner logo"></h3>
 			    	    <p>Iron Banner is gone for now! See you next time!</p>
 			            <!--
@@ -720,7 +710,7 @@
 			          </div>
 			</div>
 			<div id="ToO" class="tab-pane fade">
-				<div class="well well-dark-transparent" style="background-color: #D9A503; overflow:auto; height:550px;">
+				<div class="well well-dark-transparent" style="background-color: #D9A503; overflow:auto; height:590px;">
 					<h3 style="font-size: 24px; text-align:left; margin: 0px 0px 15px; padding: 5px 0px 5px;"><img src="http://i.imgur.com/HCtpKaR.jpg" width="100%" alt="Trials of Osiris" title="ToO logo"></h3>
 					<div class="section text-center">                  
 		                        	<h3 style="font-size: 24px; text-align:center; margin: 0px 0px 15px; padding: 5px 0px 5px; color: black !important;">Map -  Burning Shrine [03/04 to 03/07]</h3>
@@ -790,7 +780,7 @@
 				</div>
 			</div>
 			<div id="AD" class="tab-pane fade">
-				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
 					<h3 style="font-size: 24px; text-align:center; margin: 0px 0px 30px; padding: 5px 0px 5px;">GUNSMITH ARMSDAY [03/03]</h3>
 					<div class="section">                  
 		                        	<h3 style="font-size: 28px; text-align:center; border-top: 2px solid #8d8c91; margin: 0px 0px 15px; padding: 5px 0px 5px;">ORDERS TO BE PLACED</h3><br>             	         
@@ -940,7 +930,7 @@
 				</div>
 			</div>
 			<div id="PoE" class="tab-pane">
-				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
 					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Prison of Elders</h3>
 					<div class="row">
 		        			<div class="col-md-6">
@@ -957,7 +947,7 @@
 				</div>
 			</div>
 			<div id="twitch" class="tab-pane">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
 					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;"><img src="http://i.imgur.com/LPgEQGG.jpg" width="100%" height="px"alt="twitch" title="twitch"></h3>
 					<div class="row">
 		        <div class="col-md-6">
@@ -976,13 +966,13 @@
 				</div>
 			</div>
 			<div id="rewards" class="tab-pane">
-				<div class="well well-dark-transparent" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
 					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Activity Rewards</h3>
 					<img src="http://i.imgur.com/WvZFg0p.jpg" width=100%  alt="rewards Banner" title="activity rewards Banner"><br>
 				</div>
 			</div>
 			<div id="CD" class="tab-pane">
-				<div class="well well-dark-transparent" style="overflow:auto; height:550px; background-color: #68100F;">
+				<div class="well well-dark-transparent" style="overflow:auto; height:590px; background-color: #68100F;">
 					<h2 style="background-color: #68100F; color: #ffffff; text-align:center;"><a href="http://i1.wp.com/planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg" rel="gallery" class="fancybox image"><img class="size-full wp-image-27554 alignright" src="//i1.wp.com/planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg?resize=96%2C96" alt="b80f89f7155abb0324aabf8d501be08f" srcset="//planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f-55x55.jpg 55w, //planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg 96w" sizes="(max-width: 96px) 100vw, 96px" width="50" height="50"></a> Crimson Days [02/09 to 02/15] <a href="http://i1.wp.com/planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg" rel="gallery" class="fancybox image"><img class="size-full wp-image-27554 alignright" src="//i1.wp.com/planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg?resize=96%2C96" alt="b80f89f7155abb0324aabf8d501be08f" srcset="//planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f-55x55.jpg 55w, //planetdestiny.com/wp-content/uploads/2016/02/b80f89f7155abb0324aabf8d501be08f.jpg 96w" sizes="(max-width: 96px) 100vw, 96px" width="50" height="50"></a></h2>
 					<img src="http://i.imgur.com/E5yyMCB.jpg" width=100%  alt="cd Banner" title="crimson Banner"><br>
 					<h4>Crimson Days has begun! Need Elimination&nbsp;Doubles tips? Click&nbsp;<strong><a href="http://planetdestiny.com/crimson-doubles-guide/" target="_blank">here</a>!</strong></h4><br>
@@ -1037,7 +1027,7 @@
 		  	</div>
 			</div>
 			<div id="RR" class="tab-pane">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
 					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">the100.io Raid Race 2016</h3>
 					<img src="http://i.imgur.com/dms9hgM.gif" width=100%  alt="rr Banner" title="raid race Banner"><br><br>
 					<div class="well well-dark-transparent">
@@ -1046,7 +1036,7 @@
 				</div>
 			</div>
 			<div id="SRL" class="tab-pane">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
 					<img src="http://i.imgur.com/RWGFLD5.jpg" width=100%  alt="srl Banner" title="Sparrow Banner"><br>
 					<h3 style="font-size: 22px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Leaderboard</h3>
 					<h3 style="font-size: 16px; text-align:center; margin: 0px 0px 30px; padding: 5px 0px 5px;"><a href="https://docs.google.com/spreadsheets/d/1NcSpzQhM7HY6nNZ3tIYgCyepxb4hFpf9cRfCAfYKdKI/edit?usp=sharing" target="_new">UPDATE YOUR TIMES HERE</a></h3>
@@ -1238,19 +1228,19 @@
 				</div>
 			</div>
 			<div id="HoJ" class="tab-pane">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
 					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">House of Judgement [11/24]</h3>
 					<img src="http://i.imgur.com/9UKFQeL.jpg" width=75%  alt="qw Banner" title="queens wrath Banner"><br>
 				</div>
 			</div>
 			<div id="bungie" class="tab-pane">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
 					<a class="twitter-timeline" href="https://twitter.com/Bungie" data-widget-id="693068913672900609">Tweets by @Bungie</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
 			</div>
 			<div id="bungiehelp" class="tab-pane">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:550px;">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
 					<a class="twitter-timeline" href="https://twitter.com/BungieHelp" data-widget-id="693066466330054656">Tweets by @BungieHelp</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
