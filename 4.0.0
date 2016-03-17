@@ -3,7 +3,7 @@
         <li class="active"><a data-toggle="tab" href="#home"><span class="glyphicon glyphicon-home" style="padding-right:10px;"></span>WELCOME</a></li>
         <li><a data-toggle="tab" href="#info"><span class="glyphicon glyphicon-info-sign" style="padding-right:10px;"></span>CLAN</a></li>
         <li class="active"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#division">THE DIVISION</a></li>
-        <li><a style="color: #428bca; !important;" data-toggle="tab" href="#destiny">DESTINY</a></li>
+        <li><a style="color: #428bca !important;" data-toggle="tab" href="#destiny">DESTINY</a></li>
         <li><a style="color: #6441a5 !important;" data-toggle="tab" href="#twitch"><span class="glyphicon glyphicon-facetime-video" style="padding-right:10px;"></span>TWITCH</a></li>
 </ul>
 
