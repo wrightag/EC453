@@ -36,14 +36,14 @@
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#QW"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Queens Bounties</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#KF"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Kings Fall<br><span class="glyphicon glyphicon-king" style="padding-right:22px;"></span>Challenge Mode</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#CoO"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Court of Oryx T3</small></a></li>
-                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#IB"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/11/IronBannerLogo.png/revision/latest?cb=20150317192602" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Iron Banner</small></a></li>
-                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#ToO"><small><span class="glyphicon glyphicon-eye-open" style="padding-right:10px;"></span>Trials of Osiris</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#AD"><small><span class="glyphicon glyphicon-bullhorn" style="padding-right:10px;"></span>Armsday</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#VI"><small><span class="glyphicon glyphicon-transfer" style="padding-right:10px;"></span>Material Exhange</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://whereisxur.com/" target="_blank">XUR</a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungie"><small><span class="glyphicon glyphicon-exclamation-sign" style="padding-right:10px;"></span>Bungie Twitter</small></a></li>
                 			
                 			<!-- INACTIVE EVENTS
+                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#IB"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/11/IronBannerLogo.png/revision/latest?cb=20150317192602" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Iron Banner</small></a></li>
+                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#ToO"><small><span class="glyphicon glyphicon-eye-open" style="padding-right:10px;"></span>Trials of Osiris</small></a></li>
                 			<li><a data-toggle="tab" style="padding: 8px 20px;" href="#HoJ">HOUSE OF JUDGEMENT, VARIKS</a></li>
                 			<li><a data-toggle="tab" style="text-align:center;" href="#CD">CRIMSON DAYS</a></li>
                 			<li><a data-toggle="tab" style="text-align:center;" href="#PoE">PRISON OF ELDERS</a></li>
