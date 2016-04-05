@@ -17,7 +17,7 @@
                 		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionnews"><small><span class="glyphicon glyphicon-th-list" style="padding-right:10px;"></span>News</small></a></li>
                                         <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionreset"><small>Daily Reset</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionstate"><small>State of the Game</small></a></li>
-                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionupdates"><small>1.0.2 Patch Notes</small></a></li>
+                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionupdates"><small>1.1 Patch Notes</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionFarm"><small>Dark Zone Farming</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionY1"><small><span class="glyphicon glyphicon-road" style="padding-right:10px;"></span>Roadmap</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#dtwitter"><small>Division Twitter</small></a></li>
@@ -128,147 +128,14 @@
 		      	<div id="divisionnews" class="tab-pane fade">
         			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
-					<p style="color: #ff6d10 !important;"> - MAR 22 - Division - <a data-toggle="tab" href="#divisionupdates" style="color: #ff6d10 !important;">Update 1.0.2 - Patch</a></p>
-					<p style="color: #ff6d10 !important;"> - MAR 29 - Division - <a data-toggle="tab" href="#divisionstate" style="color: #ff6d10 !important;">Weekly Update</a></p>
-					<p style="color: #ff6d10 !important;"> - APR ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: #ff6d10 !important;">Update 1.1 - Incursions</a></p>
+					<p style="color: #ff6d10 !important;"> - APR 05 - Division - <a data-toggle="tab" href="#divisionupdates" style="color: #ff6d10 !important;">Update 1.1 - Patch</a></p>
+					<p style="color: #ff6d10 !important;"> - APR 05 - Division - <a data-toggle="tab" href="#divisionstate" style="color: #ff6d10 !important;">State of the Game</a></p>
+					<p style="color: #ff6d10 !important;"> - APR 05 - Division - <a href="https://www.reddit.com/r/thedivision/comments/4dcx1q/tired_of_getting_killed_in_the_dark_zone_try_this/" target="_blank" style="color: #ff6d10 !important;">Recommended Dark Zone Gear</a></p>
+					<p style="color: #ff6d10 !important;"> - APR 12 - Division - <a data-toggle="tab" href="#divisionY1" style="color: #ff6d10 !important;">Update 1.1 - Incursions</a></p>
 					<p style="color: #ff6d10 !important;"> - MAY ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: #ff6d10 !important;">Update 1.2  - Conflict</a></p>
 					<p style="color: #ff6d10 !important;"> - JUN ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: #ff6d10 !important;">Expansion I - Underground</a></p>
 					<p style="color: #ff6d10 !important;"> - SUM ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: #ff6d10 !important;">Expansion II - Survival</a></p>
 					<p style="color: #ff6d10 !important;"> - WIN ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: #ff6d10 !important;">Expansion III - Last Stand</a></p>
-					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
-		    		</div>
-      			</div>
-      			<div id="divisionupdates" class="tab-pane fade">
-        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
-          				<h2 style="color: #ff6d10; font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Division Update 1.0.2 - March 22, 2016</h2>
-					<p style="color: #9b8f7c;">New patch notes have been released. Patch Notes listed below.</p>
-					<p></p> 
-					<h3 style="color: #9b8f7c;">Gameplay</h3>
-    					<ul>
-    						<li><p style="color: #ff6d10; font-size: 12px;">- Named enemies. will now drop better loot in Challenge mode than in Hard mode.</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Added a cooldown period for the Static Turret stun attack in order to avoid a stunlock in PvP and PvE game modes.</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Named NPCs will no longer respawn after being killed in the Open World. This will prevent situations where players were able to kill a same named NPC over and over again.</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a speed run exploit for the Rooftop Comm Relay mission</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed an issue where weapons dealt no damage if the reload animation was interrupted by an agent’s skill</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed an issue where players became stuck in an emote animation if activated via chat while auto running</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where skill power would be increased permanently while using the Death by Proxy talent</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where experience was not being awarded for completing all side-missions in the Midtown East safe house</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed instances where the Seeker Mine with Airburst / Multi-mine mod would detonate too soon, miss targets or cause no damage</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where grenades would sometimes not display the blast radius warning before detonating</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed an issue where some NPCs in low cover would not react to being shot by the player</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed issues where emotes would cause the player model to behave oddly (missing guns, player stuck in emote animation, etc)</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where weapon mods and weapon skins would not show up on other players in the game world</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed an issue where DPS would not be calculated properly when purchasing a new weapon mod</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Modifications to the weapon talent: Trained.</p></li>
-							<ul>
-								<li><p style="color: #9b8f7c; font-size: 11px;">- It can now only be rolled on Shotgun, Marksman rifles and Pistols</p></li>
-								<li><p style="color: #9b8f7c; font-size: 11px;">- Its bonus has been reduced from 1%-5% to a constant 0.1%</p></li>
-								<li><p style="color: #9b8f7c; font-size: 11px;">- For the Midas SMGs, Trained Talent has been replaced with Responsive Talent which increases damage when getting closer to the target. This applies to existing weapons as well as newly acquired ones</p></li>
-								<li><p style="color: #9b8f7c; font-size: 11px;">- For all SMGs, LMGs, and Assault Rifles, it will be replaced with another randomly picked weapon talent. This applies to existing weapons as well as newly acquired ones</p></li>
-							</ul>
-						</li>
-					</ul>
-					<hr>
-					<h3 style="color: #9b8f7c;">Dark Zone</h3>
-					<ul>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Players can now heal other neutral players in the Dark zone, by using First Aid and Support Station skills</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Players are now able to fast travel to Dark Zone checkpoints, but only when coming from outside the Dark Zone</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- The Dark Zone disconnect timer has been increased to 30 seconds, meaning players will remain in the game world longer when logging out while in the Dark Zone (this applies while not in combat)</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Items extracted from the Dark Zone are now properly marked as "new" items when moved to the players inventory</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Players killed in the Dark Zone now drop ammo, medkits and grenades. This loot is generated and not taken from the dying players’ inventory</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Players killed in the Dark Zone will lose less Dark Zone Funds and Experience (Rogue and non-Rogue)</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Dark Zone Funds and Experience rewards for surviving Rogue status have been improved</p>
-							<ul>
-								<li><p style="color: #9b8f7c; font-size: 11px;">- The loss associated with death while Rogue is no longer a percentage of total XP or credits. Instead, players will lose currency based on their Rogue level. For instance, if a player is Rogue level 1, they will lose around 10% of their current level’s experience. In terms of gaining funds from successfully running the Rogue timer out, a rank 50 player that survives Manhunt will receive XP equal to killing 40 NPCs and credits equal to killing 79 NPCs. The team didn’t want the Dark Zone to become a bloodbath, but the current state is far too civil because of the losses involved.</p></li>
-							</ul>
-						</li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Dark Zone Funds and Experience rewards for killing Rogue agents have been improved</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Increased drop rate of High-End items from lvl 31 and 32 named NPCs in the Dark Zone.</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Increased drop rate of High-End Division Tech Material from lvl 32 named NPCs in the Dark Zone.</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Dark Zone Funds drop rates and quantity on NPCs has been reduced.</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where the Wildfire and Fear Tactics talents were affecting neutral players in the Dark Zone.</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed instances where players would receive a DELTA error message when entering the Dark Zone</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where sometimes players could not loot anything after returning to the game following a network disconnection</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed Stage 1 Rogue timers not displaying correctly when Rogue players receive damage from another player</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Improved Dark Zone Chests items quality:
-							<ul>
-								<li><p style="color: #9b8f7c; font-size: 11px;">- Rank 30 chests will now drop Superior (Purple) items instead of Specialized (Blue)</p></li>
-								<li><p style="color: #9b8f7c; font-size: 11px;">- Keys chests now have a chance to drop High-End (Gold) items</p></li>
-							</ul>
-						</li>
-					</ul>
-					<hr>
-					<h3 style="color: #9b8f7c;">Graphics</h3>
-					<ul>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a few lights that did not cast global illumination</p></li>
-					</ul>
-					<hr>
-					<h3 style="color: #9b8f7c;">UI</h3>
-					<ul>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Added more information for Daily missions on the Map</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Tutorials have received some UI polish</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- The Matchmaking menu now displays the mission difficulty rating more prominently</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- The mini-map mission tracker has been optimized to be less confusing to players</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where some of the attributes for high-end equipment were cut-off in the recalibration menu</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where the Matchmaking menu for a mission would not display correctly or kept disappearing</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed missing item icons in the Reward Claim Vendor's inventory</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed incorrect side-missions being displayed in the Map legend</p></li>
-					</ul>
-					<hr>
-					<h3 style="color: #9b8f7c;">Audio</h3>
-					<ul>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where the helicopter crash SFX would be missing from the Brooklyn end cinematic</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where the Zapper Turret mod had no sound</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where the audio for entering a contaminated area would be cut-off</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where audio would not play when scrolling through vanity items</p></li>
-					</ul>
-					<hr>
-					<h3 style="color: #9b8f7c;">Localization</h3>
-					<ul>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed Ubisoft CLUB reward descriptions in Korean and Traditional Chinese</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- In-game localization bug fixes</p></li>
-					</ul>
-					<hr>
-					<h3 style="color: #9b8f7c;">Xbox One</h3>
-					<ul>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where players could not reconnect to the servers after suspending the game on Xbox One</p></li>
-						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug on Xbox One where unblocking a player would not be reflected in-game until title reboot</p></li>
-					</ul>
-					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
-		    		</div>
-      			</div>
-      			<div id="divisionstate" class="tab-pane fade">
-        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
-          				<h2 style="color: #9b8f7c; font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">State of the Game [2016-03-29]</h2>
-					<p style="color: #ff6d10;">This is a summary of the weekly <u>State of the Game</u> Twitch stream</p>
-					<p style="color: #ff6d10;">You can re-watch the State of Game here: <a href="https://www.twitch.tv/thedivisiongame/v/57350148">link</a></p>
-					<p></p>
-					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Maintenance</h3>
-					<p style="color: #ff6d10;">The servers will shut down for a scheduled weekly maintenance on Tuesday, March 29 at 03:00 AM EST</p>
-					<p style="color: #ff6d10;">Estimated downtime is approximately 3 hours.</p>
-					<p></p>
-					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">State of the Game</h3>
-					<p style="color: #ff6d10; font-size: 18px;"><u>Important Points</u></p>
-					<ul>
-						<li><p style="color: #ff6d10; font-size: 14px;">There will be changes to Division Tech. As of now we don't know what, but it won't involve crafting.</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">No patch notes this week only server-side clean-up.</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Future updates based on the feedback are work in progress.</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">They are making progress in the backpack issue that locks out users from their account. It was hard to reproduce, but now they have identified the issue and working on the fix now. (the forum-thread helped)</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">There will be more Weekly and Daily activities that give rewards.</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Community "stuff&amp;things" will be also added to the game.</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">There will be a big stream to announce the future changes, but we don't have a date right now.</p></li>
-					</ul>
-					<p style="color: #ff6d10; font-size: 18px;"><u>Dark Zone</u></p>
-					<ul>
-						<li><p style="color: #ff6d10; font-size: 14px;">More players are going rogue - to the point where players complain that there are too many.</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">The time that people spend in the Dark Zone doubled.</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">But there will be more changes to optimize the experience</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">There will be more "stuff and things" added to the Dark Zone</p></li>
-					</ul>
-					<p></p>
-					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Patch Notes</h3>
-					<p style="color: #ff6d10;">There are no patch notes this week.</p>
-					<p></p> 
 					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
 		    		</div>
       			</div>
@@ -277,8 +144,9 @@
 		          		<table width="100%" align="center" style="font-size: 14px;">
 		          			<tbody>
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Missions [20:00EST 03/30]<br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Missions [20:00EST APR-04]<br></td>
 					               	</tr>
+						<!-- ****************************
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
@@ -295,6 +163,7 @@
 								<td width="20%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">First Wave M1A</td>
 								<td width="60%" style="color: #9b8f7c; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">This Marksman Rifle got everyone riled up right away with +152% Headshot Damage this rifle is a great gun that has the talents Accurate and Balanced!</td>
 							</tr>
+						*********************************** -->
 							</tbody>
 						<tfoot></tfoot>
 					</table>
@@ -303,12 +172,12 @@
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
-							<!-- 13 - Grand Central Station -->
+							<!-- 7 - Times Square Power Relay -->
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Grand_Central_Station">Grand Central Station</a></strong><br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Times_Square_Power_Relay">Times Square Power Relay</a></strong><br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/PhUwaTP.png" width=100%  alt="daily" title="daily"><br></td>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/Lxl79LM.png" width=100%  alt="daily" title="daily"><br></td>
 					               	</tr>
 					               	<tr>
 								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Hard Mode Rewards</td>
@@ -323,13 +192,13 @@
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
-							<!-- 16 - Queens Tunnel Camp -->
+							<!-- 3 - Hudson Refugee Camp -->
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Queens_Tunnel_Camp">Queens Tunnel Camp</a></strong><br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Hudson_Refuge_Camp">Hudson Refugee Camp</a></strong><br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/JS20Yp0.png" width=100%  alt="daily" title="daily"><br></td>
-					               	</tr> 
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/t3BnRh8.png" width=100%  alt="daily" title="daily"><br></td>
+					               	</tr>
 							<tr>
 								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Hard Mode Rewards</td>
 								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">15 Phoenix Credits</td>
@@ -343,12 +212,12 @@
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
-							<!-- 4 - Russian Consulate -->
+							<!-- 1 - Lincoln Tunnel Checkpoint -->
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Russian_Consulate">Russian Consulate</a></strong><br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Lincoln_Tunnel_Checkpoint">Lincoln Tunnel Checkpoint</a></strong><br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/7BVoO7g.png" width=100%  alt="hard" title="hard"><br></td>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/c6ai1rX.png" width=100%  alt="hard" title="hard"><br></td>
 					               	</tr>
 							<tr>
 								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Challenge Mode Rewards</td>
@@ -399,6 +268,256 @@
 					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 		      	</div>
+      			<div id="divisionstate" class="tab-pane fade">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
+          				<h2 style="color: #9b8f7c; font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">State of the Game [2016-04-05]</h2>
+					<p style="color: #ff6d10;">This is a summary of the weekly State of the Game Twitch stream</p>
+					<p style="color: #ff6d10;">You can re-watch the State of Game here: <a href="https://www.twitch.tv/thedivisiongame/v/58732988">link</a></p>
+					<p></p>
+					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Maintenance</h3>
+					<p style="color: #ff6d10;">The servers will shut down for a scheduled weekly maintenance every Tuesdayat 03:00 AM EST</p>
+					<p style="color: #ff6d10;">Estimated downtime is approximately 3 hours.</p>
+					<p></p>
+					<p style="color: #9b8f7c; font-size: 18px;"><u>Division Tech:</u></p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 14px;">Can drop from NPCs as well as the division tech chests</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Even more ways to earn it after update 1.1</p></li>
+						
+					</ul>
+					<p style="color: #9b8f7c; font-size: 18px;"><u>Backpack Issue</u></p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 14px;">No modded items in the Inventory</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">It should be fixed and it will be patched in the 1.1 update</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">But can also have other fallout, but it is under investigation</p></li>
+						
+					</ul>
+					<p style="color: #9b8f7c; font-size: 18px;"><u>Cheating</u></p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 14px;">Cheating report helps and they are also asking for reports from the community</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">On PC, players can be reported in-game after 1.1 - /report (Username)</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">They are also scanning themselves with server side tracking</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Suspension and banning is happening</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">There is a 3 day suspension, then there is a second chance, but then it is a permanent ban</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">It is not perfect, but they are working on. Better solutions will be implemented in the future.</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">There were also many false reports because some Players are very high geared (the new Dark Zone Bracket in level 30 will probably help the situation)</p></li>
+						
+					</ul>
+					<p style="color: #9b8f7c; font-size: 18px;"><u>Stats</u></p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 14px;">Completion Rate: 41% of all character created have the story completed (only 33% of those went to the last Echo)</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">37% of all character have reached level 30</p></li>
+						
+					</ul>
+					<p style="color: #9b8f7c; font-size: 18px;"><u>Other News Later This Week</u></p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 14px;">New Podcast about Incursions / Endgame / Balancing will be released later this week.</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">New Article about Gear Sets and Incursions</p></li>
+						
+					</ul>
+					<p style="color: #9b8f7c; font-size: 18px;"><u>Incursions - Update 1.1 Preview</u></p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 14px;">Falcon Lost is the new Incursion that will be released next week</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">4 Gear Sets (1 Dark Zone / 3 more PvE Focused)</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Gear Score will be implemented</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Assignments are daily and weekly activities (new every day) Dark Zone / PVE / Crafting</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Hourly Supply Drops in the Dark Zone that are guarded by NPCs</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Trading among team-members (give feedback if it not OK)</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Phoenix Credits changes will be included. Level 30 enemies drop 1-3 Credits. Level 31 enemies drop 2-4 Credits. Level 32 enemies drop 3-5 Credits</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Blueprints - New Level 31 / 32 Blueprints</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Crafting - Older Blueprints will not require Division Tech anymore. The New ones will need Division Tech</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Dark Zone changes - Items can be bought with these Dark Zone Ranks (15 / 25 / 40 / 75 / 90) more granular DZ Ranks. New Dark Zone Brackets (below 160 / above 160). 160 = almost full high end gear equipped.</p></li>
+						
+					</ul>
+					<p></p>
+					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Patch Notes</h3>
+					<p style="color: #ff6d10;">Coming later today. View them here <a style="color: #9b8f7c;" data-toggle="tab" class="btn btn-primary" href="#divisionupdates">Update 1.1</a></p>
+					<p></p> 
+					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
+		    		</div>
+      			</div>
+      			<div id="divisionupdates" class="tab-pane fade">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
+          				<h2 style="color: #ff6d10; font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Division Update 1.1 - April 12, 2016</h2>
+					<p style="color: #9b8f7c;">New patch notes have been released for the April 12th Update 1.1.</p>
+					<p></p> 
+					<hr>
+					<h2 style="color: #9b8f7c;">New Features</h2>
+					<h3 style="color: #9b8f7c;">Falcon Lost</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Falcon Lost is a new incursion available in the Stuyvesant area</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- You must be level 30 and have completed the mission "General Assembly" to access this mission</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- The encounter is balanced for 4 players with high level gear</p></li>
+					</ul>
+					<p>&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">Gear Sets</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Gear set equipment can be found by completing the most challenging activities in Manhattan</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Collecting and wearing gear sets grant powerful stat bonuses and talents</p></li>
+					</ul>
+					<p>&nbsp;</p>
+					<p style="color: #ff6d10; font-size: 14px;">Different Gear Sets:</p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- “Tactician's Authority” – enhances electronics and support capabilities</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- “Striker's Battlegear” – provide bonuses for assault capabilities</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- “Sentry's Call” – enhances marksman capabilities</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- “Path of the Nomad” – provides bonuses for lone wanderers</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">Trading</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Items dropped by enemies can be shared with other players</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Trade items by dropping them as loot from your inventory, so players in your group can pick them up</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- You can only share items for during the first 2 hours after you have acquired them</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Items can only be shared with players who are currently in your group and who were also in your group when the item was originally dropped</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">Assignments</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Assignments are automatically obtained when you log in and can be tracked from the map via the menu called “Mission Overview”</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Assignments are available for a limited time (24h for Daily Assignments and 7 days for Weekly Assignments), after which, they will be replaced by different assignments</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Most assignments can be completed while playing alone but some will require enlisting other agent’s assistance to complete</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<p style="color: #ff6d10; font-size: 14px;">Assignments come in different categories:</p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Combat</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Dark Zone</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Crafting</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<p style="color: #ff6d10; font-size: 14px;"><strong>Assignement Teaser</strong>
+					<a href="https://www.youtube.com/watch?v=QuQE0IhVWPE">Video</a></p>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">Dark Zone Supply Drops</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Dark Zone Supply Drops are a global event where the Strategic Homeland Defense agency airdrops multiple supply caches to assist Division agents</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Supply drops will occur multiple times over the course the day</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- The supply drops will contain non-contaminated gear of all types that will be ready to use without the need for extraction</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- These supply drops will be heavily sought after by other agents and enemy factions that roam the Dark Zone, so be ready for resistance</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">Gear Score</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Every non-vanity gear piece that can be found when your agent is level 30 has a Gear Score value. The higher an item’s Gear Score, the stronger the item</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- The overall Gear Score of your agent can be seen in your main menu next to your player level. Gear Score indicates the advancement of an agent</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Other agents’ Gear Scores are displayed next to their health bars</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Improving your gear and increasing your overall Gear Score will grant your agent access to the most dangerous high-end challenges</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">Group Spectator Camera</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- The Group Spectator Cam lets players spectate members of their group while waiting to be revived or the entire group to be down</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Players can use RB/LB, R1/L1 or Q/E keys to switch between group members</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">New High-End Named Weapons</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Added new High-End named weapons:</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Warlord: Assault Rifle</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Valkyria: Submachine gun</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- (Historian: Marksman Rifle) Please note that while the Historian will be implemented in the game with this update, it will not be acquirable in-game until update 1.2</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h2 style="color: #9b8f7c;">Game Changes</h2>
+					<h3 style="color: #9b8f7c;">Gameplay</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Turret skill can no longer suppress enemy NPCs, as this allowed named NPCs to be defeated too easily</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Recalibrating High-End items will now cost normal Credits instead of Phoenix Credits</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<p style="color: #ff6d10; font-size: 14px;">Phoenix Credits drop have been increased on lvl 31 and 32 named enemies:</p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Level 30: 1-3 Phoenix Credits</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Level 31: 2-4 Phoenix Credits</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Level 32: 3-5 Phoenix Credits</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">Dark Zone</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- The vendor in the Church Safe House will now sell items in Dark Zone Funds instead of Phoenix Credits</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Added a new Dark Zone bracket for characters with Gear Score 160+</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<p style="color: #ff6d10; font-size: 14px;">Ranks requirements for Superior and High-End quality items at the Dark Zone Vendors have been adjusted:</p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Superior (Purple) items: Rank 15 instead of 30</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- High-End (Gold) level 30 (Gear Score 163): Rank 25 instead of 50</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- High-End (Gold) level 31 (Gear Score 182): Rank 40 instead of 50</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">Crafting</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Added new level 31 and 32 High-End items Blueprints to Vendors</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Removed Division Tech requirements from some level 31 High-End Blueprints</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<p style="color: #ff6d10; font-size: 14px;">Increased costs for converting crafting materials and crafting High-End items:</p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- 10 Standard (Green) materials instead of 5 to craft 1 Specialized (Blue) material</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- 15 Specialized (Blue) materials instead of 5 to craft 1 High-End (Gold) material</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- 10 High-End (Gold) materials instead of 8 to craft 1 lvl 31 High-End (Gold) item</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<p style="color: #ff6d10; font-size: 14px;">Changed deconstruction yield of Standard (Green) and High-End (Gold) items:</p>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Deconstructing a Standard (Green) item yields 1 Standard material instead of 2</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Deconstructing a High-End (Gold) item yields 1 High-End material instead of 2</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">User Interface</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Added gamepad deadzone calibration in settings menu (all platforms)</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<h3 style="color: #9b8f7c;">Bug Fixes</h3>
+					<ul>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug that could prevent characters from accessing the game if they had too many items in their inventory</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where sometimes the weapon talents would not activate if the player has the exact stat requirements</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where players could exit the Dark Zone on East 43rd street</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Reloading stripper clips is now correctly interrupted by firing the weapon (marksman rifles and shotguns)</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed an issue where buying a weapon with a pre-attached scope using the buy and equip feature sometimes caused the scope to un-equip</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed an exploit where players could shoot through corners of covers</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a number of locations where NPCs could shoot through walls</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed an exploit where players could ignore the fire rate of certain weapons</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed some locations where players would get stuck in Queen Tunnel Camp mission</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed various prop collisions so that players no longer become stuck</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where the final cut scenes would unlock before the final missions were completed</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where the Water Supply side mission would not activate</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed an issue where the Morphine Supply side mission sometimes would not complete</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Players no longer receive too much XP for completing the Morphine Supply side mission</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- The buff from Smart Cover no longer stacks if multiple teammates are using it on the same piece of cover</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed some bugs where deployable skills would not activate under certain circumstances</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where voice chat volume indicators would overlap in the group UI frame</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where receiving a group invite via Matchmaking would sometimes not show up on the screen</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where the dead teammate icon would turn into a blue dot instead of a red cross if the players were too far away from each other</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed an issue where a player would be unable to inspect the appearance of his/her character while changing outfits</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed some UI elements for mission overview frame and adjusted some of the misaligned icons</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Corrected the colors for the appearance items in the Mission rewards list</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- NPC’s will no longer ignore the player while they are attempting to interact with props (arming/disarming bombs)</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where a NPC would sometimes not leave its spawn area during the Morphine Supply side mission</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Fixed a bug where NPC’s would sometimes not respawn at one of the landmarks in the Dark Zone</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Several clipping issues have been fixed with various appearance items</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- Some tooltips have been updated with more clear information</p></li>
+						<li><p style="color: #ff6d10; font-size: 12px;">- And many more</p></li>
+					</ul>
+					<p style="color: #ff6d10; font-size: 14px;">&nbsp;</p>
+					<hr>
+					<p><a style="color: #9b8f7c;" href="http://tomclancy-thedivision.ubi.com/game/en-GB/news/detail.aspx?c=tcm:154-245851-16&amp;ct=tcm:148-76770-32">Source</a></p>
+					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
+		    		</div>
+      			</div>
       			<div id="divisionY1" class="tab-pane fade in">
         			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="color: #ff6d10; font-family: 'Roboto', sans-serif; font-size: 24px; text-align:center; border-bottom: 2px solid #ff6d10; margin: 0px 0px 30px; padding: 5px 0px 5px;">The Divison Year 1 Roadmap</h3>
