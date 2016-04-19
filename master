@@ -214,8 +214,8 @@
 							</tbody>
 						<tfoot></tfoot>
 					</table>
-					<hr style="color: #ff6d10;">
-    					<p style="color: #9b8f7c;">Last but not least here is the <strong><a style="color: #ff6d10;"  target="_blank" href="https://www.reddit.com/r/thedivision/comments/4ff0nz/daily_reset_info_418419/">The Division Daily Reset Thread</p>
+					<br><br>
+					<p style="color: #9b8f7c;">Last but not least here is the <strong><a style="color: #ff6d10;"  target="_blank" href="https://www.reddit.com/r/thedivision/comments/4ff0nz/daily_reset_info_418419/">The Division Daily Reset Thread</p>
     					
 					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
@@ -258,7 +258,7 @@
 							</tbody>
 						<tfoot></tfoot>
 					</table>
-					<hr style="color: #ff6d10;">
+					<br><br>
 					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 		      	</div>
@@ -295,7 +295,7 @@
 							</tbody>
 						<tfoot></tfoot>
 					</table>
-					<hr style="color: #ff6d10;">
+					<br><br>
 					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 		      	</div>
@@ -362,7 +362,7 @@
 					
 					<hr>
 					
-					<h1>Known Issues</h1>
+					<h4>Known Issues</h4>
 					
 					<p>Bug reports should always go to Ubisoft/Massive directly in their <a href="http://forums.ubi.com/forumdisplay.php/1024-Technical-Support">official technical support forum.</a> </p>
 					
@@ -374,7 +374,7 @@
 					
 					<hr>
 					
-					<h1>Survey</h1>
+					<h4>Survey</h4>
 					
 					<p>On this sub there are always many discussions what could be changed on The Division. But there is also an official survey that can be used to give direct feedback about The Division and what is good an what could be improved. </p>
 					
@@ -384,7 +384,7 @@
 					
 					<hr>
 					
-					<h1>Operation ISAC: Transmission 02</h1>
+					<h4>Operation ISAC: Transmission 02</h4>
 					
 					<p>In this week’s episode, Simon looks deeper into the kidnapping of Agent St.Clair and gathers clues about the shady and mysterious mastermind pulling the strings. Join Simon to complete this weekly in-game assignment and claim your loot.</p>
 					
@@ -409,13 +409,13 @@
 					
 					<hr>
 					
-					<h1>State of the Game</h1>
+					<h4>State of the Game</h4>
 					
 					<p>As usual, there was a State of the Game stream on their official Twitch channel, where the Community Developers talk about current hot-topics and what is happening next. </p>
 					
 					<p>They addressed the feedback they got about the 1.1 update and how this is tracked. They commented on the backpack issue, the missing characters and the glitching/cheating situation.</p>
 					
-					<h2>State of the game 1.1</h2>
+					<h4>State of the game 1.1</h4>
 					
 					<ul>
 					<li>There was a lot of feedback since it was the first big upgrade</li>
@@ -427,7 +427,7 @@
 					
 					<p>&nbsp;</p>
 					
-					<h2>Exploits</h2>
+					<h4>Exploits</h4>
 					
 					<ul>
 					<li>Big issue with the 1.1 update</li>
@@ -448,7 +448,7 @@
 					
 					<p>&nbsp;</p>
 					
-					<h2>Cheating</h2>
+					<h4>Cheating</h4>
 					
 					<ul>
 					<li>Ongoing situation / fight</li>
@@ -461,7 +461,7 @@
 					
 					<p>&nbsp;</p>
 					
-					<h2>Backpack Bug / Missing characters</h2>
+					<h4>Backpack Bug / Missing characters</h4>
 					
 					<ul>
 					<li>Backpack was fixed 1.1, that has been confirmed by most of the players / there are some isolated cases but these are more complex cases. So report that issue in the official forums, if you are still experiencing that</li>
@@ -483,7 +483,7 @@
 					
 					<p>&nbsp;</p>
 					
-					<h2>Missing Daily Missions issue</h2>
+					<h4>Missing Daily Missions issue</h4>
 					
 					<p>Before the 1.1 update the daily missions were not available for a few days, this has have been fixed.</p>
 					
@@ -497,7 +497,7 @@
 					
 					<p>&nbsp;</p>
 					
-					<h2>Weekly / Daily Missions issue</h2>
+					<h4>Weekly / Daily Missions issue</h4>
 					
 					<ul>
 					<li>There were the same for multiple days, but that has been fixed</li>
@@ -505,7 +505,7 @@
 					
 					<p>&nbsp;</p>
 					
-					<h2>Gear Score Calculation</h2>
+					<h4>Gear Score Calculation</h4>
 					
 					<p>The gear score is calculated based on </p>
 					
