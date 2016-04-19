@@ -15,7 +15,9 @@
       			<div id="division" class="tab-pane fade in active">
                 	    	<ul class="nav nav-pills nav-stacked" style="background-color: #202020; color: #428bca; border-collapse:collapse;">
                 		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionnews"><small><span class="glyphicon glyphicon-th-list" style="padding-right:10px;"></span>News</small></a></li>
-                                        <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionreset"><small>Daily Reset</small></a></li>
+                                        <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionDM"><small>Daily Missions</small></a></li>
+                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionDA"><small>Daily Assignment</small></a></li>
+                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionWA"><small>Weekly Assignment</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionstate"><small>State of the Game</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionupdates"><small>1.1 Patch Notes</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionFarm"><small>Dark Zone Farming</small></a></li>
@@ -132,9 +134,9 @@
         			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
 					<p style="color: #ff6d10 !important;"> - APR 05 - Division - <a data-toggle="tab" href="#divisionupdates" style="color: #ff6d10 !important;">Update 1.1 - Patch</a></p>
-					<p style="color: #ff6d10 !important;"> - APR 05 - Division - <a data-toggle="tab" href="#divisionstate" style="color: #ff6d10 !important;">State of the Game</a></p>
 					<p style="color: #ff6d10 !important;"> - APR 05 - Division - <a href="https://www.reddit.com/r/thedivision/comments/4dcx1q/tired_of_getting_killed_in_the_dark_zone_try_this/" target="_blank" style="color: #ff6d10 !important;">Recommended Dark Zone Gear</a></p>
 					<p style="color: #ff6d10 !important;"> - APR 12 - Division - <a data-toggle="tab" href="#divisionupdates" style="color: #ff6d10 !important;">Update 1.1 - Incursions</a></p>
+					<p style="color: #ff6d10 !important;"> - APR 19 - Division - <a data-toggle="tab" href="#divisionstate" style="color: #ff6d10 !important;">State of the Game</a></p>
 					<p style="color: #ff6d10 !important;"> - MAY ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: #ff6d10 !important;">Update 1.2  - Conflict</a></p>
 					<p style="color: #ff6d10 !important;"> - JUN ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: #ff6d10 !important;">Expansion I - Underground</a></p>
 					<p style="color: #ff6d10 !important;"> - SUM ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: #ff6d10 !important;">Expansion II - Survival</a></p>
@@ -142,31 +144,13 @@
 					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
 		    		</div>
       			</div>
-      			<div id="divisionreset" class="tab-pane fade in">
+      			<div id="divisionDM" class="tab-pane fade in">
         			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
 		          		<table width="100%" align="center" style="font-size: 14px;">
 		          			<tbody>
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Missions [20:00EST APR-04]<br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Missions [20:00EST APR-19]<br></td>
 					               	</tr>
-						<!-- ****************************
-							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
-					               	</tr>
-							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Weapon and Gear of the Day<br></td>
-					               	</tr>
-							<tr>
-								<td width="20%" style="color: #ff6d10; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Location</td>
-								<td width="20%" style="color: #ff6d10; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Item</td>
-								<td width="60%" style="color: #ff6d10; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Why</td>
-							</tr>
-							<tr>
-								<td width="20%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Advanced Weapons Vendor</td>
-								<td width="20%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">First Wave M1A</td>
-								<td width="60%" style="color: #9b8f7c; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">This Marksman Rifle got everyone riled up right away with +152% Headshot Damage this rifle is a great gun that has the talents Accurate and Balanced!</td>
-							</tr>
-						*********************************** -->
 							</tbody>
 						<tfoot></tfoot>
 					</table>
@@ -175,52 +159,12 @@
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
-							<!-- 7 - Times Square Power Relay -->
+							<!-- 3 - WarrenGate Power Plant -->
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Times_Square_Power_Relay">Times Square Power Relay</a></strong><br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/WarrenGate_Power_Plant">WarrenGate Power Plant</a></strong><br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/Lxl79LM.png" width=100%  alt="daily" title="daily"><br></td>
-					               	</tr>
-					               	<tr>
-								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Hard Mode Rewards</td>
-								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">15 Phoenix Credits</td>
-								<td width="34%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Specialized Item</td>
-							</tr>
-							</tbody>
-						<tfoot></tfoot>
-					</table>
-					<table width="100%" align="center" style="font-size: 14px;">
-		          			<tbody>
-							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
-					               	</tr>
-							<!-- 3 - Hudson Refugee Camp -->
-							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Hudson_Refuge_Camp">Hudson Refugee Camp</a></strong><br></td>
-					               	</tr>
-							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/t3BnRh8.png" width=100%  alt="daily" title="daily"><br></td>
-					               	</tr>
-							<tr>
-								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Hard Mode Rewards</td>
-								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">15 Phoenix Credits</td>
-								<td width="34%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Specialized Item</td>
-							</tr>
-							</tbody>
-						<tfoot></tfoot>
-					</table>
-					<table width="100%" align="center" style="font-size: 14px;">
-		          			<tbody>
-							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
-					               	</tr>
-							<!-- 1 - Lincoln Tunnel Checkpoint -->
-							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Lincoln_Tunnel_Checkpoint">Lincoln Tunnel Checkpoint</a></strong><br></td>
-					               	</tr>
-							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/c6ai1rX.png" width=100%  alt="hard" title="hard"><br></td>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/EMr4ER3.png" width=100%  alt="hard" title="hard"><br></td>
 					               	</tr>
 							<tr>
 								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Challenge Mode Rewards</td>
@@ -235,105 +179,348 @@
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
-							<!-- Clothing and Weapon Skins -->
+							<!-- 6 - Broadway Emporium -->
 							<tr>
-					                  	<td colspan=2 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Clothing and Skins<br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Broadway_Emporium">Broadway Emporium</a></strong><br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=2 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/LXZbdES.jpg" width="100%"  alt="clothing" title="clothing"><br></td>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/3ubmPyL.png" width=100%  alt="daily" title="daily"><br></td>
 					               	</tr>
 					               	<tr>
-								<td width="50%" style="color: #ff6d10; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Mission</td>
-								<td width="50%" style="color: #ff6d10; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Skin</td>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Hard Mode Rewards</td>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">15 Phoenix Credits</td>
+								<td width="34%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Specialized Item</td>
 							</tr>
+							</tbody>
+						<tfoot></tfoot>
+					</table>
+					<table width="100%" align="center" style="font-size: 14px;">
+		          			<tbody>
 							<tr>
-								<td width="50%" style="color: black; background-color: #00FF00; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">Warren Powerplant</td>
-								<td width="50%" style="color: black; background-color: #00FF00; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;"><a style="color: black;" href="http://i.imgur.com/gMdxCBh.jpg">Solid - Electric Green</a></td>
-							</tr>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
+					               	</tr>
+							<!-- 5 - Russian Consulate -->
 							<tr>
-								<td width="50%" style="color: black; background-color: #FF69B4; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">Lexington Event Center</td>
-								<td width="50%" style="color: black; background-color: #FF69B4; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;"><a style="color: black;" href="http://puu.sh/nPRjH/845cdaca77.jpg">Solid - Pink</a></td>
-							</tr>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Russian_Consulate">Russian Consulate</a></strong><br></td>
+					               	</tr>
 							<tr>
-								<td width="50%" style="color: black; background-color: #008080; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">Lincoln Tunnel</td>
-								<td width="50%" style="color: black; background-color: #008080; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;"><a style="color: black;" href="http://i.imgur.com/784mMoE.png">Solid - Teal</a></td>
-							</tr>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/Va6DNhu.png" width=100%  alt="daily" title="daily"><br></td>
+					               	</tr>
 							<tr>
-								<td width="50%" style="color: white; background-color: blue; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">Russian Consulate</td>
-								<td width="50%" style="color: white; background-color: red; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;"><a style="color: white;" href="http://i.imgur.com/d79q3wG.jpg">Red White Blue</a></td>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Hard Mode Rewards</td>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">15 Phoenix Credits</td>
+								<td width="34%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Specialized Item</td>
 							</tr>
-						</tbody>
+							</tbody>
 						<tfoot></tfoot>
 					</table>
 					<hr style="color: #ff6d10;">
-    					<p style="color: #9b8f7c;">Last but not least here is the <strong><a style="color: #ff6d10;"  target="_blank" href="https://www.reddit.com/r/thedivision/comments/4cd5mf/daily_reset_info_328_329/">The Division Daily Reset Thread</p>
+    					<p style="color: #9b8f7c;">Last but not least here is the <strong><a style="color: #ff6d10;"  target="_blank" href="https://www.reddit.com/r/thedivision/comments/4ff0nz/daily_reset_info_418419/">The Division Daily Reset Thread</p>
     					
+					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
+				</div>
+		      	</div>
+      			<div id="divisionDA" class="tab-pane fade in">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
+		          		<table width="100%" align="center" style="font-size: 14px;">
+		          			<tbody>
+							<tr>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Assignments [20:00EST APR-19]<br></td>
+					               	</tr>
+							</tbody>
+						<tfoot></tfoot>
+					</table>
+					<table width="100%" align="center" style="font-size: 14px;">
+		          			<tbody>
+							<tr>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
+					               	</tr>
+							<tr>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Type</td>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Assignment</td>
+								<td width="34%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Reward</td>
+							</tr>
+							<tr>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Comabt</td>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Use headshots to bring 10 enemies to justice</td>
+								<td width="34%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">10 Phoenix Credits</td>
+							</tr>
+							<tr>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Combat</td>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Extract 3 contaminated items from the DZ</td>
+								<td width="34%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">7500 DZ EXP</td>
+							</tr>
+							<tr>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Crafting</td>
+								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Collect 5 weapon parts</td>
+								<td width="34%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">1 HE Division Tech</td>
+							</tr>
+							</tbody>
+						<tfoot></tfoot>
+					</table>
+					<hr style="color: #ff6d10;">
+					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
+				</div>
+		      	</div>
+      			<div id="divisionWA" class="tab-pane fade in">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
+		          		<table width="100%" align="center" style="font-size: 14px;">
+		          			<tbody>
+							<tr>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Weekly Assignments [APR-18 to APR-24]<br></td>
+					               	</tr>
+							</tbody>
+						<tfoot></tfoot>
+					</table>
+					<table width="100%" align="left" style="font-size: 14px;">
+		          			<tbody>
+							<tr>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:left; padding:5px; border-collapse:collapse;">&nbsp;</td>
+					               	</tr>
+							<tr>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;"><strong>Weekly Assignments grant 30 Phoenix Credits</strong><br></td>
+					               	</tr>
+							<tr>
+					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">Bring 40 Veteran enemies to justice<br></td>
+					               	</tr>
+							<tr>
+					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">Convert 15 crafting materials of any kind into a higher quality<br></td>
+					               	</tr>
+							<tr>
+					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">Eliminate 40 enemies with explosives<br></td>
+					               	</tr>
+							<tr>
+					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">Complete 10 missions on Hard or Challenging difficulty<br></td>
+					               	</tr>
+							</tbody>
+						<tfoot></tfoot>
+					</table>
+					<hr style="color: #ff6d10;">
 					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 		      	</div>
       			<div id="divisionstate" class="tab-pane fade">
         			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
-          				<h2 style="color: #9b8f7c; font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">State of the Game [2016-04-05]</h2>
+          				<h2 style="color: #9b8f7c; font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">State of the Game [2016-04-19]</h2>
 					<p style="color: #ff6d10;">This is a summary of the weekly State of the Game Twitch stream</p>
-					<p style="color: #ff6d10;">You can re-watch the State of Game here: <a href="https://www.twitch.tv/thedivisiongame/v/58732988">link</a></p>
+					<p style="color: #ff6d10;">You can re-watch the State of Game here: <a href="https://www.twitch.tv/thedivisiongame/v/61537681">link</a></p>
 					<p></p>
 					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Maintenance</h3>
 					<p style="color: #ff6d10;">The servers will shut down for a scheduled weekly maintenance every Tuesdayat 03:00 AM EST</p>
 					<p style="color: #ff6d10;">Estimated downtime is approximately 3 hours.</p>
 					<p></p>
-					<p style="color: #9b8f7c; font-size: 18px;"><u>Division Tech:</u></p>
+					<p style="color: #9b8f7c; font-size: 18px;"><u>Hotfixes since last maintenance:</u></p>
 					<ul>
-						<li><p style="color: #ff6d10; font-size: 14px;">Can drop from NPCs as well as the division tech chests</p></li>
+						<li><p style="color: #ff6d10; font-size: 14px;">April 12/13, 2016 - Restart</p></li>
 						<li><p style="color: #ff6d10; font-size: 14px;">Even more ways to earn it after update 1.1</p></li>
 						
 					</ul>
-					<p style="color: #9b8f7c; font-size: 18px;"><u>Backpack Issue</u></p>
+					<p style="color: #9b8f7c; font-size: 18px;"><u>Changes from April 12/13, 2016 - Restart</u></p>
 					<ul>
-						<li><p style="color: #ff6d10; font-size: 14px;">No modded items in the Inventory</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">It should be fixed and it will be patched in the 1.1 update</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">But can also have other fallout, but it is under investigation</p></li>
-						
+						<li><p style="color: #ff6d10; font-size: 14px;">General</p>
+							<ul>
+								<li><p style="color: #ff6d10; font-size: 14px;">Named enemies in Challenge mode will now only guarantee one High-End item like all the other named enemies</p></li>
+								<li><p style="color: #ff6d10; font-size: 14px;">Several fixes to improve server stability</p></li>
+							</ul>
+						</li>
+						<li><p style="color: #ff6d10; font-size: 14px;">Incursion: Falcon Lost</p>
+							<ul>
+								<li><p style="color: #ff6d10; font-size: 14px;">The APC will no longer take damage from players’ weapons</p></li>
+								<li><p style="color: #ff6d10; font-size: 14px;">The APC’s Mortar weapon will now fire correctly</p></li>
+							</ul>
+						</li>
 					</ul>
-					<p style="color: #9b8f7c; font-size: 18px;"><u>Cheating</u></p>
+					<p>&nbsp;<a href="http://forums.ubi.com/showthread.php/1431628-Changelog-April-12-13-2016-Restart">source</a></p>
+
+					<p>Here is the list of changes that were implemented with the hotfix on April 15:</p>
+
+					<p><strong>Falcon Lost</strong></p>
+					
 					<ul>
-						<li><p style="color: #ff6d10; font-size: 14px;">Cheating report helps and they are also asking for reports from the community</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">On PC, players can be reported in-game after 1.1 - /report (Username)</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">They are also scanning themselves with server side tracking</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Suspension and banning is happening</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">There is a 3 day suspension, then there is a second chance, but then it is a permanent ban</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">It is not perfect, but they are working on. Better solutions will be implemented in the future.</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">There were also many false reports because some Players are very high geared (the new Dark Zone Bracket in level 30 will probably help the situation)</p></li>
-						
+					<li>Fixed an exploit where players could attack the APC without triggering new waves of NPC</li>
+					<li>Fixed a bug where the Weekly Reward for Falcon Lost was not granted correctly</li>
+					<li>Fixed the rewards for Falcon Lost incursion not being received if the group leader had previously completed the mission</li>
 					</ul>
-					<p style="color: #9b8f7c; font-size: 18px;"><u>Stats</u></p>
+					
+					<p><strong>Dark Zone</strong></p>
+					
 					<ul>
-						<li><p style="color: #ff6d10; font-size: 14px;">Completion Rate: 41% of all character created have the story completed (only 33% of those went to the last Echo)</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">37% of all character have reached level 30</p></li>
-						
+					<li>Fixed a loophole where players could enter a lower gear score bracket in the Dark Zone</li>
 					</ul>
-					<p style="color: #9b8f7c; font-size: 18px;"><u>Other News Later This Week</u></p>
+					
+					<p><strong>Missing characters</strong></p>
+					
 					<ul>
-						<li><p style="color: #ff6d10; font-size: 14px;">New Podcast about Incursions / Endgame / Balancing will be released later this week.</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">New Article about Gear Sets and Incursions</p></li>
-						
+					<li>Fixed a bug on Xbox One where players could no longer see their characters. Please note that in order to fix this issue, we restored the account data of the affected players to that of April 12, 12pm CEST | 6am EDT | 3am PDT.</li>
 					</ul>
-					<p style="color: #9b8f7c; font-size: 18px;"><u>Incursions - Update 1.1 Preview</u></p>
+					
+					<p>&nbsp;</p>
+					
+					<p>NOTE: Unfortunately, if you already completed the Incursion prior to this hotfix and didn't get a reward due to the bug, you will still not be able to get it after the hotfix this week. This is because you are already counted as having completed the Incursion for the week. </p>
+					
+					<p>&nbsp;</p>
+					
+					<hr>
+					
+					<h1>Known Issues</h1>
+					
+					<p>Bug reports should always go to Ubisoft/Massive directly in their <a href="http://forums.ubi.com/forumdisplay.php/1024-Technical-Support">official technical support forum.</a> </p>
+					
+					<p>There you can also find a list of known and confirmed issues that is updated on a regular basis. So check that out, maybe you find a workaround for your problem.</p>
+					
+					<p>=&gt; <a href="http://forums.ubi.com/showthread.php/1401648-Known-Issues?p=11443433&amp;viewfull=1#post11443433">Link</a></p>
+					
+					<p>&nbsp;</p>
+					
+					<hr>
+					
+					<h1>Survey</h1>
+					
+					<p>On this sub there are always many discussions what could be changed on The Division. But there is also an official survey that can be used to give direct feedback about The Division and what is good an what could be improved. </p>
+					
+					<p>Give feedback, make a difference: <a href="https://ubisoft.fluidsurveys.com/surveys/kk/the-division-post-launch/?var=60296CFD-2781-4F4B-9D31-78EAD8926A87">link</a></p>
+					
+					<p>&nbsp;</p>
+					
+					<hr>
+					
+					<h1>Operation ISAC: Transmission 02</h1>
+					
+					<p>In this week’s episode, Simon looks deeper into the kidnapping of Agent St.Clair and gathers clues about the shady and mysterious mastermind pulling the strings. Join Simon to complete this weekly in-game assignment and claim your loot.</p>
+					
+					<p>&nbsp;</p>
+					
+					<p>» <a href="https://www.youtube.com/watch?v=FG_GziHvgdE">Video</a></p>
+					
+					<p>&nbsp;</p>
+					
+					<p><strong>Weekly Mission</strong></p>
+					
+					<p>Reports have established that a dangerous new operative has an interest in building up a weapon surplus. Beat him to the punch and take out anyone who stands in your way.</p>
+					
 					<ul>
-						<li><p style="color: #ff6d10; font-size: 14px;">Falcon Lost is the new Incursion that will be released next week</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">4 Gear Sets (1 Dark Zone / 3 more PvE Focused)</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Gear Score will be implemented</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Assignments are daily and weekly activities (new every day) Dark Zone / PVE / Crafting</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Hourly Supply Drops in the Dark Zone that are guarded by NPCs</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Trading among team-members (give feedback if it not OK)</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Phoenix Credits changes will be included. Level 30 enemies drop 1-3 Credits. Level 31 enemies drop 2-4 Credits. Level 32 enemies drop 3-5 Credits</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Blueprints - New Level 31 / 32 Blueprints</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Crafting - Older Blueprints will not require Division Tech anymore. The New ones will need Division Tech</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Dark Zone changes - Items can be bought with these Dark Zone Ranks (15 / 25 / 40 / 75 / 90) more granular DZ Ranks. New Dark Zone Brackets (below 160 / above 160). 160 = almost full high end gear equipped.</p></li>
-						
+					<li>Kill 30 Veteran Enemies in the Dark Zone</li>
+					<li>Kill 40 Enemies with Explosions</li>
+					<li>Craft 15 Blue or Higher Quality Items</li>
+					<li>Complete 10 Main Missions on Hard Difficulty</li>
 					</ul>
+					
+					<p>&nbsp;</p>
+					
+					<hr>
+					
+					<h1>State of the Game</h1>
+					
+					<p>As usual, there was a State of the Game stream on their official Twitch channel, where the Community Developers talk about current hot-topics and what is happening next. </p>
+					
+					<p>They addressed the feedback they got about the 1.1 update and how this is tracked. They commented on the backpack issue, the missing characters and the glitching/cheating situation.</p>
+					
+					<h2>State of the game 1.1</h2>
+					
+					<ul>
+					<li>There was a lot of feedback since it was the first big upgrade</li>
+					<li>They keep track on what has been received positive and negative</li>
+					<li>It has been a big learning experience and that will be taken into account for future updates</li>
+					<li>Some issues have been anticipated some have not</li>
+					<li>They keep track on the discussion about Falcon Lost, balancing, crafting and they are aware of the feedback / issues</li>
+					</ul>
+					
+					<p>&nbsp;</p>
+					
+					<h2>Exploits</h2>
+					
+					<ul>
+					<li>Big issue with the 1.1 update</li>
+					<li>There have been exploits the whole week and they are trying to fix them</li>
+					<li>Fixing exploits and stabilizing the game are the priority right now</li>
+					</ul>
+					
+					<p>&nbsp;</p>
+					
+					<p><strong>The process how this works:</strong></p>
+					
+					<ul>
+					<li>They have meetings every morning to discuss the current issues and the feedback</li>
+					<li>They compare notes what the Server Team / Development Team and Community Team have picked up and discus that.</li>
+					<li>After that, they prioritize these issues on the board and start working to get them to get them out as fast as possible</li>
+					<li>They gather feedback on Twitch, Reddit, Twitter and from the Customer Support Team</li>
+					</ul>
+					
+					<p>&nbsp;</p>
+					
+					<h2>Cheating</h2>
+					
+					<ul>
+					<li>Ongoing situation / fight</li>
+					<li>They keep improving their tracking methods</li>
+					<li>There is still a 3 day ban for the first offense and then a permanent band (there have been permanent bans)</li>
+					<li>There are two ways to find cheaters - reports from players and server-side tracking</li>
+					<li>/report [playername] works, but you don't get a feedback</li>
+					<li>They are aware, that some names have strange characters and they are working on that</li>
+					</ul>
+					
+					<p>&nbsp;</p>
+					
+					<h2>Backpack Bug / Missing characters</h2>
+					
+					<ul>
+					<li>Backpack was fixed 1.1, that has been confirmed by most of the players / there are some isolated cases but these are more complex cases. So report that issue in the official forums, if you are still experiencing that</li>
+					<li>Missing characters happened because of a malfunctioning server - was fixed on Friday for all XBox players</li>
+					<li>Missing characters on PS4 are a different issue, report that if that is happening to you in the official forum</li>
+					</ul>
+					
+					<p>&nbsp;</p>
+					
+					<p><strong>Compensation</strong></p>
+					
+					<p>The players that were affected by the backpack lockout will get </p>
+					
+					<ul>
+					<li>500 Phoenix Credits</li>
+					<li>10 of each high end crafting materials</li>
+					<li>More details about how and when will be communicated this week.</li>
+					</ul>
+					
+					<p>&nbsp;</p>
+					
+					<h2>Missing Daily Missions issue</h2>
+					
+					<p>Before the 1.1 update the daily missions were not available for a few days, this has have been fixed.</p>
+					
+					<p>&nbsp;</p>
+					
+					<p><strong>Compensation</strong></p>
+					
+					<ul>
+					<li>Every player that logs in this weekend will get 150 Phoenix Credits.</li>
+					</ul>
+					
+					<p>&nbsp;</p>
+					
+					<h2>Weekly / Daily Missions issue</h2>
+					
+					<ul>
+					<li>There were the same for multiple days, but that has been fixed</li>
+					</ul>
+					
+					<p>&nbsp;</p>
+					
+					<h2>Gear Score Calculation</h2>
+					
+					<p>The gear score is calculated based on </p>
+					
+					<ul>
+					<li>What you are wearing</li>
+					<li>Your inventory</li>
+					<li>Your Stash</li>
+					</ul>
+					
+					<p>&nbsp;</p>
+					
+					<p>Based on that the highest possible gear-score is calculated and then you get assigned to a DZ Bracket. This has been the case since the fix on Friday.</p>
 					<p></p>
 					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Patch Notes</h3>
-					<p style="color: #ff6d10;">Coming later today. View them here <a style="color: #9b8f7c;" data-toggle="tab" class="btn btn-primary" href="#divisionupdates">Update 1.1</a></p>
+					<p style="color: #ff6d10;">View them here <a style="color: #9b8f7c;" data-toggle="tab" class="btn btn-primary" href="#divisionupdates">Update 1.1</a></p>
 					<p></p> 
 					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
 		    		</div>
@@ -615,9 +802,9 @@
         			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
 					<p style="color: #428bca !important;"> - APR 06 - Destiny - <a data-toggle="tab" href="#BR" style="color: #428bca !important;">April Update Preview: Sandbox and Crucible Updates</a></p>
-					<p style="color: #428bca !important;"> - APR 07 - Destiny - <a href="https://www.reddit.com/r/DestinyTheGame/comments/4dtjln/this_week_at_bungie_04072016/" target="_blank" style="color: #428bca !important;">Weekly Update</a></p>
-					<p style="color: #428bca !important;"> - APR 08 - Destiny - <a data-toggle="tab" href="#ToO" style="color: #428bca !important;">Trials of Osiris</a></p>
 					<p style="color: #428bca !important;"> - APR 12 - Destiny - <a data-toggle="tab" href="#destinyupdates" style="color: #428bca !important;">April Update Launch</a></p>
+					<p style="color: #428bca !important;"> - APR 14 - Destiny - <a href="https://www.reddit.com/r/DestinyTheGame/comments/4etfgi/this_week_at_bungie_04142016/" target="_blank" style="color: #428bca !important;">Weekly Update</a></p>
+					<p style="color: #428bca !important;"> - APR 22 - Destiny - <a data-toggle="tab" href="#ToO" style="color: #428bca !important;">Trials of Osiris</a></p>
 					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
 		    		</div>
       			</div>
@@ -1390,7 +1577,7 @@
 		          		<table align="center" style="font-size: 16px;">
 						<tbody>
 							<tr>
-					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Nightfall [04/12] - Blighted Chalice<br></td>
+					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Nightfall [04/19] - The Sunless Cell<br></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/jjoLo0S.jpg" width="100%"  alt="nf Banner" title="nightfall Banner"><br></td>
@@ -1406,26 +1593,25 @@
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Heavily shielded and highly aggressive enemies appear in great numbers.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/7/76/Ironclad_skull_icon.png/revision/latest?cb=20150921210530" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/7/76/Ironclad_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210530&amp;format=webp" alt="Ironclad skull icon" title="Ironclad " width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Ironclad</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">More enemies have shields.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/6/6f/Exposure_skull_icon.png/revision/latest?cb=20150921210548" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/6/6f/Exposure_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210548&amp;format=webp" alt="Exposure skull icon" title="Exposure" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Exposure</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Guardian shields are increased but do not replenish.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/0/01/Juggler_skull_icon.png/revision/latest?cb=20150711201543" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/0/01/Juggler_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201543&amp;format=webp" alt="Juggler skull icon" title="Juggler " width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Juggler</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">No ammo drops for your equipped weapon.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/Fresh_Troops_skull_icon.png/revision/latest?cb=20150921210529" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/Fresh_Troops_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210529&amp;format=webp" alt="Fresh Troops skull icon" title="Fresh Troops " width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Fresh Troops</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Some enemy squads have been fortified with additional reinforcements.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a9/Specialist_skull_icon.png/revision/latest?cb=20150711201503" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a9/Specialist_skull_icon.png/revision/latest?cb=20150711201503" alt="Specialist skull icon" Title="Specialist" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Specialist</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Secondary Weapon damage is favored.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/e/ea/Match_Game_skull_icon.png/revision/latest?cb=20150921210530" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/e/ea/Match_Game_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210530&amp;format=webp" alt="Match Game skull icon" title="Match Game" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Match Game</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Enemy shields are resistant to all unmatched elemental damage.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3a/Void_Burn_skull_icon.png/revision/latest?cb=20150721090531" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3a/Void_Burn_skull_icon.png/revision/latest?cb=20150721090531" alt="Void Burn skull icon" Title="Void" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Void Burn</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Void Damage from any source is greatly increased.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3e/Catapult_skull_icon.png/revision/latest?cb=20150921210548" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3e/Catapult_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210548&amp;format=webp" alt="Catapult skull icon" title="Catapult" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Catapult</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Grenade recharge rate is greatly increased.</td>
 							</tr>
-							
 						</tbody>
 						<tfoot></tfoot>
 					</table>
@@ -1444,14 +1630,14 @@
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="/wiki/Damage_Type" title="Damage Type">Arc Damage</a> from any source is greatly increased.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1f/Angry_skull_icon.png/revision/latest?cb=20150712090530" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1f/Angry_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150712090530" alt="Berserk skull icon" title="Berserk" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Berserk</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Minions of <a href="/wiki/The_Darkness" title="The Darkness">the Darkness</a> won't flinch, even after massive damage.</td>
-							</tr>
-							<tr>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest?cb=20150714090529" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150714090529&amp;format=webp" alt="Brawler skull icon" title="Brawler" width="30" height="30"></a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Brawler</b></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Guardian melee damage is greatly increased.</td>
+							</tr>
+							<tr>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1f/Angry_skull_icon.png/revision/latest?cb=20150712090530" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1f/Angry_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150712090530" alt="Berserk skull icon" title="Berserk" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Berserk</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Minions of <a href="/wiki/The_Darkness" title="The Darkness">the Darkness</a> won't flinch, even after massive damage.</td>
 							</tr>
 							<tr>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3e/Catapult_skull_icon.png/revision/latest?cb=20150921210548" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3e/Catapult_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210548&amp;format=webp" alt="Catapult skull icon" title="Catapult" width="30" height="30"></a></td>
@@ -1536,7 +1722,7 @@
 		          		<table align="center" style="font-size: 16px;">
 						<tbody>
 							<tr>
-					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Challenge of the Elders [04/12]<br></td>
+					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Challenge of the Elders [04/19]<br></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://assets.vg247.com/current//2016/04/challenge_of_the_elders_destiny.jpg" width="100%"  alt="coe Banner" title="coe Banner"><br></td>
@@ -1546,37 +1732,37 @@
 							</tr>
 							<tr>
 								<td colspan=2 style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;"><b>Bonus</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Bonus points for precision kills (180 points per kill instead of 50)</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Bonus points for grenade kills</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1e/Small_Arms_skull_icon.png/revision/latest?cb=20150719090526" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1e/Small_Arms_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150719090526&amp;format=webp" alt="Small Arms skull icon" title="Small Arms " width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Small Arms</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Primary Weapon damage is favored.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1f/Angry_skull_icon.png/revision/latest?cb=20150712090530" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1f/Angry_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150712090530" alt="Berserk skull icon" title="Berserk" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Berserk</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Minions of <a href="/wiki/The_Darkness" title="The Darkness">the Darkness</a> won't flinch, even after massive damage.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette1.wikia.nocookie.net/destinypedia/images/5/5c/Grounded_skull_icon.png/revision/latest?cb=20150714090526" class="image image-thumbnail"><img src="http://vignette1.wikia.nocookie.net/destinypedia/images/5/5c/Grounded_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150714090526&amp;format=webp" alt="Grounded skull icon" title="Grounded " width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Grounded</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Players take more damage while airborne.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3e/Catapult_skull_icon.png/revision/latest?cb=20150921210548" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/3/3e/Catapult_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210548&amp;format=webp" alt="Catapult skull icon" title="Catapult" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Catapult</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Grenade recharge rate is greatly increased.</td>
 							</tr>
 							<tr>
 								<td colspan=3 style="padding:5px; font-size: 22px; text-align:center; border: 1px solid white; border-collapse:collapse;"><b>Bosses</b></td>
 							</tr>
 							<tr>
 								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;"><b>1</b></td>
-								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Vex</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">The Overmind Minotaur</td>
+								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Taken</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Sylok, The Defiler</td>
 								
 							</tr>
 							<tr>
 								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;"><b>2</b></td>
-								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Taken</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Sylok The Defiler</td>
+								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Cabal</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Val Aru'un</td>
 								
 							</tr>
 							<tr>
 								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;"><b>3</b></td>
-								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Fallen</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Pilot Servitor</td>
+								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Vex</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Seditious Mind</td>
 								
 							</tr>
 							<tr>
@@ -1597,9 +1783,37 @@
 					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 			</div>
+			<div id="variks" class="tab-pane fade">
+				<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
+		          		<table align="center" style="font-size: 16px;">
+						<tbody>
+							<tr>
+					                  	<td colspan= 2 style="font-size: 22px; text-align:center; padding:5px;">Variks Bounties [04/19]<br></td>
+					               	</tr>
+							<tr>
+					                  	<td colspan= 2 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="https://cdn1.artstation.com/p/assets/images/images/000/776/437/large/ian-mcintosh-variks-1.jpg?1432852952" width="100%"  alt="var Banner" title="var Banner"><br></td>
+					               	</tr>
+							<tr>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Impressive Performance</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Earn points in Challenge of Elders</td>
+							</tr>
+							<tr>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Dead Shot</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Kill enemies with precision shots in PoE 41 or CoE 42</td>
+							</tr>
+							<tr>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Shadow Boxer</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Use Void abilities to kill enemies in PoE 41 or CoE 42</td>
+							</tr>
+						</tbody>
+						<tfoot></tfoot>
+					</table>
+					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
+				</div>
+		      	</div>
 			<div id="KF" class="tab-pane fade">
 				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
-					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">King's Fall Challenge Mode [04/12]</h3>
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">King's Fall Challenge Mode [04/19]</h3>
 					<!--WARPRIEST "http://i.imgur.com/xR36lPt.jpg"  -->
 					<!--GOLGY     "http://i.imgur.com/MtG4Vli.jpg"  -->
 					<!--ORYX      "http://i.imgur.com/MtG4Vli.jpg"  -->
@@ -1609,75 +1823,45 @@
 			</div>
 			<div id="CoO" class="tab-pane fade">
 				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
-					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Court of Oryx Tier III Boss [04/12]</h3>
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Court of Oryx Tier III Boss [04/19]</h3>
 					<!--BALWUR  "http://i.imgur.com/ldqCcJI.jpg"  -->
 					<!--KALGOOR "http://i.imgur.com/bdyXnP1.jpg"  -->
 					<!--THALNOK "http://i.imgur.com/KZhvFuK.jpg"  -->
-					<img src="http://i.imgur.com/bdyXnP1.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
+					<img src="http://i.imgur.com/KZhvFuK.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
 					<p style="padding:10px 0 0; text-align:center;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 			</div>
 			<div id="VI" class="tab-pane fade">
 				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
-					<h3 style="font-size: 28px; text-align:center; margin: 0px 0px 15px; padding: 5px 0px 5px;">Vendor Material Exchange [04/12]</h3>
+					<h3 style="font-size: 28px; text-align:center; margin: 0px 0px 15px; padding: 5px 0px 5px;">Vendor Material Exchange [04/19]</h3>
 					<table align="center" style="font-size: 28px; text-align:center; border: 1px solid white;">
 					<tbody>
 					<tr>
 					<td style="padding:5px; background-color: #B66A1C; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://www.destinygamewiki.com/mediawiki/images/9/90/Eris_morn_emblem1.jpg" class="image image-thumbnail" title=""><img src="http://www.destinygamewiki.com/mediawiki/images/9/90/Eris_morn_emblem1.jpg" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="NewMonarchy.png" data-image-name="NewMonarchy.png"></a>
-					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Hadium
-					</td></tr>
-					<tr>
-					<td style="padding:5px; background-color: #231C46; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/FWC.png/revision/latest?cb=20160123023153" class="image image-thumbnail" title=""><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/FWC.png/revision/latest?cb=20160123023153" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="FWC.png" data-image-name="FWC.png"></a>
 					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Wormspore
 					</td></tr>
 					<tr>
+					<td style="padding:5px; background-color: #231C46; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/FWC.png/revision/latest?cb=20160123023153" class="image image-thumbnail" title=""><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/FWC.png/revision/latest?cb=20160123023153" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="FWC.png" data-image-name="FWC.png"></a>
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Spirit Bloom
+					</td></tr>
+					<tr>
 					<td style="padding:5px; background-color: #E4E4E4; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/e/e4/DeadOrbitIcon.png/revision/latest?cb=20150321222243" class="image image-thumbnail" title=""><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/e/e4/DeadOrbitIcon.png/revision/latest?cb=20150321222243" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="DeadOrbitIcon.png" data-image-name="DeadOrbitIcon.png"></a>
-					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Relic Iron
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Helium Filament
 					</td></tr>
 					<tr>
 					<td style="padding:5px; background-color: #963637; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/9/9b/NewMonarchy.png/revision/latest?cb=20160123024152" class="image image-thumbnail" title=""><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/9/9b/NewMonarchy.png/revision/latest?cb=20160123024152" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="NewMonarchy.png" data-image-name="NewMonarchy.png"></a>
-					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Relic Iron
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Helium Filament
 					</td></tr>
 					</tbody><tfoot></tfoot></table>
 					<p style="padding:10px 0 0; text-align:center;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>	
 			</div>
-			<div id="variks" class="tab-pane fade">
-				<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
-		          		<table align="center" style="font-size: 16px;">
-						<tbody>
-							<tr>
-					                  	<td colspan= 2 style="font-size: 22px; text-align:center; padding:5px;">Variks Bounties [04/12]<br></td>
-					               	</tr>
-							<tr>
-					                  	<td colspan= 2 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="https://cdn1.artstation.com/p/assets/images/images/000/776/437/large/ian-mcintosh-variks-1.jpg?1432852952" width="100%"  alt="var Banner" title="var Banner"><br></td>
-					               	</tr>
-							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Heavy Hitter</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Get 50 kills in CoE or Level 41 Poe with heavy weapons</td>
-								
-							</tr>
-							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Dead Shot</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Defeat 75 enemies in CoE or Level 41 PoE with headshots</td>
-								
-							</tr>
-							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Riot Guard</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Defeat 6 bosses in CoE or Level 41 PoE</td>
-							</tr>
-						</tbody>
-						<tfoot></tfoot>
-					</table>
-					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
-				</div>
-		      	</div>
 			<div id="QW" class="tab-pane fade">
 				<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
 		          		<table align="center" style="font-size: 16px;">
 						<tbody>
 							<tr>
-					                  	<td colspan= 2 style="font-size: 22px; text-align:center; padding:5px;">Queens Wrath Bounties [04/12]<br></td>
+					                  	<td colspan= 2 style="font-size: 22px; text-align:center; padding:5px;">Queens Wrath Bounties [04/19]<br></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan= 2 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/eEHsrCh.jpg" width="100%"  alt="nf Banner" title="nightfall Banner"><br></td>
@@ -1687,11 +1871,11 @@
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128832-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
 								 -->
-								<!--WANTED: Irxori, Lost to Oryx
+								<!--WANTED: Irxori, Lost to Oryx -->
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128833-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Irxori, Lost to Oryx. Cosmodrome. Head left through Mothyards, until you reach the Skywatch.</td>
-								 -->
-								<!--WANTED: -->
+								
+								<!--WANTED: 
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128834-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
 								
@@ -1706,7 +1890,7 @@
 								<!--WANTED: -->
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128839-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
-								
+								-->
 							</tr>
 							<tr>
 								<!--Kill 12 Consumed on MARS
