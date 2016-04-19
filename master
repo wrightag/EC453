@@ -267,7 +267,7 @@
 		          		<table width="100%" align="center" style="font-size: 14px;">
 		          			<tbody>
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Weekly Assignments [APR-18 to APR-24]<br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Weekly Assignments<br>[APR-18 to APR-24]<br></td>
 					               	</tr>
 							</tbody>
 						<tfoot></tfoot>
@@ -278,7 +278,7 @@
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:left; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;"><strong>Weekly Assignments grant 30 Phoenix Credits</strong><br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 20px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;"><strong>Weekly Assignments grant 30 Phoenix Credits</strong><br></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">Bring 40 Veteran enemies to justice<br></td>
@@ -295,8 +295,7 @@
 							</tbody>
 						<tfoot></tfoot>
 					</table>
-					<br><br>
-					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
+					
 				</div>
 		      	</div>
       			<div id="divisionstate" class="tab-pane fade">
@@ -1878,16 +1877,16 @@
 								<!--WANTED: 
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128834-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
-								
-								<!--WANTED: Darnu, Horn of Oryx -->
+								-->
+								<!--WANTED: Darnu, Horn of Oryx 
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128835-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Darnu, Horn of Oryx. Cosmodrome. Head right on spawn into the Divide.</td>
-								
-								<!--WANTED: -->
+								-->
+								<!--WANTED: 
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128838-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
-								
-								<!--WANTED: -->
+								-->
+								<!--WANTED: 
 								<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://www.destinydb.com/items/3791128839-take-the-wanted" class="image image-thumbnail">Take the Wanted</a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">WANTED: Baroness Grayris. Venus. Head left to the Shattered Coast (By the statue).</td>
 								-->
