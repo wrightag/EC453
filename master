@@ -32,7 +32,7 @@
                     	<div id="destiny" class="tab-pane fade in">
                 	    	<ul class="nav nav-pills nav-stacked" style="background-color: #202020; color: #428bca; border-collapse:collapse;">
                 		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#destinynews"><small><span class="glyphicon glyphicon-th-list" style="padding-right:10px;"></span>Destiny News</small></a></li>
-                                        <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#destinyupdates"><small><span class="glyphicon glyphicon-road" style="padding-right:10px;"></span>2.2.0 Update</small></a></li>
+                                        <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#IB"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/11/IronBannerLogo.png/revision/latest?cb=20150317192602" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Iron Banner</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#NF"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Nightfall Strike</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#CoE"><small>Challenge of Elders</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#PoE"><small>Prison of Elders</small></a></li>
@@ -41,13 +41,13 @@
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#variks"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Variks Bounties</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#QW"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Queens Bounties</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#VI"><small><span class="glyphicon glyphicon-transfer" style="padding-right:10px;"></span>Material Exhange</small></a></li>
+                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#destinyupdates"><small><span class="glyphicon glyphicon-road" style="padding-right:10px;"></span>2.2.0 Update</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://whereisxur.com/" target="_blank">XUR</a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungie"><small><span class="glyphicon glyphicon-exclamation-sign" style="padding-right:10px;"></span>Bungie Twitter</small></a></li>
                 			
                 			<!-- INACTIVE EVENTS
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#BR"><small><span class="glyphicon glyphicon-film" style="padding-right:10px;"></span>Twitch Streams</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#AD"><small><span class="glyphicon glyphicon-bullhorn" style="padding-right:10px;"></span>Armsday</small></a></li>
-                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#IB"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/11/IronBannerLogo.png/revision/latest?cb=20150317192602" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Iron Banner</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#ToO"><small><span class="glyphicon glyphicon-eye-open" style="padding-right:10px;"></span>Trials of Osiris</small></a></li>
                 			<li><a data-toggle="tab" style="padding: 8px 20px;" href="#HoJ">HOUSE OF JUDGEMENT, VARIKS</a></li>
                 			<li><a data-toggle="tab" style="text-align:center;" href="#CD">CRIMSON DAYS</a></li>
@@ -149,7 +149,7 @@
 		          		<table width="100%" align="center" style="font-size: 14px;">
 		          			<tbody>
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Missions [20:00EST APR-26]<br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Missions [20:00EST APR-27]<br></td>
 					               	</tr>
 							</tbody>
 						<tfoot></tfoot>
@@ -159,12 +159,12 @@
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
-							<!-- 3 - WarrenGate Power Plant -->
+							<!-- 4 - Russian Consulate -->
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/WarrenGate_Power_Plant">WarrenGate Power Plant</a></strong><br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Russian_Consulate">Russian Consulate</a></strong><br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/EMr4ER3.png" width=100%  alt="hard" title="hard"><br></td>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/7BVoO7g.png" width=100%  alt="hard" title="hard"><br></td>
 					               	</tr>
 							<tr>
 								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Challenge Mode Rewards</td>
@@ -179,12 +179,12 @@
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
-							<!-- 15 - WarrenGate Power Plant -->
+							<!-- 12 - Napalm Production Site -->
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/WarrenGate_Power_Plant">WarrenGate Power Plant</a></strong><br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Napalm_Production_Site">Napalm Production Site</a></strong><br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/b2ujQWR.png" width=100%  alt="daily" title="daily"><br></td>
+								<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/gD1h4Ab.png" width=100%  alt="daily" title="daily"><br></td>
 					               	</tr>
 					               	<tr>
 								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Hard Mode Rewards</td>
@@ -199,12 +199,12 @@
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
-							<!-- 8 - General Assembly -->
+							<!-- 10 - Lincoln Tunnel Checkpoint -->
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/General_Assembly">General Assembly</a></strong><br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Lincoln_Tunnel_Checkpoint">Lincoln Tunnel Checkpoint</a></strong><br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/Tsmzol4.png" width=100%  alt="daily" title="daily"><br></td>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/KKbnIOT.png" width=100%  alt="daily" title="daily"><br></td>
 					               	</tr>
 							<tr>
 								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Hard Mode Rewards</td>
@@ -215,7 +215,7 @@
 						<tfoot></tfoot>
 					</table>
 					<br><br>
-					<p style="color: #9b8f7c;">Last but not least here is the <strong><a style="color: #ff6d10;"  target="_blank" href="https://www.reddit.com/r/thedivision/comments/4ff0nz/daily_reset_info_418419/">The Division Daily Reset Thread</p>
+					<p style="color: #9b8f7c;">Last but not least here is the <strong><a style="color: #ff6d10;"  target="_blank" href="https://www.reddit.com/r/thedivision/comments/4glwzw/daily_reset_info_426_427/">The Division Daily Reset Thread</p>
     					
 					<p style="padding:10px 0 0; text-align:left;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
@@ -225,7 +225,7 @@
 		          		<table width="100%" align="center" style="font-size: 14px;">
 		          			<tbody>
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Assignments [20:00EST APR-26]<br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Assignments [20:00EST APR-27]<br></td>
 					               	</tr>
 							</tbody>
 						<tfoot></tfoot>
@@ -242,20 +242,20 @@
 							</tr>
 							<tr>
 								<td width="20%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Comabt</td>
-								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Eliminate 10 Cleaners</td>
+								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">1 Named Enemy Eliminated</td>
 								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">10 Phoenix Credits</td>
 							</tr>
 							<tr>
-								<td width="20%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Dark Zone</td>
-								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Extract 3 contaminated items from the DZ</td>
-								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">7500 DZ EXP</td>
-							</tr>
-							<tr>
 								<td width="20%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Crafting</td>
-								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Collect 5 Electronics Parts</td>
+								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">10 Standard Item Deconstructed</td>
 								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">1 HE Division Tech</td>
 							</tr>
-							</tbody>
+							<tr>
+								<td width="20%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Dark Zone</td>
+								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">10 Cleaners Eliminated</td>
+								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">7500 DZ EXP</td>
+							</tr>
+						</tbody>
 						<tfoot></tfoot>
 					</table>
 					<br><br>
@@ -1994,19 +1994,173 @@
 				<div class="well well-dark-transparent" style="background-color: #294638; overflow:auto; height:590px;">
 				    	<img src="https://i.imgur.com/GOYBL1f.jpg" style="text-align:center;" width="100%" alt="Iron Banner" title="Iron Banner logo"></h3>
 			    	    	<!-- <p>Iron Banner is gone for now! See you next time!</p> -->
-			            	<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Crucible Mode - Control</h3>
-			            	<p style="font-size:16px;margin-bottom:0px;"><strong>Available from Lord Saladin:</strong></p>
-			            	<ul>
-						<li><p>Rank 3: Chest Pieces, Class Items, Rank 3 Package</p></li>
-						<li><p>Rank 4: Hand Cannons, Gauntlets</p></li>
-						<li><p>Rank 5: Machinegun, Rank 5 Package</p></li>
+			            	<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Crucible Mode - Clash</h3>
+			            	<h3>FAQ</h3>
+					<p><strong>What is the Iron Banner?</strong></p>
+					
+					<ul>
+					<li><p>It is a week long event Bungie puts on to allow higher level guardians to compete in Level Advantaged Crucible games. More info can be read <a href="https://www.bungie.net/en/event/ironbanner">right over here - link to bungie.net</a></p></li>
+					<li><p>This time around, the game mode is: <strong>Clash</strong></p></li>
 					</ul>
-					<br><hr><br>
-			            	<p style="font-size:16px;margin-bottom:0px;"><strong>Available as post game drops:</strong></p>
-			            	<ul>
-						<li><p>Rank 2: Chest Pieces, Class Items</p></li>
-						<li><p>Rank 3: Hand Cannons, Gauntlets</p></li>
-						<li><p>Rank 4: Machinegun</p></li>
+					
+					<p><strong>How Long does Iron Banner last?</strong></p>
+					
+					<ul>
+					<li><p>Event Starts: <strong>Tuesday, April 26th, 10AM Pacific</strong></p></li>
+					<li><p>Event Ends: <strong>Tuesday, May 3rd, 2AM Pacific</strong></p></li>
+					</ul>
+					
+					<p><strong>Where do I go to find Guardians to game with in the Iron Banner?</strong></p>
+					
+					<ul>
+					<li>You can head over to <a href="/r/Fireteams">/r/Fireteams</a>, <a href="http://www.The100.io">www.The100.io</a>, DestinyLFG.net or DestinyLFG.com, or use our <a href="https://www.reddit.com/r/DestinyTheGame/search?q=flair%3A%28MegaThread%29+Team+Up+Tuesday&amp;amp;restrict_sr=on&amp;amp;sort=new&amp;amp;t=week">Team Up Tuesday</a> post.</li>
+					</ul>
+					
+					<p><strong>What if I have a question about another piece of armor/weapon or general Iron Banner question?</strong></p>
+					
+					<ul>
+					<li>Use Control + F (Or Command + F if on a Mac) and search for keywords in your question. Someone may have asked it already. If they haven't ask right below.</li>
+					</ul>
+					
+					<hr>
+					
+					<h3>Available from Lord Saladin:</h3>
+					
+					<p><strong>Rank 3</strong></p>
+					
+					<table><thead>
+					<tr>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Class</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Armor</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Stats</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Perks</th>
+					</tr>
+					</thead><tbody>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Hunter</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Cloak</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">INT 18/26 - DSC 20/28</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Hand Cannon/Shotgun Focus</td>
+					</tr>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Hunter</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Camelot Cloak</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">INT 18/26 - DISC 18/26</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Scout/Shotgun Focus</td>
+					</tr>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Hunter</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Boots</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">INT 42/60 - DSC 41/59</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Shotgun/Rocket Launcher Ammo - Solar Doubledown/Second Wind</td>
+					</tr>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Titan</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Mark</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">INT 17/25 - STR 19/27</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Pulse Rifle/Shotgun focus</td>
+					</tr>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Titan</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Camelot Mark</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">INT 19/27 - 19/27</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Scout/Sidearm</td>
+					</tr>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Titan</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Boots</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">INT 44/62 - DSC 44/62</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Sniper Rifle/Rocket Launcher Ammo - Solar Doubledown/Second Wind</td>
+					</tr>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Warlock</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Bond</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">INT 18/26 - DSC 17/25</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Hand Cannon/Rocket Launcher Focus</td>
+					</tr>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Warlock</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Camelot Bond</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">19/27 - DISC 20/28</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Pulse/Fusion Focus</td>
+					</tr>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Warlock</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Boots</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">INT 39/57 - DSC 42/60</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Sniper Rifle/Machine Gun Ammo - Void Doubledown/SecondWind</td>
+					</tr>
+					</tbody></table>
+					
+					<p><strong>Rank 4</strong></p>
+					
+					<table><thead>
+					<tr>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Weapon</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Element</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Perks (1)</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Perk (2)</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Perks (3)</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Perk (4)</th>
+					</tr>
+					</thead><tbody>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="https://i.imgur.com/Qf4ffC2.jpg">Tormod's Bellows (Rocket Launcher)</a></td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Void</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Warhead/Smart Drift/Hard Launch</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Tripod</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Perfect Balance/Heavy Payload/Field Scout</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Grenades and Horseshoes</td>
+					</tr>
+					</tbody></table>
+					
+					<table><thead>
+					<tr>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Weapon</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Sights</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Perk (1)</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Perks (2)</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Perk (3)</th>
+					</tr>
+					</thead><tbody>
+					<tr>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Hakkon's Hatchet (Auto Rifle)</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Red DOT-OAS/Quickdraw IS/Focus Lens FLS2</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Rangefinder</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Perfect Balance/Appended Mag/Reinforced Barrel</td>
+					<td style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Counterbalance</td>
+					</tr>
+					</tbody></table>
+					
+					<h3>Available as post-game drops:</h3>
+					
+					<ul>
+					<li>Rank 2: </li>
+					<li>Rank 3: </li>
+					<li>Rank 4: </li>
+					</ul>
+					
+					<hr>
+					
+					<h3>Iron Banner Bounties</h3>
+					
+					<table><thead>
+					<tr>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Name</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">Description</th>
+					<th style="width:175px; padding:5px; border: 1px solid white; border-collapse:collapse;">How To</th>
+					</tr>
+					</thead><tbody>
+					</tbody></table>
+					
+					<hr>
+					
+					<h3>Useful Links</h3>
+					
+					<ul>
+					<li><p><a href="https://www.reddit.com/r/DestinyTheGame/comments/4gjoyx/iron_banner_drops_improved_you_say_well_heres/">Iron Banner Drops Improved You Say? Well here's what you need to know about IB Clash</a> by <a href="/u/GenericDreadHead">/u/GenericDreadHead</a></p></li>
+					<li><p><a href="http://ironbanner.info">IronBanner.info for your Iron Banner Standings</a></p></li>
+					<li><p><a href="http://destinychecklist.net">destinychecklist.net for Iron Banner and Character Stats</a></p></li>
 					</ul>
 			            	<br>
 			            	<p style="padding:10px 0 0;"><a data-toggle="tab" class="btn btn-default" href="#home">Return Home</a></p>
