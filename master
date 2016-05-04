@@ -32,8 +32,7 @@
                     	<div id="destiny" class="tab-pane fade in">
                 	    	<ul class="nav nav-pills nav-stacked" style="background-color: #202020; color: #428bca; border-collapse:collapse;">
                 		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#destinynews"><small><span class="glyphicon glyphicon-th-list" style="padding-right:10px;"></span>Destiny News</small></a></li>
-                                        <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#IB"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/11/IronBannerLogo.png/revision/latest?cb=20150317192602" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Iron Banner</small></a></li>
-                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#NF"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Nightfall Strike</small></a></li>
+                                        <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#NF"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Nightfall Strike</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#CoE"><small>Challenge of Elders</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#PoE"><small>Prison of Elders</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#KF"><small><span class="glyphicon glyphicon-tower" style="padding-right:10px;"></span>Kings Fall<br><span class="glyphicon glyphicon-king" style="padding-right:22px;"></span>Challenge Mode</small></a></li>
@@ -46,6 +45,7 @@
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungie"><small><span class="glyphicon glyphicon-exclamation-sign" style="padding-right:10px;"></span>Bungie Twitter</small></a></li>
                 			
                 			<!-- INACTIVE EVENTS
+                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#IB"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/11/IronBannerLogo.png/revision/latest?cb=20150317192602" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Iron Banner</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#BR"><small><span class="glyphicon glyphicon-film" style="padding-right:10px;"></span>Twitch Streams</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#AD"><small><span class="glyphicon glyphicon-bullhorn" style="padding-right:10px;"></span>Armsday</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#ToO"><small><span class="glyphicon glyphicon-eye-open" style="padding-right:10px;"></span>Trials of Osiris</small></a></li>
@@ -134,7 +134,6 @@
         			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
 					<p style="color: #ff6d10 !important;"> - APR 05 - Division - <a data-toggle="tab" href="#divisionupdates" style="color: #ff6d10 !important;">Update 1.1 - Patch</a></p>
-					<p style="color: #ff6d10 !important;"> - APR 05 - Division - <a href="https://www.reddit.com/r/thedivision/comments/4dcx1q/tired_of_getting_killed_in_the_dark_zone_try_this/" target="_blank" style="color: #ff6d10 !important;">Recommended Dark Zone Gear</a></p>
 					<p style="color: #ff6d10 !important;"> - APR 12 - Division - <a data-toggle="tab" href="#divisionupdates" style="color: #ff6d10 !important;">Update 1.1 - Incursions</a></p>
 					<p style="color: #ff6d10 !important;"> - APR 19 - Division - <a data-toggle="tab" href="#divisionstate" style="color: #ff6d10 !important;">State of the Game</a></p>
 					<p style="color: #ff6d10 !important;"> - MAY ?? - Division - <a data-toggle="tab" href="#divisionY1" style="color: #ff6d10 !important;">Update 1.2  - Conflict</a></p>
@@ -149,7 +148,7 @@
 		          		<table width="100%" align="center" style="font-size: 14px;">
 		          			<tbody>
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Missions [20:00EST APR-27]<br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Missions [20:00EST MAY-03]<br></td>
 					               	</tr>
 							</tbody>
 						<tfoot></tfoot>
@@ -179,12 +178,12 @@
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
-							<!-- 12 - Napalm Production Site -->
+							<!-- 7 - Times Square Power Relay -->
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Napalm_Production_Site">Napalm Production Site</a></strong><br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Times_Square_Power_Relay">Times Square Power Relay</a></strong><br></td>
 					               	</tr>
 							<tr>
-								<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/gD1h4Ab.png" width=100%  alt="daily" title="daily"><br></td>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/Lxl79LM.png" width=100%  alt="daily" title="daily"><br></td>
 					               	</tr>
 					               	<tr>
 								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Hard Mode Rewards</td>
@@ -199,12 +198,12 @@
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">&nbsp;</td>
 					               	</tr>
-							<!-- 10 - Lincoln Tunnel Checkpoint -->
+							<!-- 8 - General Assembly -->
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/Lincoln_Tunnel_Checkpoint">Lincoln Tunnel Checkpoint</a></strong><br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;"> <strong><a style="color: #ff6d10;"  target="_blank" href="http://thedivision.wikia.com/wiki/General_Assembly">General Assembly</a></strong><br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/KKbnIOT.png" width=100%  alt="daily" title="daily"><br></td>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/Tsmzol4.png" width=100%  alt="daily" title="daily"><br></td>
 					               	</tr>
 							<tr>
 								<td width="33%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Hard Mode Rewards</td>
@@ -225,7 +224,7 @@
 		          		<table width="100%" align="center" style="font-size: 14px;">
 		          			<tbody>
 							<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Assignments [20:00EST APR-27]<br></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Daily Assignments [20:00EST MAY-03]<br></td>
 					               	</tr>
 							</tbody>
 						<tfoot></tfoot>
@@ -242,17 +241,17 @@
 							</tr>
 							<tr>
 								<td width="20%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Comabt</td>
-								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">1 Named Enemy Eliminated</td>
+								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">5 Skill Kills</td>
 								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">10 Phoenix Credits</td>
 							</tr>
 							<tr>
 								<td width="20%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Crafting</td>
-								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">10 Standard Item Deconstructed</td>
+								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">6 Standard Item Deconstructed</td>
 								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">1 HE Division Tech</td>
 							</tr>
 							<tr>
 								<td width="20%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">Dark Zone</td>
-								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">10 Cleaners Eliminated</td>
+								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">5 Veteran Enemies Eliminated</td>
 								<td width="40%" style="color: #9b8f7c; text-align:center; padding:5px; border: 1px solid white; border-collapse:collapse;">7500 DZ EXP</td>
 							</tr>
 						</tbody>
@@ -270,7 +269,7 @@
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Division Weekly Assignments<br>[APR-25 to MAY-01]<br></td>
 					               	</tr>
 					               	<tr>
-					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;"><a style="color: #ff6d10;"  target="_blank" href="https://www.youtube.com/watch?v=2hkFiHH3VyE&feature=youtu.be"><img src="http://images.bidnessetc.com/img/960-division-operation-isac-transmission-03-released.jpg" width=100%  alt="OI" title="OI"></a></td>
+					                  	<td colspan=3 style="color: #ff6d10; font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;"><a style="color: #ff6d10;"  target="_blank" href="https://www.youtube.com/watch?v=oWswf2cit4Y&index=4&list=PLjy29cS9awYCuSaPDCpdKnTZh4_Z8AZ6Z"><img src="https://i.ytimg.com/vi/oWswf2cit4Y/maxresdefault.jpg" width=100%  alt="OI" title="OI"></a></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 18px; text-align:center; padding:5px; border-collapse:collapse;"><small>Cick Image Above for Video<br>&nbsp;</small></td>
@@ -285,13 +284,13 @@
 					                  	<td colspan=3 style="color: #ff6d10; font-size: 20px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;"><strong>Weekly Assignments grant 30 Phoenix Credits</strong><br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">50 Rikers Eliminated<br></td>
+					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">20 Elites Eliminated<br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">30 Tools Collected<br></td>
+					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">20 Blue Items Deconstructed<br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">20 Elite Enemies Eliminated<br></td>
+					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">40 Headshot Kills<br></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan=3 style="color: #9b8f7c; font-size: 16px; text-align:left; padding:5px; border: 1px solid white; border-collapse:collapse;">10 HM or CM Missions Completed<br></td>
@@ -309,221 +308,129 @@
 					<p style="color: #ff6d10;">You can re-watch the State of Game here: <a href="https://www.twitch.tv/thedivisiongame/v/61537681">link</a></p>
 					<p></p>
 					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Maintenance</h3>
-					<p style="color: #ff6d10;">The servers will shut down for a scheduled weekly maintenance every Tuesdayat 03:00 AM EST</p>
+					<p style="color: #ff6d10;">The servers will shut down for a scheduled weekly maintenance every Thursday at 03:00 AM EST</p>
 					<p style="color: #ff6d10;">Estimated downtime is approximately 3 hours.</p>
 					<p></p>
-					<p style="color: #9b8f7c; font-size: 18px;"><u>Hotfixes since last maintenance:</u></p>
+					<p style="color: #9b8f7c; font-size: 18px;"><u>Maintenance Patch Notes:</u></p>
 					<ul>
-						<li><p style="color: #ff6d10; font-size: 14px;">April 12/13, 2016 - Restart</p></li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Even more ways to earn it after update 1.1</p></li>
-						
-					</ul>
-					<p style="color: #9b8f7c; font-size: 18px;"><u>Changes from April 12/13, 2016 - Restart</u></p>
-					<ul>
-						<li><p style="color: #ff6d10; font-size: 14px;">General</p>
-							<ul>
-								<li><p style="color: #ff6d10; font-size: 14px;">Named enemies in Challenge mode will now only guarantee one High-End item like all the other named enemies</p></li>
-								<li><p style="color: #ff6d10; font-size: 14px;">Several fixes to improve server stability</p></li>
-							</ul>
-						</li>
-						<li><p style="color: #ff6d10; font-size: 14px;">Incursion: Falcon Lost</p>
-							<ul>
-								<li><p style="color: #ff6d10; font-size: 14px;">The APC will no longer take damage from players’ weapons</p></li>
-								<li><p style="color: #ff6d10; font-size: 14px;">The APC’s Mortar weapon will now fire correctly</p></li>
-							</ul>
-						</li>
-					</ul>
-					<p>&nbsp;<a href="http://forums.ubi.com/showthread.php/1431628-Changelog-April-12-13-2016-Restart">source</a></p>
-
-					<p>Here is the list of changes that were implemented with the hotfix on April 15:</p>
-
-					<p><strong>Falcon Lost</strong></p>
-					
-					<ul>
-					<li>Fixed an exploit where players could attack the APC without triggering new waves of NPC</li>
-					<li>Fixed a bug where the Weekly Reward for Falcon Lost was not granted correctly</li>
-					<li>Fixed the rewards for Falcon Lost incursion not being received if the group leader had previously completed the mission</li>
-					</ul>
-					
-					<p><strong>Dark Zone</strong></p>
-					
-					<ul>
-					<li>Fixed a loophole where players could enter a lower gear score bracket in the Dark Zone</li>
-					</ul>
-					
-					<p><strong>Missing characters</strong></p>
-					
-					<ul>
-					<li>Fixed a bug on Xbox One where players could no longer see their characters. Please note that in order to fix this issue, we restored the account data of the affected players to that of April 12, 12pm CEST | 6am EDT | 3am PDT.</li>
+					<li>Updated the list of Daily Missions to avoid any potential missing days. Please note that the list has been updated on the server only and may not appear updated in the client files.</li>
 					</ul>
 					
 					<p>&nbsp;</p>
 					
-					<p>NOTE: Unfortunately, if you already completed the Incursion prior to this hotfix and didn't get a reward due to the bug, you will still not be able to get it after the hotfix this week. This is because you are already counted as having completed the Incursion for the week. </p>
-					
-					<p>&nbsp;</p>
+					<p style="color: #ff6d10;"><a href="http://forums.ubi.com/showthread.php/1443797-Changelog-May-4th-Maintenance?p=11670312#post11670312">source</a></p>
 					
 					<hr>
 					
-					<h4>Known Issues</h4>
-					
-					<p>Bug reports should always go to Ubisoft/Massive directly in their <a href="http://forums.ubi.com/forumdisplay.php/1024-Technical-Support">official technical support forum.</a> </p>
-					
-					<p>There you can also find a list of known and confirmed issues that is updated on a regular basis. So check that out, maybe you find a workaround for your problem.</p>
-					
-					<p>=&gt; <a href="http://forums.ubi.com/showthread.php/1401648-Known-Issues?p=11443433&amp;viewfull=1#post11443433">Link</a></p>
+					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">State of the Game</h3>
 					
 					<p>&nbsp;</p>
 					
-					<hr>
+					<p style="color: #ff6d10;">As every week, there was a state of the game with Hamish, Yannick and this time also Quentin. </p>
 					
-					<h4>Survey</h4>
+					<p style="color: #ff6d10;">This time we got a first glimpse of what we can expect from the 1.2 update and what the major changes are. There will be a new Dark Zone Bracket, the loot will be better and more generous and the balancing of the game will be (expect the fixing of the Balance Weapon Talent) only buffs. We currently have no details about these balance changes. </p>
 					
-					<p>On this sub there are always many discussions what could be changed on The Division. But there is also an official survey that can be used to give direct feedback about The Division and what is good an what could be improved. </p>
-					
-					<p>Give feedback, make a difference: <a href="https://ubisoft.fluidsurveys.com/surveys/kk/the-division-post-launch/?var=60296CFD-2781-4F4B-9D31-78EAD8926A87">link</a></p>
+					<p style="color: #ff6d10;">Here are the important bullet points of the State of the Game. There will be a detailed article about the 1.2 changes, so that we get the full story this time. (This way we don't repeat the crafting-nerf situation)</p>
 					
 					<p>&nbsp;</p>
 					
-					<hr>
-					
-					<h4>Operation ISAC: Transmission 02</h4>
-					
-					<p>In this week’s episode, Simon looks deeper into the kidnapping of Agent St.Clair and gathers clues about the shady and mysterious mastermind pulling the strings. Join Simon to complete this weekly in-game assignment and claim your loot.</p>
-					
-					<p>&nbsp;</p>
-					
-					<p>» <a href="https://www.youtube.com/watch?v=FG_GziHvgdE">Video</a></p>
-					
-					<p>&nbsp;</p>
-					
-					<p><strong>Weekly Mission</strong></p>
-					
-					<p>Reports have established that a dangerous new operative has an interest in building up a weapon surplus. Beat him to the punch and take out anyone who stands in your way.</p>
+					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Daily Mission Problem</h3>
 					
 					<ul>
-					<li>Kill 30 Veteran Enemies in the Dark Zone</li>
-					<li>Kill 40 Enemies with Explosions</li>
-					<li>Craft 15 Blue or Higher Quality Items</li>
-					<li>Complete 10 Main Missions on Hard Difficulty</li>
+					<li style="color: #ff6d10;">They have updated the list of the daily missions, so that there are no more problems</li>
+					<li style="color: #ff6d10;">The file on the client has not been updated only the server side file – and the file on the server has the last word when it comes to these missions (just in case you are checking the game-files)</li>
 					</ul>
 					
 					<p>&nbsp;</p>
 					
 					<hr>
 					
-					<h4>State of the Game</h4>
-					
-					<p>As usual, there was a State of the Game stream on their official Twitch channel, where the Community Developers talk about current hot-topics and what is happening next. </p>
-					
-					<p>They addressed the feedback they got about the 1.1 update and how this is tracked. They commented on the backpack issue, the missing characters and the glitching/cheating situation.</p>
-					
-					<h4>State of the game 1.1</h4>
+					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">New Podcast about the netcode and anticheat measures to clear up some misinformation</h3>
 					
 					<ul>
-					<li>There was a lot of feedback since it was the first big upgrade</li>
-					<li>They keep track on what has been received positive and negative</li>
-					<li>It has been a big learning experience and that will be taken into account for future updates</li>
-					<li>Some issues have been anticipated some have not</li>
-					<li>They keep track on the discussion about Falcon Lost, balancing, crafting and they are aware of the feedback / issues</li>
+					<li style="color: #ff6d10;"><a href="https://soundcloud.com/thedivisiongame/the-division-podcast-episode-10-we-live-to-server">Check it out here</a></li>
+					<li style="color: #ff6d10;"><a href="https://www.reddit.com/r/thedivision/comments/4hu2a8/podcast_episode_10_we_live_to_server_lot_of_the/">Written summary of the podcast</a></li>
 					</ul>
 					
 					<p>&nbsp;</p>
 					
-					<h4>Exploits</h4>
+					<hr>
+					
+					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Spam in chat</h3>
 					
 					<ul>
-					<li>Big issue with the 1.1 update</li>
-					<li>There have been exploits the whole week and they are trying to fix them</li>
-					<li>Fixing exploits and stabilizing the game are the priority right now</li>
+					<li style="color: #ff6d10;">They Implemented measures to identify the spammers - that was not included in the patch notes - so there should be an improvement soon.</li>
 					</ul>
 					
 					<p>&nbsp;</p>
 					
-					<p><strong>The process how this works:</strong></p>
+					<hr>
+					
+					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">1.2 Updates</h3>
+					
+					<p style="color: #ff6d10;">These are general bullet-points that have been stated about the 1.2 update, more detailed information about fixes and loot are further down.</p>
+					
+					<p>&nbsp;</p>
 					
 					<ul>
-					<li>They have meetings every morning to discuss the current issues and the feedback</li>
-					<li>They compare notes what the Server Team / Development Team and Community Team have picked up and discus that.</li>
-					<li>After that, they prioritize these issues on the board and start working to get them to get them out as fast as possible</li>
-					<li>They gather feedback on Twitch, Reddit, Twitter and from the Customer Support Team</li>
+					<li style="color: #ff6d10;">No Date on that yet, but it is in the testing phase</li>
+					<li style="color: #ff6d10;">There will be a new Daily Mission system that will fix the current problem with the missing dailies</li>
+					<li style="color: #ff6d10;">Testing is very important to not repeat the 1.1 problems and that it is rock-solid this time</li>
+					<li style="color: #ff6d10;">New Dark Zone 200 Bracket for Gear Score 200 players with higher-level enemies and better loot</li>
+					<li style="color: #ff6d10;">Dark Zone 200 Bracket has the best quality loot and good chance to get 204 items and 240 Gear Sets </li>
+					<li style="color: #ff6d10;">There will be 3 Dark Zone Brackets: -160 / 160+ / 200+</li>
+					<li style="color: #ff6d10;">Dark Zone 200 Bracket will only have High End Division Tech </li>
+					<li style="color: #ff6d10;">Dark Zone 200 Bracket will have 32 – 34 NPCs</li>
+					<li style="color: #ff6d10;">Open World / PVE will also get an update with more activities (currently unknown)</li>
+					<li style="color: #ff6d10;">New Dark Zone Activities (still unknown)</li>
 					</ul>
 					
 					<p>&nbsp;</p>
 					
-					<h4>Cheating</h4>
+					<hr>
+					
+					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">1.2 Confirmed Fixes</h3>
 					
 					<ul>
-					<li>Ongoing situation / fight</li>
-					<li>They keep improving their tracking methods</li>
-					<li>There is still a 3 day ban for the first offense and then a permanent band (there have been permanent bans)</li>
-					<li>There are two ways to find cheaters - reports from players and server-side tracking</li>
-					<li>/report [playername] works, but you don't get a feedback</li>
-					<li>They are aware, that some names have strange characters and they are working on that</li>
+					<li style="color: #ff6d10;">Reckless fixed</li>
+					<li style="color: #ff6d10;">One is None</li>
+					<li style="color: #ff6d10;">Mission Doors not Opening after Matchmaking</li>
+					<li style="color: #ff6d10;">Base of Operation Wings not activating</li>
 					</ul>
 					
 					<p>&nbsp;</p>
 					
-					<h4>Backpack Bug / Missing characters</h4>
+					<p style="color: #ff6d10;">Sometimes bug fixes need a client-side update, and while all fixes that can be done server side are pursued when they are possible, sometimes it just needs a client-side patch. This is why they put so many fixes in the 1.2 update.</p>
+					
+					<p>&nbsp;</p>
+					
+					<hr>
+					
+					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">1.2 Loot</h3>
 					
 					<ul>
-					<li>Backpack was fixed 1.1, that has been confirmed by most of the players / there are some isolated cases but these are more complex cases. So report that issue in the official forums, if you are still experiencing that</li>
-					<li>Missing characters happened because of a malfunctioning server - was fixed on Friday for all XBox players</li>
-					<li>Missing characters on PS4 are a different issue, report that if that is happening to you in the official forum</li>
+					<li style="color: #ff6d10;">They made some changes to get people away from crafting but as of now, they are only half-way there</li>
+					<li style="color: #ff6d10;">High ends drops are more common now but the quality is still low and it is still difficult to get good quality loot - especially in the Dark Zone</li>
+					<li style="color: #ff6d10;">The whole Idea behind 1.2 is to be more generous with loot in terms of quality and quantity</li>
+					<li style="color: #ff6d10;">Looting should become the main-source of your equipment and not crafting</li>
+					<li style="color: #ff6d10;">There will also be less Gear-Mod drops</li>
+					<li style="color: #ff6d10;">Better and more weapons drops (because they can't be recalibrated)</li>
+					<li style="color: #ff6d10;">Hard Mode / Challenge Missions and Incursions will drop better loot, so that the activity is more rewarding</li>
+					<li style="color: #ff6d10;">All Dark Zone Brackets get better loot, so that you can gear up your char better</li>
+					<li style="color: #ff6d10;">More Gear Set drops from the Supply Drops in the Dark Zone</li>
 					</ul>
 					
 					<p>&nbsp;</p>
 					
-					<p><strong>Compensation</strong></p>
+					<hr>
 					
-					<p>The players that were affected by the backpack lockout will get </p>
-					
-					<ul>
-					<li>500 Phoenix Credits</li>
-					<li>10 of each high end crafting materials</li>
-					<li>More details about how and when will be communicated this week.</li>
-					</ul>
-					
-					<p>&nbsp;</p>
-					
-					<h4>Missing Daily Missions issue</h4>
-					
-					<p>Before the 1.1 update the daily missions were not available for a few days, this has have been fixed.</p>
-					
-					<p>&nbsp;</p>
-					
-					<p><strong>Compensation</strong></p>
+					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">1.2 Balancing</h3>
 					
 					<ul>
-					<li>Every player that logs in this weekend will get 150 Phoenix Credits.</li>
+					<li style="color: #ff6d10;">No Nerfs / just buffs</li>
+					<li style="color: #ff6d10;">Balance Weapon Talent is broken – It should only give you a buff when you switch from hip-fire to shoulder. Right now you get always the balance buff – but this will be fixed. This way it will be most useful with bolt-action-rifles</li>
+					<li style="color: #ff6d10;">more details are unknown at this point.</li>
 					</ul>
-					
-					<p>&nbsp;</p>
-					
-					<h4>Weekly / Daily Missions issue</h4>
-					
-					<ul>
-					<li>There were the same for multiple days, but that has been fixed</li>
-					</ul>
-					
-					<p>&nbsp;</p>
-					
-					<h4>Gear Score Calculation</h4>
-					
-					<p>The gear score is calculated based on </p>
-					
-					<ul>
-					<li>What you are wearing</li>
-					<li>Your inventory</li>
-					<li>Your Stash</li>
-					</ul>
-					
-					<p>&nbsp;</p>
-					
-					<p>Based on that the highest possible gear-score is calculated and then you get assigned to a DZ Bracket. This has been the case since the fix on Friday.</p>
-					<p></p>
-					<h3 style="color: #9b8f7c; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Patch Notes</h3>
-					<p style="color: #ff6d10;">View them here <a style="color: #9b8f7c;" data-toggle="tab" class="btn btn-primary" href="#divisionupdates">Update 1.1</a></p>
 					<p></p> 
 					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
 		    		</div>
@@ -804,11 +711,11 @@
 			<div id="destinynews" class="tab-pane fade">
         			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
           				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
-					<p style="color: #428bca !important;"> - APR 06 - Destiny - <a data-toggle="tab" href="#BR" style="color: #428bca !important;">April Update Preview: Sandbox and Crucible Updates</a></p>
-					<p style="color: #428bca !important;"> - APR 12 - Destiny - <a data-toggle="tab" href="#destinyupdates" style="color: #428bca !important;">April Update Launch</a></p>
-					<p style="color: #428bca !important;"> - APR 21 - Destiny - <a href="https://www.reddit.com/r/DestinyTheGame/comments/4fuq17/this_week_at_bungie_04212016/" target="_blank" style="color: #428bca !important;">This Week at Bungie</a></p>
-					<p style="color: #428bca !important;"> - APR 21 - Destiny - <a data-toggle="tab" href="#ToO" style="color: #428bca !important;">Iron Banner</a></p>
-					<p style="color: #428bca !important;"> - APR 29 - Destiny - <a data-toggle="tab" href="#ToO" style="color: #428bca !important;">Trials of Osiris</a></p>
+					<!--<p style="color: #428bca !important;"> - APR 06 - Destiny - <a data-toggle="tab" href="#BR" style="color: #428bca !important;">April Update Preview: Sandbox and Crucible Updates</a></p>-->
+					<p style="color: #428bca !important;"> - APR 28 - Destiny - <a href="https://www.reddit.com/r/DestinyTheGame/comments/4gvxv9/this_week_at_bungie_04282016/" target="_blank" style="color: #428bca !important;">This Week at Bungie</a></p>
+					<p style="color: #428bca !important;"> - MAY 03 - Destiny - <a data-toggle="tab" href="#destinyupdates" style="color: #428bca !important;">Destiny Hot Fix 2.2.0.2</a></p>
+					<p style="color: #428bca !important;"> - MAY 06 - Destiny - <a data-toggle="tab" href="#ToO" style="color: #428bca !important;">Trials of Osiris</a></p>
+					<p style="color: #428bca !important;"> - MAY 31 - Destiny - <a data-toggle="tab" href="#IB" style="color: #428bca !important;">Iron Banner</a></p>
 					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
 		    		</div>
       			</div>
@@ -818,15 +725,15 @@
 		          		<table align="center" style="font-size: 16px;">
 						<tbody>
 							<tr>
-					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Nightfall [04/26] - Fallen S.A.B.E.R.<br></td>
+					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Nightfall [05/03] - Dust Palace<br></td>
 					               	</tr>
 							<tr>
-					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/c5AEAlp.jpg" width="100%"  alt="nf Banner" title="nightfall Banner"><br></td>
+					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/Ro5kgj1.jpg" width="100%"  alt="nf Banner" title="nightfall Banner"><br></td>
 					               	</tr>
 							<tr>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest?cb=20150711201441" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="30" height="30"></a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Nightfall</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">If all players die, the <a href="/wiki/Fireteam" title="Fireteam">fireteam</a> will be returned to orbit.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">If all players die, the fireteam will be returned to the last checkpoint</td>
 							</tr>
 							<tr>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/6/6e/Epic_skull_icon.png/revision/latest?cb=20150711201440" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/6/6e/Epic_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201440&amp;format=webp" alt="Epic skull icon" title="Epic" width="30" height="30"></a></td>
@@ -834,25 +741,26 @@
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Heavily shielded and highly aggressive enemies appear in great numbers.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/e/ef/Chaff_skull_icon.png/revision/latest?cb=20150921210528" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/e/ef/Chaff_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210528&amp;format=webp" alt="Chaff skull icon" title="Chaff" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Chaff</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Player radar is disabled.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/7/76/Ironclad_skull_icon.png/revision/latest?cb=20150921210530" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/7/76/Ironclad_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210530&amp;format=webp" alt="Ironclad skull icon" title="Ironclad " width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Ironclad</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">More enemies have shields.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette1.wikia.nocookie.net/destinypedia/images/5/5c/Grounded_skull_icon.png/revision/latest?cb=20150714090526" class="image image-thumbnail"><img src="http://vignette1.wikia.nocookie.net/destinypedia/images/5/5c/Grounded_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150714090526&amp;format=webp" alt="Grounded skull icon" title="Grounded " width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Grounded</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Players take more damage while airborne.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/2/29/Airborne_skull_icon.png/revision/latest?cb=20150921210546" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/2/29/Airborne_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210546" alt="Airborne skull icon" title="Airborne" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Airborne</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Players deal more damage while in the air.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/c/c1/Trickle_skull_icon.png/revision/latest?cb=20150921210550" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/c/c1/Trickle_skull_icon.png/revision/latest?cb=20150921210550" alt="Trickle skull icon" Title="Trickle" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Trickle</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Recharge of abilities is significantly reduced.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest?cb=20150714090529" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150714090529&amp;format=webp" alt="Brawler skull icon" title="Brawler" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Brawler</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Guardian melee damage is greatly increased.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1e/Small_Arms_skull_icon.png/revision/latest?cb=20150719090526" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/1/1e/Small_Arms_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150719090526&amp;format=webp" alt="Small Arms skull icon" title="Small Arms " width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Small Arms</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Primary Weapon damage is favored.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a8/Solar_Burn_skull_icon.png/revision/latest?cb=20150711201425" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a8/Solar_Burn_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201425&amp;format=webp" alt="Solar Burn skull icon" Title="Solar Burn" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Solar Burn</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Solar Damage from any source is greatly increased.</td>
 							</tr>
+							
 							
 						</tbody>
 						<tfoot></tfoot>
@@ -862,14 +770,14 @@
 		      	</div>
 		      	<!--************************OTHER NF MODIFIERS****************************************************************************************************************
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/2/29/Airborne_skull_icon.png/revision/latest?cb=20150921210546" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/2/29/Airborne_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210546" alt="Airborne skull icon" title="Airborne" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Airborne</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Players deal more damage while in the air.</td>
-							</tr>
-							<tr>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/e/e6/Arc_Burn_skull_icon.png/revision/latest?cb=20150711201452" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/e/e6/Arc_Burn_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201452" alt="Arc Burn skull icon" title="Arc Burn" width="30" height="30"></a></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Arc Burn</b></td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="/wiki/Damage_Type" title="Damage Type">Arc Damage</a> from any source is greatly increased.</td>
+							</tr>
+							<tr>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/2/29/Airborne_skull_icon.png/revision/latest?cb=20150921210546" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/2/29/Airborne_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210546" alt="Airborne skull icon" title="Airborne" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Airborne</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Players deal more damage while in the air.</td>
 							</tr>
 							<tr>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest?cb=20150714090529" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150714090529&amp;format=webp" alt="Brawler skull icon" title="Brawler" width="30" height="30"></a></td>
@@ -964,7 +872,7 @@
 		          		<table align="center" style="font-size: 16px;">
 						<tbody>
 							<tr>
-					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Challenge of the Elders [04/26]<br></td>
+					                  	<td colspan=3 style="font-size: 22px; text-align:center; padding:5px; border-collapse:collapse;">Challenge of the Elders [05/03]<br></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan=3 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://assets.vg247.com/current//2016/04/challenge_of_the_elders_destiny.jpg" width="100%"  alt="coe Banner" title="coe Banner"><br></td>
@@ -974,37 +882,37 @@
 							</tr>
 							<tr>
 								<td colspan=2 style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;"><b>Bonus</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Bonus points for Melee kills</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Bonus points for Super kills</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/c/c1/Trickle_skull_icon.png/revision/latest?cb=20150921210550" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/c/c1/Trickle_skull_icon.png/revision/latest?cb=20150921210550" alt="Trickle skull icon" Title="Trickle" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Trickle</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Recharge of abilities is significantly reduced.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/7/76/Ironclad_skull_icon.png/revision/latest?cb=20150921210530" class="image image-thumbnail"><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/7/76/Ironclad_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210530&amp;format=webp" alt="Ironclad skull icon" title="Ironclad " width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Ironclad</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">More enemies have shields.</td>
 							</tr>
 							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/6/6f/Exposure_skull_icon.png/revision/latest?cb=20150921210548" class="image image-thumbnail"><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/6/6f/Exposure_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150921210548&amp;format=webp" alt="Exposure skull icon" title="Exposure" width="30" height="30"></a></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Exposure</b></td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Guardian shields are increased but do not replenish.</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><a href="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest?cb=20150714090529" class="image image-thumbnail"><img src="http://vignette3.wikia.nocookie.net/destinypedia/images/a/a6/Brawler_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150714090529&amp;format=webp" alt="Brawler skull icon" title="Brawler" width="30" height="30"></a></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;"><b>Brawler</b></td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Guardian melee damage is greatly increased.</td>
 							</tr>
 							<tr>
 								<td colspan=3 style="padding:5px; font-size: 22px; text-align:center; border: 1px solid white; border-collapse:collapse;"><b>Bosses</b></td>
 							</tr>
 							<tr>
 								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;"><b>1</b></td>
-								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Fallen</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Keksis the Betrayed</td>
+								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Vex</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Overmind Minotaur</td>
 								
 							</tr>
 							<tr>
 								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;"><b>2</b></td>
-								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Vex</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Seditious Mind</td>
+								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Hive</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Sylok, the Defiled</td>
 								
 							</tr>
 							<tr>
 								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;"><b>3</b></td>
-								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Hive</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Wretched Knight</td>
+								<td style="padding:5px; text-align:center; border: 1px solid white; border-collapse:collapse;">Cabal</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Noru’usk, Servant of Oryx</td>
 								
 							</tr>
 							<tr>
@@ -1030,11 +938,32 @@
 		          		<table align="center" style="font-size: 16px;">
 						<tbody>
 							<tr>
-					                  	<td colspan= 2 style="font-size: 22px; text-align:center; padding:5px;">Variks Bounties [04/26]<br></td>
+					                  	<td colspan= 2 style="font-size: 22px; text-align:center; padding:5px;">Variks Bounties [05/03]<br></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan= 2 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="https://cdn1.artstation.com/p/assets/images/images/000/776/437/large/ian-mcintosh-variks-1.jpg?1432852952" width="100%"  alt="var Banner" title="var Banner"><br></td>
 					               	</tr>
+							<tr>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Riot Guard</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Kill Champions in PoE 41 or CoE 42</td>
+							</tr>
+							<tr>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Light Show</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Generate Orbs of Light in PoE 41 or CoE 42.</td>
+							</tr>
+							<tr>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Heavy Hitter</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Use Heavy weapons to kill enemies in PoE 41 or CoE 42</td>
+							</tr>
+							<!--
+							<tr>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Impressive Performance</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Earn points in Challenge of Elders</td>
+							</tr>
+							<tr>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Shadow Boxer</td>
+								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Use Void abilities to kill enemies in PoE 41 or CoE 42</td>
+							</tr>
 							<tr>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Dead Shot</td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Kill enemies with precision shots in PoE 41 or CoE 42</td>
@@ -1047,15 +976,6 @@
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Fire Fighter</td>
 								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Use Solar abilities to kill enemies in PoE 41 or CoE 42</td>
 							</tr>
-							<!--
-							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Impressive Performance</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Earn points in Challenge of Elders</td>
-							</tr>
-							<tr>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Shadow Boxer</td>
-								<td style="padding:5px; border: 1px solid white; border-collapse:collapse;">Use Void abilities to kill enemies in PoE 41 or CoE 42</td>
-							</tr>
 							-->
 							
 						</tbody>
@@ -1066,40 +986,40 @@
 		      	</div>
 			<div id="KF" class="tab-pane fade">
 				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
-					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">King's Fall Challenge Mode [04/26]</h3>
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">King's Fall Challenge Mode [05/03]</h3>
 					<!--WARPRIEST "http://i.imgur.com/xR36lPt.jpg"  -->
 					<!--GOLGY     "http://i.imgur.com/MtG4Vli.jpg"  -->
 					<!--ORYX      "http://i.imgur.com/kFUPWM1.jpg"  -->
-					<img src="http://i.imgur.com/xR36lPt.jpg" width=75%  alt="cm Banner" title="challenge Banner"><br>
+					<img src="http://i.imgur.com/MtG4Vli.jpg" width=75%  alt="cm Banner" title="challenge Banner"><br>
 					<p style="padding:10px 0 0; text-align:center;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 			</div>
 			<div id="CoO" class="tab-pane fade">
 				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
-					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Court of Oryx Tier III Boss [04/26]</h3>
+					<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Court of Oryx Tier III Boss [05/03]</h3>
 					<!--BALWUR  "http://i.imgur.com/ldqCcJI.jpg"  -->
 					<!--KALGOOR "http://i.imgur.com/bdyXnP1.jpg"  -->
 					<!--THALNOK "http://i.imgur.com/KZhvFuK.jpg"  -->
-					<img src="http://i.imgur.com/ldqCcJI.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
+					<img src="http://i.imgur.com/bdyXnP1.jpg" width=75%  alt="coo Banner" title="Court of Oryx Banner"><br>
 					<p style="padding:10px 0 0; text-align:center;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a></p>
 				</div>
 			</div>
 			<div id="VI" class="tab-pane fade">
 				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
-					<h3 style="font-size: 28px; text-align:center; margin: 0px 0px 15px; padding: 5px 0px 5px;">Vendor Material Exchange [04/26]</h3>
+					<h3 style="font-size: 28px; text-align:center; margin: 0px 0px 15px; padding: 5px 0px 5px;">Vendor Material Exchange [05/03]</h3>
 					<table align="center" style="font-size: 28px; text-align:center; border: 1px solid white;">
 					<tbody>
 					<tr>
 					<td style="padding:5px; background-color: #B66A1C; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://www.destinygamewiki.com/mediawiki/images/9/90/Eris_morn_emblem1.jpg" class="image image-thumbnail" title=""><img src="http://www.destinygamewiki.com/mediawiki/images/9/90/Eris_morn_emblem1.jpg" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="NewMonarchy.png" data-image-name="NewMonarchy.png"></a>
-					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Hadium
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Wormspore
 					</td></tr>
 					<tr>
 					<td style="padding:5px; background-color: #231C46; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/FWC.png/revision/latest?cb=20160123023153" class="image image-thumbnail" title=""><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/b/b3/FWC.png/revision/latest?cb=20160123023153" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="FWC.png" data-image-name="FWC.png"></a>
-					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Spinmetal
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Wormspore
 					</td></tr>
 					<tr>
 					<td style="padding:5px; background-color: #E4E4E4; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette4.wikia.nocookie.net/destinypedia/images/e/e4/DeadOrbitIcon.png/revision/latest?cb=20150321222243" class="image image-thumbnail" title=""><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/e/e4/DeadOrbitIcon.png/revision/latest?cb=20150321222243" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="DeadOrbitIcon.png" data-image-name="DeadOrbitIcon.png"></a>
-					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Spirit Bloom
+					</td><td style="padding:15px; border-bottom: 1px solid white; border-collapse:collapse;">Relic Iron
 					</td></tr>
 					<tr>
 					<td style="padding:5px; background-color: #963637; border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://vignette2.wikia.nocookie.net/destinypedia/images/9/9b/NewMonarchy.png/revision/latest?cb=20160123024152" class="image image-thumbnail" title=""><img src="http://vignette2.wikia.nocookie.net/destinypedia/images/9/9b/NewMonarchy.png/revision/latest?cb=20160123024152" class="pi-image-thumbnail" alt="" width="50" height="50" data-image-key="NewMonarchy.png" data-image-name="NewMonarchy.png"></a>
@@ -1114,7 +1034,7 @@
 		          		<table align="center" style="font-size: 16px;">
 						<tbody>
 							<tr>
-					                  	<td colspan= 2 style="font-size: 22px; text-align:center; padding:5px;">Queens Wrath Bounties [04/26]<br></td>
+					                  	<td colspan= 2 style="font-size: 22px; text-align:center; padding:5px;">Queens Wrath Bounties [05/03]<br></td>
 					               	</tr>
 							<tr>
 					                  	<td colspan= 2 style="padding:5px; border: 1px solid white; border-collapse:collapse;"><img src="http://i.imgur.com/eEHsrCh.jpg" width="100%"  alt="nf Banner" title="nightfall Banner"><br></td>
@@ -1172,762 +1092,49 @@
 		      	</div>
 			<div id="destinyupdates" class="tab-pane fade">
         			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
-          				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Destiny Update 2.2.0 - April 12th, 2016</h3>
-					<p>Source: <a href="https://www.bungie.net/en/News/Article/44609">https://www.bungie.net/en/News/Article/44609</a></p>
+          				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">Destiny Update 2.2.0.2 - May 3rd, 2016</h3>
+					<p>Source: <a href="http://www.bungie.net/en/News/Article/44690">http://www.bungie.net/en/News/Article/44690</a></p>
+
 					<hr>
-		
-					<p><strong>2.2.0 - The One about the April Update.</strong></p>
 					
-					<p>Oryx may have been defeated but many Taken remain and the denizens of the Reef are seeking revenge for their loss. Travel to Vestian Outpost in the Reef to speak with Variks about rumors of a new Taken threat. Test yourself against new challenges within the Prison of Elders.
-					&nbsp;</p>
+					<p><strong>2.2.0.2 - The one about melee attacks.</strong></p>
 					
-					<h2><strong>Light</strong></h2>
+					<p>On the heels of the April Update, we're fixing a couple of things that were bugging us.</p>
 					
-					<p>&nbsp;</p>
+					<h2><strong>Character</strong></h2>
 					
-					<ul>
-					<li><p>Legendary and Exotic drops from many sources now attempt to drop with Attack or Defense greater than your current character light level</p></li>
-					<li><p>The following activities and items have been adjusted to include 335 Light items:</p>
+					<p>The following changes to the melee ability will be manually toggled on&nbsp;Tuesday, May 10th at 10AM Pacific.&nbsp;For a review of the changes read the last "<a href="https://www.bungie.net/en/News/Article/44686/7_This-Week-at-Bungie--04282016">This Week at Bungie.</a>"</p>
 					
 					<ul>
-					<li>Prison of Elders Passage Challenge Ticket</li>
-					<li>Crucible Weekly</li>
-					<li>Court of Oryx Tier 3 Artifacts</li>
-					<li>Trials of Osiris&nbsp;</li>
-					<li>Iron Banner</li>
-					<li>Unique Items from the Vanguard Heroic Strike Playlist&nbsp;</li>
-					<li>Exotic Engrams</li>
-					<li>King's Fall Heroic</li>
-					</ul></li>
-					<li><p>The following activities and items have been adjusted to include 330 Light items:</p>
-					
-					<ul>
-					<li>Weekly Nightfall Strike</li>
-					<li>Faction Packages</li>
-					<li>Trials Bounties</li>
-					</ul></li>
-					<li><p>The following activities and items have these changes:</p>
-					
-					<ul>
-					<li>King's Fall Normal will drop up to 320 Light items</li>
-					<li>Prison of Elders Level 41 drops up to 320 Light items</li>
-					<li>Legendary Engrams max Light increased to 310&nbsp;</li>
-					<li>Rare Engrams max Light increased to 310</li>
-					<li>Rare Items (dropped from remaining activities) max Light increased to 310</li>
-					</ul></li>
-					<li><p>Infusion will now grant 100% of the Light from the infused item</p></li>
+					<li><p>Fixed a bug that would start a melee target search from an incorrect position, frequently coming up short and causing the melee attack to whiff</p></li>
+					<li><p>Adjust melee strike validation logic and player position networking during melee attacks to improve reliability across the network</p></li>
 					</ul>
 					
 					<h2><strong>Activities</strong></h2>
 					
-					<blockquote>
-					<p><strong><em>Prison of Elders</em></strong>  </p>
-					
 					<ul>
-					<li><p><strong>New!</strong> Prison of Elders Challenge Activity: Challenge of the Elders (Recommended Light 320)</p></li>
-					<li><p>Elder's Sigil Passage Tickets can be picked up directly from Variks</p></li>
-					<li><p>Prison of Elders Weekly Bounties have been added and can be picked up from Variks</p></li>
-					<li><p><strong>New!</strong> Added Level 41 Prison of Elders playlist (Recommended Light 260)</p></li>
-					<li><p>Prison of Elders now has a Level 41 difficulty available, this version has a chance at having Taken enemies</p></li>
-					<li><p>Combatants within the Prison of Elders will now provide credit towards applicable Vanguard bounty requirements&nbsp;</p></li>
-					<li><p>Keys are no longer required to open the Prison of Elders chest</p></li>
-					<li><p>Keys can now be used directly from inventory to provide House of Judgement faction reputation</p></li>
-					<li><p>Variks' inventory has been updated&nbsp;</p></li>
-					<li><p>Tokens of Flight, Identity, and Judgement are no longer needed to purchase items&nbsp;</p>
-					
-					<ul>
-					<li>Tokens can still be used directly from player's inventory to provide House of Judgement faction reputation</li>
-					</ul></li>
-					<li><p>Armor &amp; Weapon Cores are no longer needed to purchase items and can now be used directly from player's inventory to provide House of Judgement faction</p></li>
-					</ul>
-					
-					<p><strong><em>PvE Activities</em></strong>  </p>
-					
-					<ul>
-					<li>Increased Special Ammo drop rate in all PVE activities to offset the reduced Inventory for Shotguns and Sniper Rifles</li>
-					</ul>
-					
-					<p><strong><em>Strikes</em></strong>  </p>
-					
-					<ul>
-					<li><p>Added the following Strikes:&nbsp;</p></li>
-					<li><p><strong>New!</strong> "Blighted Chalice" strike is now available in the normal &amp; heroic strike playlists</p></li>
-					<li><p>The "Winter's Run" strike now has a Taken variant available in the normal &amp; heroic strike playlists</p></li>
-					<li><p>Reputation gains have been increased for completing Strikes</p></li>
-					</ul>
-					
-					<p><strong><em>Weekly Nightfall</em></strong>  </p>
-					
-					<ul>
-					<li><p>Increased Activity Level of Weekly Nightfall Strike &nbsp;(Recommended 320)</p></li>
-					<li><p>Eververse drops will no longer replace the normal Nightfall rewards but will be an additional reward when received</p></li>
-					</ul>
-					
-					<p><strong><em>King's Fall</em></strong>  </p>
-					
-					<ul>
-					<li>Increased the drop rate of armor and weapons inside the King's Fall raid for both Normal and Heroic difficulties</li>
-					</ul>
-					
-					<p><strong><em>Patrols</em></strong>  </p>
-					
-					<ul>
-					<li>Reputation gains have been increased for completing Patrol objectives</li>
-					</ul>
-					</blockquote>
-					
-					<h2><strong>Classes</strong></h2>
-					
-					<p>For a detailed review of class changes in 2.2.0, watch our <a href="https://www.youtube.com/watch?v=5pJ0NwW_TlI">live preview</a>.</p>
-					
-					<blockquote>
-					<p><strong><em>General</em></strong>  </p>
-					
-					<ul>
-					<li><p>The player's Resurrection mechanic has been adjusted:</p></li>
-					<li><p>Reduced the radius of Resurrection interaction prompt to 1.5 meters (was 2 meters)</p></li>
-					<li><p>Increased the base time to Resurrect by 0.25 seconds</p></li>
-					<li><p>Overshield has been adjusted so that it takes precision damage modifiers (previously it did not)&nbsp;</p></li>
-					<li><p>Reduced Resurrection time bonuses from exotic armor (Crest of Alpha Lupi, Light Beyond Nemesis) to 30% (was 40%)</p></li>
-					<li><p>Added additional frames of invincibility at the end of the Resurrection animation to make the handoff from locked state to movement more consistent</p></li>
-					<li><p>Players can now highlight (R-Stick Click) player ghosts, allowing a user to inspect &amp; target emotes at a downed player's ghost</p></li>
-					</ul>
-					
-					<p><strong><em>Hunter</em></strong>  </p>
-					
-					<blockquote>
-					<p><strong>Nightstalker</strong>  </p>
-					
-					<ul>
-					<li>Fixed an issue where summoning the Ghost while evading would interrupt Shadestep&nbsp;</li>
-					</ul>
-					</blockquote>
-					
-					<hr>
-					
-					<p><strong><em>Warlock</em></strong>  </p>
-					
-					<blockquote>
-					<p><strong>Voidwalker</strong>  </p>
-					
-					<ul>
-					<li><p>Melee: Energy Drain</p></li>
-					<li><p>Increased grenade recharge bonus scalar (by +100%)</p></li>
-					<li><p>Reduced grenade recharge duration to 2 seconds (was 5 seconds)</p></li>
-					<li><p>Reduced bonus recharge provided by mastery (i.e. The Hunger) to 2 seconds (was 6 seconds)</p></li>
-					<li><p>Life Steal: Now triggers when damaging an enemy with Energy Drain</p></li>
-					<li><p>Soul Rip: Now triggers when damaging an enemy with Energy Drain</p></li>
-					<li><p>Passives</p></li>
-					<li><p>Embrace the Void: Now triggers the energy drain effect and restores a significant portion of health when killing an enemy</p></li>
-					</ul>
-					</blockquote>
-			
-					<p>&nbsp;  </p>
-					
-					<blockquote>
-					<p><strong>Sunsinger</strong>  </p>
-					
-					<ul>
-					<li><p>Melee: Scorch</p></li>
-					<li><p>Flame Shield: Now increases the cooldown of Scorch (by +33%)&nbsp;</p></li>
-					<li><p>Flame Shield: No longer maximizes player armor for its duration</p></li>
-					<li><p>Flame Shield: Removed + 1 Armor stat</p></li>
-					<li><p>Solar Wind: Now reduces the cooldown of Scorch (by +66%)</p></li>
-					<li><p>Solar Wind: Added +1 Recovery stat</p></li>
-					<li><p>Brimstone: Now reduces the cooldown of Scorch (by +66%)</p></li>
-					<li><p>Brimstone: Explosion damage increased (by +86%)</p></li>
-					<li><p>Super: Radiance</p></li>
-					<li><p>Increased grenade energy regen by 1-3 grenades (depending on discipline)</p></li>
-					<li><p>Song of Flame: Increased allies' grenade regen (by +60%)</p></li>
-					<li><p>Fireborn: Reduced Radiance duration when Fireborn is active (-28%)</p></li>
-					<li><p>Passives</p></li>
-					<li><p>Sunburst: Now guarantees an Orb of Light on kill</p></li>
-					</ul>
-					</blockquote>
-					
-					<hr>
-					
-					<blockquote>
-					<p><strong>Stormcaller</strong>  </p>
-					
-					<ul>
-					<li><p>Melee: Thunderstrike</p></li>
-					<li><p>Rising Storm: Now immediately awards a flat amount of super, grenade and melee energy (instead of boosting regen based on intellect, discipline and strength over time)</p></li>
-					<li><p>Super: Stormtrance</p></li>
-					<li><p>Landfall: Damage reduced (by -17%)</p></li>
-					<li><p>Landfall: No longer blinds nearby players</p></li>
-					<li><p>Passives</p></li>
-					<li><p>Pulsewave: Added +1 Recovery stat</p></li>
-					<li><p>Feedback: Removed +1 Armor stat</p></li>
-					<li><p>Transcendence: Reduced bonus time in Stormtrance (by -17%)</p></li>
-					<li><p>Transcendence: No longer removes the cost of actively throwing Arc lightning</p></li>
-					<li><p>Electrostatic Mind: Increased the damage nearby enemies take when Stormtrance is active (by +100%)</p></li>
-					<li><p>Electrostatic Mind: Reduced the super recharge bonus when near allies (by -25%)</p></li>
-					</ul>
-					</blockquote>
-					</blockquote>
-					
-					<h2><strong>Weapons</strong></h2>
-					
-					<p>For a detailed review of weapon changes in 2.2.0, read the full <a href="https://www.bungie.net/en/News/Article/44577/7_Destiny-Weapon-Tuning--April-Update">Update Preview</a>.
-					&nbsp;</p>
-					
-					<blockquote>
-					<p><strong><em>Auto Rifles</em></strong>  </p>
-					
-					<ul>
-					<li><p>Increased damage per bullet of low Rate-of-Fire Auto Rifles, like Suros Regime, An Answering Chord, Anguish of Drystan (by +2.3%)</p></li>
-					<li><p>Reduced damage per bullet of high Rate-of-Fire Auto Rifles, like Doctrine of Passing, Arminius-D (by -2.5%)</p></li>
-					<li><p>Improvement to hip fire accuracy</p></li>
-					</ul>
-					
-					<p>&nbsp;
-					<strong><em>Pulse Rifles</em></strong>  </p>
-					
-					<ul>
-					<li>Increased damage per bullet of low Rate-of-Fire Pulse Rifles, like The Messenger, Spare Change, Lyudmila-D (by +3%)</li>
-					</ul>
-					
-					<p>&nbsp;<br>
-					<strong><em>Hand Cannons</em></strong>  </p>
-					
-					<ul>
-					<li><p>Increased Hand Cannon inventory ammo</p></li>
-					<li><p>Adjusted Hand Cannon ammo stats so that initial spawn and respawn ammo are consistent&nbsp;</p></li>
-					</ul>
-					
-					<p>&nbsp;
-					<strong><em>Shotguns</em></strong>  </p>
-					
-					<ul>
-					<li><p>Reduced the total Ammo Inventory for all Shotguns by roughly 5-7 rounds (exact amount depends on a given weapon’s Magazine and Inventory stats)</p></li>
-					<li><p>See Crucible Section</p></li>
-					</ul>
-					
-					<hr>
-					
-					<p><strong><em>Snipers</em></strong>  </p>
-					
-					<ul>
-					<li><p>Reduced the total Ammo Inventory for all Sniper Rifles by roughly 5-7 rounds (exact amount depends on a given weapon’s Magazine and Inventory stats)</p></li>
-					<li><p>See Crucible Section</p></li>
-					<li><p>Increased base zoom distance on the lowest Zoom scopes</p></li>
-					<li><p>Medium to long range scopes remain untouched</p></li>
-					<li><p>Added 2 frames of zoom time to sniper zoom</p></li>
-					<li><p>Reduced Snapshot perk's zoom time benefit to 20% benefit (was 30%)</p></li>
-					<li><p>Reduced Stability across all Sniper Rifle stats so that re-acquiring a target after firing requires more care</p></li>
-					<li><p>Zen Moment: Removed perk from all Rare and Uncommon Sniper Rifles&nbsp;</p></li>
-					</ul>
-					
-					<p>&nbsp;
-					<strong><em>Fusion Rifles</em></strong>  </p>
-					
-					<ul>
-					<li><p>Increased Stability base stat (40% recoil reduction); this means that lower stability Fusion Rifles will get affected more than higher stability rifles</p></li>
-					<li><p>Fixed bug where some outlying fusion rifle scopes had unintended increased zoom that was removed in Year Two.&nbsp;</p></li>
-					</ul>
-					
-					<hr>
-					
-					<p><strong><em>Sidearms</em></strong>  </p>
-					
-					<ul>
-					<li>Fixed an issue where ammo persisted through deaths when switching Secondary weapons</li>
-					</ul>
-					
-					<blockquote>
-					<p><strong><em>Machine Guns</em></strong>  </p>
-					</blockquote>
-					
-					<ul>
-					<li><p>Fixed an issue where players were able to get a free magazine of Machine Gun ammo from ammo crates</p></li>
-					<li><p>Reduced the total Ammo Inventory for all Machine Guns (exact amount depends on a given weapon’s magazine, rate of fire, and inventory stats)</p></li>
-					</ul>
-					
-					<p>&nbsp;
-					<strong><em>Swords</em></strong>  </p>
-					
-					<ul>
-					<li><p>Fixed an issue with the sword guard ability that prevented it from blocking incoming damage correctly</p></li>
-					<li><p>Fixed an issue where the damage element would disappear from the HUD for swords after summoning the Ghost</p></li>
-					<li><p>Sword Heavy attacks now have improved damage networking</p></li>
-					</ul>
-					
-					<p>&nbsp;
-					<strong><em>Exotic/Legendary Weapons</em></strong>  </p>
-					
-					<blockquote>
-					<p><strong>All King's Fall Primary Weapons</strong>  </p>
-					
-					<ul>
-					<li>Increased reload speed on all King's Fall Raid primary weapons</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Anguish of Drystan</strong>  </p>
-					
-					<ul>
-					<li>Increased Stability base stat (by +12%)</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Black Spindle</strong>  </p>
-					
-					<ul>
-					<li><p>Fixed a bug with barrel upgrades where Field Choke and CQB Ballistics did not upgrade correctly</p></li>
-					<li><p>Increased Optics base stat to reflect global Optics changes</p></li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Dreg's Promise</strong>  </p>
-					
-					<ul>
-					<li><p>Projectiles now track based on Aim Down Sights target lock. This plays similar in functionality to the "Tracking" Rocket Launcher perk with faster lock time but no audio "beeps"</p></li>
-					<li><p>Increased projectile Tracking strength&nbsp;</p></li>
-					<li><p>Reduced Rate-of-Fire base stat to compensate for increased Tracking</p></li>
-					<li><p>Reduced Damage (by -40%) to compensate for increased Tracking</p></li>
-					<li><p>Reduced Damage falloff to match Sidearm range</p></li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Hakke Sniper Rifle</strong>  </p>
-					
-					<ul>
-					<li>Replaced Zen Moment perk on Legendary Hakke Sniper Rifle for Performance Bonus perk</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Hawkmoon</strong>  </p>
-					
-					<ul>
-					<li><p>Fixed an issue where the tooltip incorrectly displayed Holding Aces twice</p></li>
-					<li><p>Increased Range base stat (by +10)</p></li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Hereafter</strong>  </p>
-					
-					<ul>
-					<li>Increased Optics base stat to reflect global Optics changes</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Icebreaker</strong>  </p>
-					
-					<ul>
-					<li><p>Increased Optics scope zoom (to +6x)</p></li>
-					<li><p>Reduced Handling base stat to the lowest value for Sniper Rifles</p></li>
-					<li><p>Reduced Target Acquisition base (by -25%)</p></li>
-					<li><p>Fixed an issue where ammo persisted through deaths when switching Secondary weapons</p></li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Last Word</strong>  </p>
-					
-					<ul>
-					<li>Removed bonus damage applied from The Last Word perk</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Lord of Wolves</strong>  </p>
-					
-					<ul>
-					<li>Reduced ammo inventory to reflect base Shotgun ammo changes</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>MIDA Multi-Tool</strong>  </p>
-					
-					<ul>
-					<li>Removed high caliber rounds from intrinsic behavior</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Omolon Sniper Rifle</strong>  </p>
-					
-					<ul>
-					<li>Replaced Zen Moment perk on Legendary Omolon Sniper Rifle for Battle Runner perk</li>
+					<li><p>Fixed an issue in which chests in the original Prison of Elders challenge modes (Level 32, 34, 35) did not properly give loot</p></li>
+					<li><p>Fixed an issue in which the Weekly Nightfall did not drop Ghosts above the player's Light correctly</p></li>
 					</ul>
 					
 					<p>&nbsp;</p>
 					
-					<p><strong>Patience &amp; Time</strong>  </p>
+					<h2><strong>Quests</strong></h2>
 					
 					<ul>
-					<li>Increased Optics base stat to reflect global Optics changes</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Queenbreaker's Bow</strong>  </p>
-					
-					<ul>
-					<li>Reduced ammo inventory to reflect base Sniper ammo changes</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Quillim's Terminus</strong>  </p>
-					
-					<ul>
-					<li><p>Reduced Ammo inventory base stat (by -15)</p></li>
-					<li><p>Reduced Stability base stat (by -9)</p></li>
-					</ul>
-					
-					<hr>
-					
-					<p><strong>Stillpiercer</strong>  </p>
-					
-					<ul>
-					<li>Increased Optics base stat to reflect global Optics changes</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Suros Regime</strong>  </p>
-					
-					<ul>
-					<li><p>Increased Range bonus granted by Focus Fire perk to 45 Range</p></li>
-					<li><p>Spinning Up now activates (4 shots) later in the magazine</p></li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Telesto</strong>  </p>
-					
-					<ul>
-					<li><p>Fixed an issue where projectiles did not correctly attach and detonate against Ward of Dawn</p></li>
-					<li><p>Projectiles will now correctly attach to friendly bipeds and detonate, but will not cause damage to friendly targets</p></li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>The Chaperone</strong>  </p>
-					
-					<ul>
-					<li>Fixed an issue in which precision damage was clamped and not scaling up to the intended amount</li>
-					<li>Precision damage now correctly scales when The Roadborn perk is active</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Thorn</strong>  </p>
-					
-					<ul>
-					<li><p>Reduced Thorn DoT to 4 ticks (was 6)</p></li>
-					<li><p>Reduced the amount of damage players receive per tick in Crucible (by -50%)</p></li>
-					<li><p>Reduced severity of poison screen effects for the victim to preserve combat effectiveness while poisoned&nbsp;</p></li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Vex Mythoclast</strong>  </p>
-					
-					<ul>
-					<li>Reduced Damage base stat to compensate for improved Stability (by -13%)</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>1000 Yard Stare</strong>  </p>
-					
-					<ul>
-					<li>Reduced Ammo inventory base stat</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Perks</strong>  </p>
-					
-					<ul>
-					<li><p>Eye of the Storm: Improved feedback on reticle to better see perk activation/de-activation</p></li>
-					<li><p>Icarus: Increased the inaccuracy reduction provided by the perk to 75% reduction (was 66%)</p></li>
-					<li><p>Aggressive Ballistics: Reduced Stability stat to -20 (was -10)</p></li>
-					<li><p>The First Curse: Fixed an exploit where the perk could be kept active indefinitely by refilling the magazine using Sealed Ahamkara Grasps</p></li>
-					<li><p>Rescue Mag: Fixed an issue where the perk triggered on stowed weapons. &nbsp;Perk now only activates when the weapon is in hand</p></li>
-					<li><p>Fixed an issue with some weapon perks that use kill count that prevented them from being extended or deactivated correctly in the Crucible</p></li>
-					</ul>
-					</blockquote>
-					</blockquote>
-					
-					<h2><strong>Armor</strong></h2>
-					
-					<blockquote>
-					<p><strong><em>General</em></strong>  </p>
-					
-					<ul>
-					<li><p>The following Year 1 Armor Exotics have been converted for Year 2:</p></li>
-					<li><p>ACD/0 Feedback Fence</p></li>
-					<li><p>The Glasshouse</p></li>
-					<li><p>Eternal Warrior</p></li>
-					<li><p>Khepri's Sting</p></li>
-					<li><p>Lucky Raspberry</p></li>
-					<li><p>ATS/8 ARACHNID</p></li>
-					<li><p>Sunbreakers</p></li>
-					<li><p>Purifier Robes
-					&nbsp;<br>
-					<strong><em>Exotic/Legendary Armor</em></strong>  </p></li>
-					<li><p>Increased the tracking amount of the Scatter Grenade when wearing the Nothing Manacles&nbsp;</p></li>
-					<li><p>Reduced the Golden Gun upkeep penalty for Achlyophage Symbiote</p></li>
-					<li><p>Reduced bonus Ammo Inventory granted by Machine Gun Ammo Armor Perk (by -33%)</p></li>
+					<li><p>Fixed an issue that prevented completion of the quest "With Finesse and Speed"</p></li>
+					<li><p>Fixed an issue that allowed purchase of Dreadfang before the player had completed the quest to obtain it</p></li>
 					</ul>
 					
 					<p>&nbsp;</p>
-					</blockquote>
-					
-					<h2><strong>Crucible</strong></h2>
-					
-					<blockquote>
-					<p><strong><em>General</em></strong>  </p>
-					
-					<ul>
-					<li><p>The following changes have been made to address the abundance of special and heavy weapon kills in the Crucible. &nbsp;We will be continuing to monitor usage in both PVE and PVP.</p></li>
-					<li><p>Players begin games with Special ammo.</p></li>
-					<li><p>Swapping between Special weapons during Crucible matches now no longer retains ammo between weapons.</p></li>
-					<li><p>Ammo spawn conditions have been changed for all modes except Elimination and Mayhem:&nbsp;</p>
-					
-					<ul>
-					<li>Special ammo spawns after 3 minutes, then respawns every 2 minutes (each crate has its own timer)</li>
-					<li>Heavy ammo spawns after 5 minutes, only once per match</li>
-					</ul></li>
-					<li><p>Reduced the total Ammo Inventory for all Sniper Rifles by roughly 5-7 rounds (exact amount depends on a given weapon’s Magazine and Inventory stats)</p></li>
-					<li><p>Reduced the total Ammo Inventory for all Shotguns by roughly 5-7 rounds (exact amount depends on a given weapon’s Magazine and Inventory stats)</p></li>
-					<li><p>Reduced the amount of ammo granted by Crucible-specific Heavy Ammo bricks to grant 0.375 of inventory (was 0.5)</p>
-					
-					<ul>
-					<li>This change affects all Machine Guns and only a handful of Rocket Launchers (Truth is one of the affected Rocket Launchers).</li>
-					</ul></li>
-					<li><p>Reduced bonus Ammo Inventory granted by Machine Gun Ammo Armor Perk (by -33%)</p></li>
-					<li><p>Increase Special Ammo drop rate in all PVE activities to offset the reduced Inventory for Shotguns and Sniper Rifles</p></li>
-					<li><p>Sparrow, Pike, and Interceptor kills will now report unique score values instead of the generic "Vehicle Kill"</p></li>
-					<li><p>The "Ace" Elimination medal now requires wiping the enemy team in 20 seconds or less</p></li>
-					<li><p>Year 1 Shaders have been added back into the list of possible rewards for completing Crucible matches&nbsp;</p></li>
-					<li><p>Increased Legendary item drop rate for completing Crucible matches</p></li>
-					<li><p>Increased Reputation gains completing Crucible matches</p></li>
-					</ul>
-					
-					<p>&nbsp;<br>
-					<strong><em>Quests &amp; Bounties</em></strong>  </p>
-					
-					<ul>
-					<li><p>Fixed an issue where players were incorrectly receiving credit for the quest "Draw From the Void" outside of the Crucible&nbsp;</p></li>
-					<li><p>Fixed an issue where some score-based quests and bounties were not progressing properly at the end of a match</p></li>
-					<li><p>The Crucible bounty "Trial Run" will no longer appear for players who are below level 40, as they cannot compete in Trials of Osiris</p></li>
-					</ul>
-					
-					<p>&nbsp;<br>
-					<strong><em>Playlists</em></strong>  </p>
-					
-					<hr>
-					
-					<blockquote>
-					<p><strong>Control</strong>  </p>
-					
-					<ul>
-					<li><p>Maps added: Asylum, Firebase Delphi, The Anomaly, The Burning Shrine, and The Cauldron</p></li>
-					<li><p>Maps removed: Bastion, First Light, and Skyshock</p></li>
-					</ul>
-					
-					<p><strong>Elimination</strong>  </p>
-					
-					<ul>
-					<li>Revive timers now start at 7 seconds and increase by 7 seconds each time players are revived</li>
-					</ul>
-					
-					<p><strong>Inferno Rumble</strong>  </p>
-					
-					<ul>
-					<li>Reduced score to win from 2000 to 1500</li>
-					</ul>
-					
-					<p><strong>Mayhem Rumble</strong>  </p>
-					
-					<ul>
-					<li><p>Reduced score to win from 35000 to 25000</p></li>
-					<li><p>Fixed an issue where the Playlist tooltip indicated an incorrect Fireteam size requirement</p></li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong><em>Iron Banner</em></strong>  </p>
-					</blockquote>
-					
-					<ul>
-					<li><p>Lord Saladin's inventory has been updated with items at Ranks 3-5, some with re-rolled perks</p></li>
-					<li><p>Rank package rewards have been adjusted:</p></li>
-					<li><p>Increased Rank 3 package Artifact to 320 Light</p></li>
-					<li><p>Increased Rank 5 package Ghost to 320 Light</p></li>
-					<li><p>Rank 5 packages can now reward items from the current event&nbsp;</p></li>
-					<li><p>Iron Banner Armor and Weapons can now be earned at Rank 0 at the end-of-activity</p></li>
-					<li><p>Removed Legendary Engrams from the possible end-of-activity rewards list, creating a greater chance to receive Iron Banner specific items</p></li>
-					<li><p>"Iron Domination" daily bounty now requires completing a match with a personal score of 1500 instead of winning a match with 2500</p></li>
-					<li><p>"Iron Versatility" bounty now only requires 7 Heavy Weapon kills to complete</p></li>
-					<li><p>Fixed an issue where players below Rank 5 could roll a reward they were ineligible for, resulting in no reward being given</p></li>
-					<li><p>Fixed an issue where the Iron Banner ship was missing a part of its frame</p></li>
-					</ul>
-					
-					<blockquote>
-					</blockquote>
-					
-					<p>&nbsp;<br>
-					<strong><em>Trials of Osiris</em></strong>  </p>
-					
-					<blockquote>
-					</blockquote>
-					
-					<ul>
-					<li><p>Fixed an issue in which weapons in the Lighthouse chest did not have the appropriate equip requirement of being Level 40</p></li>
-					<li><p>"His Eye Upon You" bounty may now be repeated daily with easier requirements:</p></li>
-					<li><p>Reduced the match completion requirements to 7 matches (was 10 matches)</p></li>
-					<li><p>Reduced the Fireteam kills requirements to 50 kills (was 75 kills)</p>
-					
-					<blockquote>
-					</blockquote></li>
-					</ul>
-					
-					<p>&nbsp;
-					<strong><em>Maps</em></strong>  </p>
-					
-					<blockquote>
-					<p><strong>Cathedral of Dusk</strong>  </p>
-					
-					<ul>
-					<li>Adjusted Rift spawn settings to push players closer to the front line and reduce the frequency of spawning at the far back of the map</li>
-					</ul>
-					
-					<p><strong>Crossroads</strong>  </p>
-					
-					<ul>
-					<li><p>Fixed an issue where players could get stuck out of environment if they fell off behind capture point "B"</p></li>
-					<li><p>Fixed an exploit where players could hide in a spot outside of the normal play area</p></li>
-					</ul>
-					
-					<p><strong>Frontier</strong>  </p>
-					
-					<ul>
-					<li><p>Fixed an issue where players could get stuck on concrete sacks near capture point "B"</p></li>
-					<li><p>Fixed an exploit where players could reach an unintended advantageous position</p></li>
-					</ul>
-					
-					<p><strong>Memento</strong>  </p>
-					
-					<ul>
-					<li>Adjusted Rift spark location for better balance</li>
-					</ul>
-					
-					<p>&nbsp;  </p>
-					
-					<p><strong>Pantheon</strong>  </p>
-					
-					<ul>
-					<li>Adjusted Rift spawn settings to push players closer to the front line and reduce the frequency of spawning at the far back of the map</li>
-					</ul>
-					</blockquote>
-					
-					<p>&nbsp;
-					&nbsp;</p>
-					</blockquote>
 					
 					<h2><strong>Items</strong></h2>
 					
-					<blockquote>
-					<p><strong><em>General</em></strong>  </p>
-					
 					<ul>
-					<li><p>An additional page of Vault Space has been added to all accounts, bringing the capacity counts up to 108 weapon, 108 armor, and 72 miscellaneous slots</p></li>
-					<li><p>Mystery Bags can now be previewed before opening to look at the list of potential contents</p></li>
-					<li><p>Year 1 ships have been added to the Crucible &amp; Vanguard Reputation rank up packages</p></li>
-					<li><p>Reputation Buffs have been added to Vanguard, Crucible, and House of Judgement Reputation rank up packages</p></li>
-					<li><p>Abandoned Quest Kiosk has been added to the Reef</p></li>
-					<li><p>12 new Eververse Emotes have been updated to new Spring 2016 Season (northern hemisphere)</p></li>
-					<li><p>Winter Season Emotes have been moved into a Winter 2015 Emote Mystery Bag</p></li>
-					<li><p>Fixed an issue in which Crimson Days ghosts could not be previewed</p></li>
-					<li><p>Fixed an issue in which Raid ghosts could not be previewed</p></li>
-					</ul>
-					
-					<p><strong><em>Sterling Treasures</em></strong>  </p>
-					
-					<ul>
-					<li><p>Players are guaranteed to receive up to three Sterling Treasures per account by doing these actions after the weekly reset:</p></li>
-					<li><p>Logging a character into the game</p></li>
-					<li><p>Completing the Level 41 Prison of Elders</p></li>
-					<li><p>Completing a match in the weekly featured Crucible playlist</p></li>
-					<li><p>Items found Inside:</p></li>
-					<li><p>Taken Gear (Vanity)</p></li>
-					<li><p>Chroma</p></li>
-					<li><p>Reputation Buffs</p></li>
-					</ul>
-					
-					<p><strong><em>Chroma</em></strong>  </p>
-					
-					<ul>
-					<li><p>Chroma allows players to customize illumination (White, Yellow, Blue, and Red) on special items</p></li>
-					<li><p>Chroma can be applied to many armor sets:</p></li>
-					<li><p>"Spektar" Armor Set can be found within the Sterling Treasure boxes</p></li>
-					<li><p>These specialized sets can be found in the Crucible/Vanguard reputation packages:</p>
-					
-					<ul>
-					<li>"Spektar Pandion" Titan Superior Gear</li>
-					<li>"Spektar Aspriet" Hunter Superior Gear</li>
-					<li>"Spektar Haliaetus" Warlock Superior Gear</li>
-					</ul></li>
-					<li><p>These specialized sets can be found in their respective reputation packages:</p>
-					
-					<ul>
-					<li>"Spektar Heliopause" Dead Orbit Gear</li>
-					<li>"Spektar Infinite" Future War Cult Gear</li>
-					<li>"Spektar Kallipolis" New Monarchy Gear</li>
-					</ul></li>
-					<li><p>Chroma can applied to many weapons:</p></li>
-					<li><p>These Fallen weapons can be found in House of Judgement reputation packages:</p>
-					
-					<ul>
-					<li>"Hand of Judgement" Scout Rifle&nbsp;</li>
-					<li>"Stolen Pride" Hand Cannon</li>
-					<li>"Crow's Eye" Sidearm&nbsp;</li>
-					<li>"Soulstealer's Claw" Auto Rifle&nbsp;</li>
-					<li>"Aegis of the Reef" Pulse Rifle</li>
-					</ul></li>
-					<li><p>These Queens Faction weapons can be found in Prison of Elders:</p>
-					
-					<ul>
-					<li>"Final Duty" Pulse Rifle</li>
-					<li>"Her Revenge" Hand Cannon</li>
-					<li>"Her Memory" Auto Rifle"</li>
-					<li>"Lethe Noblesse" Scout Rifle</li>
-					<li>"Queens Choice" Sidearm</li>
-					<li>"Techeun Rage" Fusion Rifle</li>
-					<li>"Her Champion" Shotgun</li>
-					<li>"Her Fury" Sniper Rifle</li>
-					<li>"The Nightmare" Rocket Launcher</li>
-					<li>"Bane of the Taken" Machine Gun</li>
-					</ul></li>
-					</ul>
-					</blockquote>
-					
-					<h2><strong>UI</strong></h2>
-					
-					<ul>
-					<li><p>Players can now adjust their HUD transparency level from the Settings menu</p></li>
-					<li><p>Roster UI now sorts friends who are signed into a character above players who have not selected a character yet</p></li>
-					</ul>
-					
-					<h2><strong>Technical</strong></h2>
-					
-					<ul>
-					<li><p>Fixed a potential crash when using the Graviton Forfeit exotic helmet</p></li>
-					<li><p>Fixed a possible out of memory crash during King's Fall raid for PlayStation 3</p></li>
+					<li><p>Fixed an issue in which some of the Faction Class items did not properly allow quest progression for Factions</p></li>
+					<li><p>Fixed an issue where the Hunter "Spektar Grasps" item did not properly display all geometry on PlayStation 3 &amp; Xbox 360</p></li>
+					<li><p>Fixed an issue in which Cryptarch Rank Up packages were incorrectly giving Year 1 Engrams</p></li>
+					<li><p>Fixed an issue that would allow Universal Remote to decrypt from Special Weapon engrams when it is a primary weapon</p></li>
 					</ul>
 
 					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
