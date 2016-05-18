@@ -19,7 +19,7 @@
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionDA"><small>Daily Assignment</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionWA"><small>Weekly Assignment</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionstate"><small>State of the Game</small></a></li>
-                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionupdates"><small>1.1 Patch Notes</small></a></li>
+                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionupdates"><small>1.2 Patch Notes</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionFarm"><small>Dark Zone Farming</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionY1"><small><span class="glyphicon glyphicon-road" style="padding-right:10px;"></span>Roadmap</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#dtwitter"><small>Division Twitter</small></a></li>
