@@ -1,20 +1,21 @@
 <!-- Begin Button Bar -->
 <ul class="nav nav-pills nav-justified core-content-nav-pills">
-        <li class="active"><a data-toggle="tab" href="#home"><span class="glyphicon glyphicon-home" style="padding-right:10px;"></span>WELCOME</a></li>
-        <li><a data-toggle="tab" href="#info"><span class="glyphicon glyphicon-info-sign" style="padding-right:10px;"></span>CLAN</a></li>
+        <li class="active"><a style="color: #337ab7;" data-toggle="tab" href="#home"><span class="glyphicon glyphicon-home" style="padding-right:10px;"></span>WELCOME</a></li>
+        <li><a style="color: #337ab7;" data-toggle="tab" href="#info"><span class="glyphicon glyphicon-info-sign" style="padding-right:10px;"></span>CLAN</a></li>
         <!-- INACTIVE EVENTS
 	<li><a style="color: #ff6d10 !important;" data-toggle="tab" href="#division">THE DIVISION</a></li>                			
                 			*********************** -->
-        <li class="active"><a style="color: white;" data-toggle="tab" href="#destiny">DESTINY</a></li>
+        <li><a style="color: #337ab7;" data-toggle="tab" href="#destinynews">DESTINY NEWS</a></li>
+	<li><a style="color: #337ab7;" data-toggle="tab" href="#bungie">@BUNGIE</a></li>                			
         <li><a style="color: #6441a5 !important;" data-toggle="tab" href="#twitch"><span class="glyphicon glyphicon-facetime-video" style="padding-right:10px;"></span>TWITCH</a></li>
 </ul>
 
 <!-- Nav Pills -->
 
 <div class="row">
-  	<div class="col-sm-3" style="padding-right: 5px;">
+  	<!-- INACTIVE EVENTS
+      		<div class="col-sm-3" style="padding-right: 5px;">
   	        <div class="tab-content">
-      			<!-- INACTIVE EVENTS
       			<div id="division" class="tab-pane fade in">
                 	    	<ul class="nav nav-pills nav-stacked" style="background-color: #202020; color: #428bca; border-collapse:collapse;">
                 		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a style="color: #ff6d10 !important;" data-toggle="tab" href="#divisionnews"><small><span class="glyphicon glyphicon-th-list" style="padding-right:10px;"></span>News</small></a></li>
@@ -32,14 +33,11 @@
                 		
                     		</ul>
                     	</div>
-                    		*********************** -->
+                    		
                     	<div id="destiny" class="tab-pane fade in active">
                 	    	<ul class="nav nav-pills nav-stacked" style="background-color: #202020; color: #428bca; border-collapse:collapse;">
-                		      	<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#destinynews"><small><span class="glyphicon glyphicon-th-list" style="padding-right:10px;"></span>Destiny News</small></a></li>
-                                        <li style="border-bottom: 1px solid white; border-collapse:collapse;"><a href="http://whereisxur.com/" target="_blank">XUR</a></li>
-                			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#bungie"><small><span class="glyphicon glyphicon-exclamation-sign" style="padding-right:10px;"></span>Bungie Twitter</small></a></li>
+                		      	
                 			
-                			<!-- INACTIVE EVENTS
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#NF"><small><img src="http://vignette4.wikia.nocookie.net/destinypedia/images/4/44/Nightfall_skull_icon.png/revision/latest/scale-to-width-down/30?cb=20150711201441&amp;format=webp" alt="Nightfall skull icon" title="Nightfall" width="24" height="14" style="padding-right:10px;">Nightfall Strike</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#CoE"><small>Challenge of Elders</small></a></li>
                 			<li style="border-bottom: 1px solid white; border-collapse:collapse;"><a data-toggle="tab" href="#PoE"><small>Prison of Elders</small></a></li>
@@ -58,29 +56,40 @@
                 			<li><a data-toggle="tab" style="text-align:center;" href="#PoE">PRISON OF ELDERS</a></li>
                 			<li><a data-toggle="tab" style="text-align:center;" href="#RR">the100.io Raid Race</a></li>
                 			<li><a data-toggle="tab" style="text-align:center;" href="#SRL">SPARROW RACING LEAGUE</a></li>
-                			*********************** -->
+                			
                     		</ul>
                   	</div>
                  </div>   		
   	</div>
-        
-        <div class="col-sm-9" style="padding-left: 5px;">
+        *********************** -->
+        <div class="col-sm-12" style="padding-left: 5px;">
     		<div class="tab-content">
       			<div id="home" class="tab-pane fade in active">
-        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
-          				<img src="http://i.imgur.com/bkQKyt2.png" style="text-align:center;" width="100%" alt="Iron Banner" title="Iron Banner logo"></h3>
+        			<div class="well well-dark-transparent" style="overflow:auto; height:650px;">
+          				<p style="text-align:center;"><img src="http://i.imgur.com/bkQKyt2.png" style="text-align:center;" width="65%" alt="Iron Banner" title="Iron Banner logo"></p>
 			    	        <p>To EC453 aka the shit show / bad blood / too many cooks. Where the expectation of skill is directly proportional to the expectations of Neo to fall asleep before a session. The average age is old enough to remember Tamagotchis, with one exception (Animosity), who is old enough to remember walking with dinosaurs. Some of us are parents and some of us act like children. Most games are at night, after G.T.L. in NJ (6 PM EST). Stay active in the chat so you know who is being made fun of this week.</p>
-          				<br>
-          				<a class="btn btn-default btn-block" href="https://www.the100.io/supporters" class="btn btn-primary">Become a <span class="glyphicon glyphicon-fire"></span> Supporter</a>
-			    		<br><br><p style="padding: 15px; background-color: rgb(135, 30, 30); font-size: 12px;"><strong>NOTICE:</strong><br>
-			    		PLEASE SET ALL NEW GAME SESSIONS TO GROUP ONLY.<br>
-		      			We are a group that likes to play together and would prefer not to be a platform for making lfg games. Just make sure to tick the group only box when you make the session. Please be active in the chat and join/create games often. Just don't be a try hard.</p><br>
-		      			<br>
-		      			<p style="padding:10px 0 0; border-top:1px solid #aaaaaa;"><a data-toggle="tab" class="btn btn-primary btn-block" href="#info">JOIN OUR DESTINY CLAN HERE</a></p>
+          				<div class="well well-dark-transparent" style="font-size: 13px;">
+						<p style="font-size: 20px; color: red; text-align:center;"><strong>TIPS FOR CREATING SESSIONS</strong></p>
+						<p><b>1.</b> When scheduling sessions, try and keep them as group only until the last day (or hours) before they start. This gives group and clan members a chance to see the session and join it. However, if it's a last minute session, make it public for all of the100 to see.</p> 
+						<p><b>2.</b> After joining a session, make sure to be ready to join the game on time, or send a message to someone in the group. This includes reserves. If you sign up as a reserve for a game session, you should be available at that time, as if you were on the starting roster, until you see the session has started in game. Note: We are pretty chill here, and won't usually report anyone (shit happens, kids, emergencies, etc.), however, continuously signing up and missing games with little or no notice, will result in reports from players in that session or mods.</p>  
+						<p><b>3.</b> If you are new, don't hesitate to post up a session. The process is very painless, and many of us here like to help people complete strikes, raids, etc. Posting gives you the benefits of picking the day, time, and specific activity. Don't be afraid to post if there are a lot of sessions already up.</p> 
+						<p><b>4.</b> If you create a session and nobody joins and you want to cancel it, click the link to edit the session. Near the top of the edit session page is a link to delete the game. Having empty sessions unnecessarily pushes other sessions to be listed on the second, third, and so on, pages.</p> 
+					</div> 					
+		      			<p style="padding:10px 0 0; border-top:1px solid #aaaaaa;"><a class="btn btn-primary btn-block" href="https://www.the100.io/supporters" class="btn btn-primary">Become a <span class="glyphicon glyphicon-fire"></span> Supporter</a></p>
+		    		</div>
+      			</div>
+      			<div id="destinynews" class="tab-pane fade">
+        			<div class="well well-dark-transparent" style="overflow:auto; height:650px;">
+          				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
+					<p style="color: #428bca !important;"> - SEP 27 - <a href="http://redd.it/54pt8t" target="_blank" style="color: #428bca !important;">Weekly Reset Thread</a></p>
+					<p style="color: #428bca !important;"> - SEP 29 - <a href="https://www.reddit.com/r/DestinyTheGame/comments/554eoc/this_week_at_bungie_09292016/" target="_blank" style="color: #428bca !important;">This Week At Bungie</a></p>
+					<p style="color: #428bca !important;"> - OCT 04 - <a data-toggle="tab" href="#IB" style="color: #428bca !important;">Iron Banner</a></p>
+					<p style="color: #428bca !important;"> - OCT 07 - <a data-toggle="tab" href="#ToO" style="color: #428bca !important;">Trials of Osiris</a></p>
+					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
 		    		</div>
       			</div>
       			<div id="info" class="tab-pane fade">
-				<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
+				<div class="well well-dark-transparent" style="overflow:auto; height:650px;">
 					<img src="http://i.imgur.com/wCWEKOI.png" style="text-align:center;" width="100%" alt="Iron Banner" title="Iron Banner logo"></h3>
 			    	        <br><br>
 			    	        <p>Our Bungie Clan, Echo Company 453 / Too Many Cooks, exists for earning achievements such as: Raiding Party, Flawless Raider, Strength of the Pack, etc.  Communication and Scheduling should be done through this site.</p>
@@ -728,19 +737,7 @@
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
 			</div>
-			<div id="destinynews" class="tab-pane fade">
-        			<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
-          				<h3 style="font-size: 24px; text-align:center; border-bottom: 2px solid #8d8c91; margin: 0px 0px 30px; padding: 5px 0px 5px;">News and Upcoming Events</h3>
-					<!--<p style="color: #428bca !important;"> - APR 06 - Destiny - <a data-toggle="tab" href="#BR" style="color: #428bca !important;">April Update Preview: Sandbox and Crucible Updates</a></p>-->
-					<p style="color: #428bca !important;"> - MAY 03 - Destiny - <a data-toggle="tab" href="#destinyupdates" style="color: #428bca !important;">Destiny Hot Fix 2.2.0.2</a></p>
-					<p style="color: #428bca !important;"> - MAY 12 - Destiny - <a href="https://www.reddit.com/r/DestinyTheGame/comments/4j31u3/this_week_at_bungie_05122016/" target="_blank" style="color: #428bca !important;">This Week at Bungie</a></p>
-					<p style="color: #428bca !important;"> - MAY 18 - Destiny - <a href="https://www.reddit.com/r/DestinyTheGame/comments/4jtbhz/bungie_raid_along_kings_fall/" target="_blank" style="color: #428bca !important;">Bungie Kings Fall Ride Along</a></p>
-					<p style="color: #428bca !important;"> - MAY 20 - Destiny - <a data-toggle="tab" href="#ToO" style="color: #428bca !important;">Trials of Osiris</a></p>
-					<p style="color: #428bca !important;"> - MAY 31 - Destiny - <a data-toggle="tab" href="#IB" style="color: #428bca !important;">TBD Iron Banner</a></p>
-					<p style="padding:15px 0px 0px; border-top: 2px solid #8d8c91;"><a data-toggle="tab" class="btn btn-primary" href="#home">Return Home</a>
-		    		</div>
-      			</div>
-      			
+			
 			<div id="NF" class="tab-pane fade">
 		      		<div class="well well-dark-transparent" style="overflow:auto; height:590px;">
 		          		<table align="center" style="font-size: 16px;">
@@ -1638,7 +1635,7 @@
 				</div>
 			</div>
 			<div id="twitch" class="tab-pane">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:650px;">
 					<h3 style="font-size: 24px; text-align:center; margin: 0px 0px 30px; padding: 5px 0px 5px;"><img src="http://i.imgur.com/LPgEQGG.jpg" width="100%" height="px"alt="twitch" title="twitch"></h3>
 					<div class="row">
 		                                <div class="col-md-6">
@@ -1930,7 +1927,7 @@
 				</div>
 			</div>
 			<div id="bungie" class="tab-pane">
-				<div class="well well-dark-transparent text-center" style="overflow:auto; height:590px;">
+				<div class="well well-dark-transparent text-center" style="overflow:auto; height:650px;">
 					<a class="twitter-timeline" href="https://twitter.com/Bungie" data-widget-id="693068913672900609">Tweets by @Bungie</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 				</div>
