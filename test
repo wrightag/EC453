@@ -1,0 +1,15 @@
+<div class="col-sm-4">
+			<h3>Quick Links</h3>
+		  	<hr>
+			<br><br>
+			<div class="btn-group-vertical">
+  				<button type="button" class="btn btn-primary" target="_blank" href="https://the100io.zendesk.com/hc/en-us">HELP ARTICLES/FAQ</button>
+  				<button type="button" class="btn btn-primary" target="_blank" href="https://the100.uservoice.com">SUGGEST FEATURES</button>
+				<button type="button" class="btn btn-primary" target="_blank" href="https://play.google.com/store/apps/details?id=io.the100.mobile"><img src="http://icons.iconarchive.com/icons/dakirby309/simply-styled/128/Google-Play-Store-icon.png" title="android" height="25" style="padding-right:10px;">ANDROID APP</button>
+				<button type="button" class="btn btn-primary" target="_blank" href="https://itunes.apple.com/us/app/the100.io-group-matchmaking/id972830288?mt=8"><img src="http://icons.iconarchive.com/icons/danleech/simple/128/apple-icon.png" title="apple" height="25" style="padding-right:10px;">iOS APP</button>
+				<button type="button" class="btn btn-primary" target="_blank" href="https://www.the100.io/discord-bot-for-destiny-2"><img src="https://discordapp.com/assets/28174a34e77bb5e5310ced9f95cb480b.png" title="discordbot" height="25" style="padding-right:10px;">BOT SETUP</button>
+				<button type="button" class="btn btn-primary" target="_blank" href="https://discord.gg/FTDeeXA"><img src="https://discordapp.com/assets/28174a34e77bb5e5310ced9f95cb480b.png" title="discord" height="25" style="padding-right:10px;">JOIN DISCORD</button>
+				<button type="button" class="btn btn-primary" target="_blank" href="https://twitter.com/the100_io"><img src="http://icons.iconarchive.com/icons/sicons/basic-round-social/512/twitter-icon.png" title="twitter" height="25" style="padding-right:10px;">FOLLOW</button>
+				<button type="button" class="btn btn-primary" target="_blank" href="https://www.youtube.com/channel/UCzEHmnqRFZydKYrswHt7flQ"><img src="http://icons.iconarchive.com/icons/danleech/simple/512/youtube-icon.png" title="youtube" height="25" style="padding-right:10px;">SUBSCRIBE</button>
+			</div>
+		</div>
